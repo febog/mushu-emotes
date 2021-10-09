@@ -1,5 +1,6 @@
 require("dotenv").config();
 const axios = require("axios");
+const fs = require("fs");
 
 class Emote {
   /**
@@ -55,8 +56,17 @@ async function updateEmoteList() {
     bttvChannelResponse.data.channelEmotes.length +
     bttvChannelResponse.data.sharedEmotes.length;
   let count = new Count(ffzCount, bttvCount, ffzCount + bttvCount);
-  console.log(count);
   console.log("Number of emotes loaded: ", emoteList.length);
+
+  // Write results
+  fs.writeFile("docs/_data/emotes.json", JSON.stringify(emoteList), (error) => {
+    // In case of a error throw err exception.
+    if (error) throw err;
+  });
+  fs.writeFile("docs/_data/stats.json", JSON.stringify(count), (error) => {
+    // In case of a error throw err exception.
+    if (error) throw err;
+  });
 }
 
 updateEmoteList();
