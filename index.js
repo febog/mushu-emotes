@@ -58,6 +58,9 @@ async function updateEmoteList() {
   let count = new Count(ffzCount, bttvCount, ffzCount + bttvCount);
   console.log("Number of emotes loaded: ", emoteList.length);
 
+  // Sort emotes by name
+  emoteList.sort((a, b) => (a.name > b.name ? 1 : -1));
+
   // Write results
   fs.writeFile(
     "docs/_data/emotes.json",
