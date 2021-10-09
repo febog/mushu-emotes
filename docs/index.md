@@ -1,4 +1,25 @@
 <style type="text/css">
+  body {
+    background-color: #171717;
+    color: #efefef;
+  }
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  th,
+  a small {
+    color: #efefef;
+  }
+  a {
+    color: #3ca9f7;
+  }
+  a:hover,
+  a:focus {
+    color: #2483c7;
+  }
   .emote-thumbnail {
     height: 100%;
     max-height: 32px;
