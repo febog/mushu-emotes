@@ -39,6 +39,11 @@
   </tbody>
 </table>
 
+<p>
+  <small>Last updated: {{ site.time }}</small>
+</p>
+
+
 ## Emotes
 
 <style type="text/css">
