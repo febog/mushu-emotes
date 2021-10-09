@@ -41,8 +41,8 @@ Data load
 
 <style type="text/css">
   .emote-thumbnail {
-    width: 100%;
-    max-width: 50px;
+    height: 100%;
+    max-height: 50px;
   }
 </style>
 
