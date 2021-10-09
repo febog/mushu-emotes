@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/febog/mushu-emotes/issues"
   },
-  "homepage": "https://github.com/febog/mushu-emotes#readme"
+  "homepage": "https://github.com/febog/mushu-emotes#readme",
+  "dependencies": {
+    "axios": "^0.22.0"
+  }
 }
