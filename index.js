@@ -12,7 +12,6 @@ class Emote {
    * @param {string} type {FFZ, BTTV Channel, BTTV Shared}
    */
   constructor(name, id, img_url, page_url, type) {
-    // Constructor
     this.name = name;
     this.id = id;
     this.img_url = img_url;
@@ -23,7 +22,6 @@ class Emote {
 
 class Count {
   constructor(ffzCount, bttvCount, totalCount) {
-    // Constructor
     this.ffzCount = ffzCount;
     this.bttvCount = bttvCount;
     this.totalCount = totalCount;
