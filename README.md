@@ -1,4 +1,4 @@
-# Mushu's emotes
+# Mushu's emotes 🐉
 
 Welcome!
 
