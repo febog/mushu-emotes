@@ -24,7 +24,7 @@
     </tr>
     <tr>
       <th>FFZ</th>
-      <td>{{ stats.ffZCount }}</td>
+      <td>{{ stats.ffzCount }}</td>
       <td>
         <a href="https://www.frankerfacez.com/channel/mushu">
           Mushu - FrankerFaceZ

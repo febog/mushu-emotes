@@ -21,9 +21,9 @@ class Emote {
 }
 
 class Count {
-  constructor(ffZCount, bttvCount, totalCount) {
+  constructor(ffzCount, bttvCount, totalCount) {
     // Constructor
-    this.ffZCount = ffZCount;
+    this.ffzCount = ffzCount;
     this.bttvCount = bttvCount;
     this.totalCount = totalCount;
   }
