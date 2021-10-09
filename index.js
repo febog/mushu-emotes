@@ -43,10 +43,10 @@ async function updateEmoteList() {
     process.env.BTTV_CHANNEL_EMOTES_URL
   );
   bttvChannelResponse.data.channelEmotes.map((e) =>
-    emoteList.push(getBttvEmote(e, "BTTV Channel"))
+    emoteList.push(getBttvEmote(e, "BTTV"))
   );
   bttvChannelResponse.data.sharedEmotes.map((e) =>
-    emoteList.push(getBttvEmote(e, "BTTV Shared"))
+    emoteList.push(getBttvEmote(e, "BTTV"))
   );
 
   // Count emotes
