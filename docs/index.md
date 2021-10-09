@@ -39,14 +39,33 @@ HTML in Markdown
 
 Data load
 
-<ul>
-{% for emote in site.data.emotes %}
-  <li>
-    <a href="https://example.com/{{ emote.id }}">
-      {{ emote.name }}
-    </a>
-  </li>
-{% endfor %}
-</ul>
+<style type="text/css">
+  .emote-thumbnail {
+    width: 100%;
+    max-width: 50px;
+  }
+</style>
 
-Image test.
+<table>
+  <thead>
+    <tr>
+      <th>Emote</th>
+      <th>Name</th>
+      <th>Type</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img
+          class="emote-thumbnail"
+          src="{{ emote.img_url }}"
+          alt="{{ emote.name }}"
+          title="{{ emote.name }}"
+        />
+      </td>
+      <td><a href="{{ emote.page_url }}"> {{ emote.name }} </a></td>
+      <td>{{ emote.type }}</td>
+    </tr>
+  </tbody>
+</table>
