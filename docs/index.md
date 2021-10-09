@@ -16,9 +16,11 @@
     <tr>
       <th>BTTV</th>
       <td>{{ stats.bttvCount }}</td>
-      <a href="https://betterttv.com/users/5ad749ca77a09f45f07746d7">
-        BetterTTV - Mushu's emotes
-      </a>
+      <td>
+        <a href="https://betterttv.com/users/5ad749ca77a09f45f07746d7">
+          BetterTTV - Mushu's emotes
+        </a>
+      </td>
     </tr>
     <tr>
       <th>FFZ</th>
