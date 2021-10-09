@@ -1,3 +1,11 @@
+<style type="text/css">
+  .emote-thumbnail {
+    height: 100%;
+    max-height: 32px;
+    max-width: 100px;
+  }
+</style>
+
 # Channel emotes
 
 ## Stats
@@ -43,16 +51,7 @@
   <small>Last updated: {{ site.time }}</small>
 </p>
 
-
 ## Emotes
-
-<style type="text/css">
-  .emote-thumbnail {
-    height: 100%;
-    max-height: 32px;
-    max-width: 100px;
-  }
-</style>
 
 <table>
   <thead>
