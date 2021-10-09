@@ -1,2 +1,5 @@
-# mushu-emotes
-Twitch emotes for Mushu's channel
+# Mushu's emotes
+
+Welcome!
+
+This is a small website for keeping track of Mushu's Twitch channel FFZ and BTTV emotes.
