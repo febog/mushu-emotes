@@ -45,6 +45,7 @@
   .emote-thumbnail {
     height: 100%;
     max-height: 50px;
+    max-width: 100px;
   }
 </style>
 
