@@ -20,6 +20,15 @@ class Emote {
   }
 }
 
+class Count {
+  constructor(ffZCount, bttvCount, totalCount) {
+    // Constructor
+    this.ffZCount = ffZCount;
+    this.bttvCount = bttvCount;
+    this.totalCount = totalCount;
+  }
+}
+
 var emoteList = [];
 
 async function updateEmoteList() {
@@ -39,6 +48,14 @@ async function updateEmoteList() {
   bttvChannelResponse.data.sharedEmotes.map((e) =>
     emoteList.push(getBttvEmote(e, "BTTV Shared"))
   );
+
+  // Count emotes
+  let ffzCount = ffzResponse.data.sets[process.env.FFZ_SET_ID].emoticons.length;
+  let bttvCount =
+    bttvChannelResponse.data.channelEmotes.length +
+    bttvChannelResponse.data.sharedEmotes.length;
+  let count = new Count(ffzCount, bttvCount, ffzCount + bttvCount);
+  console.log(count);
   console.log("Number of emotes loaded: ", emoteList.length);
 }
 
