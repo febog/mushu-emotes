@@ -55,6 +55,7 @@ Data load
     </tr>
   </thead>
   <tbody>
+  {% for emote in site.data.emotes %}
     <tr>
       <td>
         <img
@@ -67,5 +68,6 @@ Data load
       <td><a href="{{ emote.page_url }}"> {{ emote.name }} </a></td>
       <td>{{ emote.type }}</td>
     </tr>
+  {% endfor %}
   </tbody>
 </table>
