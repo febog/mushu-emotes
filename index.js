@@ -59,12 +59,11 @@ async function updateEmoteList() {
   // Sort emotes by name
   emoteList.sort((a, b) => (a.name > b.name ? 1 : -1));
 
-  // Write results
+  // Format results as a JSON string and write to a file
   fs.writeFile(
     "docs/_data/emotes.json",
     JSON.stringify(emoteList, null, 2),
     (error) => {
-      // In case of a error throw err exception.
       if (error) throw err;
     }
   );
@@ -72,7 +71,6 @@ async function updateEmoteList() {
     "docs/_data/stats.json",
     JSON.stringify(count, null, 2),
     (error) => {
-      // In case of a error throw err exception.
       if (error) throw err;
     }
   );
