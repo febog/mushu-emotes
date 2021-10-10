@@ -97,7 +97,7 @@ function getBttvEmote(e, bttvType) {
  * @param {*} e Emote object from FFZ response
  */
 function getFfzEmote(e) {
-  // "4" URL is the highest resolution image
+  // "4" URL is the highest resolution image, if not available, use "1"
   let ffzEmoteUrl = `https:${e.urls["4"] || e.urls["1"]}`;
   let ffzEmotePage = `https://www.frankerfacez.com/emoticon/${e.id}-${e.name}`;
   let emote = new Emote(e.name, e.id, ffzEmoteUrl, ffzEmotePage, "FFZ");
