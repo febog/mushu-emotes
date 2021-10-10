@@ -91,7 +91,7 @@ function getBttvEmote(e, bttvType) {
 }
 
 /**
- * Parse BTTV response and return an emote
+ * Parse FFZ response and return an emote
  * @param {*} e Emote object from FFZ response
  */
 function getFfzEmote(e) {
