@@ -308,13 +308,6 @@
     "type": "FFZ"
   },
   {
-    "name": "KKozy",
-    "id": 358442,
-    "img_url": "https://cdn.frankerfacez.com/emote/358442/4",
-    "page_url": "https://www.frankerfacez.com/emoticon/358442-KKozy",
-    "type": "FFZ"
-  },
-  {
     "name": "LETMEIN",
     "id": "607519fc39b5010444cfe376",
     "img_url": "https://cdn.betterttv.net/emote/607519fc39b5010444cfe376/3x",
@@ -495,13 +488,6 @@
     "img_url": "https://cdn.frankerfacez.com/emote/318195/4",
     "page_url": "https://www.frankerfacez.com/emoticon/318195-PeepoFinger",
     "type": "FFZ"
-  },
-  {
-    "name": "PeepoJuice",
-    "id": "5deaecf4515a2a77bc9e94ab",
-    "img_url": "https://cdn.betterttv.net/emote/5deaecf4515a2a77bc9e94ab/3x",
-    "page_url": "https://betterttv.com/emotes/5deaecf4515a2a77bc9e94ab",
-    "type": "BTTV"
   },
   {
     "name": "PeepoShu",
@@ -869,9 +855,9 @@
   },
   {
     "name": "monkaW",
-    "id": 399763,
-    "img_url": "https://cdn.frankerfacez.com/emote/399763/4",
-    "page_url": "https://www.frankerfacez.com/emoticon/399763-monkaW",
+    "id": 522921,
+    "img_url": "https://cdn.frankerfacez.com/emote/522921/4",
+    "page_url": "https://www.frankerfacez.com/emoticon/522921-monkaW",
     "type": "FFZ"
   },
   {
@@ -994,6 +980,13 @@
     "type": "BTTV"
   },
   {
+    "name": "mushuWeen",
+    "id": "61645124b63cc97ee6d5c98b",
+    "img_url": "https://cdn.betterttv.net/emote/61645124b63cc97ee6d5c98b/3x",
+    "page_url": "https://betterttv.com/emotes/61645124b63cc97ee6d5c98b",
+    "type": "BTTV"
+  },
+  {
     "name": "nymnCorn",
     "id": "56cb56f5500cb4cf51e25b90",
     "img_url": "https://cdn.betterttv.net/emote/56cb56f5500cb4cf51e25b90/3x",
@@ -1082,6 +1075,13 @@
     "id": "61574d05b63cc97ee6d44a36",
     "img_url": "https://cdn.betterttv.net/emote/61574d05b63cc97ee6d44a36/3x",
     "page_url": "https://betterttv.com/emotes/61574d05b63cc97ee6d44a36",
+    "type": "BTTV"
+  },
+  {
+    "name": "peepoJuice",
+    "id": "615a223fb63cc97ee6d4ade3",
+    "img_url": "https://cdn.betterttv.net/emote/615a223fb63cc97ee6d4ade3/3x",
+    "page_url": "https://betterttv.com/emotes/615a223fb63cc97ee6d4ade3",
     "type": "BTTV"
   },
   {
@@ -1174,6 +1174,13 @@
     "img_url": "https://cdn.betterttv.net/emote/600f66f7f5d29f65e86d9153/3x",
     "page_url": "https://betterttv.com/emotes/600f66f7f5d29f65e86d9153",
     "type": "BTTV"
+  },
+  {
+    "name": "ppL",
+    "id": 397089,
+    "img_url": "https://cdn.frankerfacez.com/emote/397089/4",
+    "page_url": "https://www.frankerfacez.com/emoticon/397089-ppL",
+    "type": "FFZ"
   },
   {
     "name": "ppOverheat",
