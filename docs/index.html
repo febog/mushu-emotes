@@ -27,9 +27,9 @@
   }
 </style>
 
-# Channel emotes
+<h1>Channel emotes</h1>
 
-## Stats
+<h2>Stats</h2>
 
 {% assign stats = site.data.stats %}
 
@@ -72,7 +72,7 @@
   <small>Last updated: {{ site.time }}</small>
 </p>
 
-## Emotes
+<h2>Emotes</h2>
 
 <table>
   <thead>
@@ -83,7 +83,7 @@
     </tr>
   </thead>
   <tbody>
-  {% for emote in site.data.emotes %}
+    {% for emote in site.data.emotes %}
     <tr>
       <td>
         <img
@@ -96,6 +96,6 @@
       <td><a href="{{ emote.page_url }}"> {{ emote.name }} </a></td>
       <td>{{ emote.type }}</td>
     </tr>
-  {% endfor %}
+    {% endfor %}
   </tbody>
 </table>
