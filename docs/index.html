@@ -31,15 +31,17 @@ title: Mushu's emotes
     </style>
     <title>{{ page.title }}</title>
   </head>
-  <body>
+  <body class="bg-dark text-light">
     <div class="container">
       <h1>{{ page.title }}</h1>
+
+      <p>Chat emotes for Mushu's channel.</p>
 
       <h2>Stats</h2>
 
       {% assign stats = site.data.stats %}
 
-      <table class="table">
+      <table class="table table-dark">
         <thead>
           <tr>
             <th>Extension</th>
@@ -74,15 +76,13 @@ title: Mushu's emotes
         </tbody>
       </table>
 
-      <p>
-        <small>Last updated: {{ site.time }}</small>
-      </p>
+      <p><small>Last updated: {{ site.time }}</small></p>
 
       <h2>Emotes</h2>
 
       <p>List of currently enabled emotes in the channel.</p>
 
-      <table class="table use-data-tables">
+      <table class="table table-dark use-data-tables">
         <thead>
           <tr>
             <th>Emote</th>
@@ -107,6 +107,9 @@ title: Mushu's emotes
           {% endfor %}
         </tbody>
       </table>
+
+      <p>Project maintained by <a href="https://github.com/febog">febog</a></p>
+      <!-- Container end -->
     </div>
 
     <!-- Scripts -->
