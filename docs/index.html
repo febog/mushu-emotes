@@ -31,7 +31,7 @@ title: Mushu's emotes
     </style>
     <title>{{ page.title }}</title>
   </head>
-  <body class="bg-dark text-light">
+  <body class="bg-dark text-light" style="--bs-dark-rgb: 23, 23, 23">
     <div class="container">
       <h1 class="display-4 mt-4">{{ page.title }}</h1>
 
@@ -41,7 +41,7 @@ title: Mushu's emotes
 
       {% assign stats = site.data.stats %}
 
-      <table class="table table-dark table-sm">
+      <table class="table table-dark table-sm" style="--bs-table-bg: #171717">
         <thead>
           <tr>
             <th>Extension</th>
@@ -82,7 +82,10 @@ title: Mushu's emotes
 
       <p>List of currently enabled emotes in the channel.</p>
 
-      <table class="table table-dark table-sm use-data-tables">
+      <table
+        class="table table-dark table-sm use-data-tables"
+        style="--bs-table-bg: #171717"
+      >
         <thead>
           <tr>
             <th>Emote</th>
@@ -93,7 +96,7 @@ title: Mushu's emotes
         <tbody>
           {% for emote in site.data.emotes %}
           <tr>
-            <td>
+            <td class="align-middle">
               <img
                 class="emote-thumbnail"
                 src="{{ emote.img_url }}"
@@ -101,8 +104,10 @@ title: Mushu's emotes
                 title="{{ emote.name }}"
               />
             </td>
-            <td><a href="{{ emote.page_url }}"> {{ emote.name }} </a></td>
-            <td>{{ emote.type }}</td>
+            <td class="align-middle">
+              <a href="{{ emote.page_url }}"> {{ emote.name }} </a>
+            </td>
+            <td class="align-middle">{{ emote.type }}</td>
           </tr>
           {% endfor %}
         </tbody>
@@ -112,7 +117,10 @@ title: Mushu's emotes
 
       <p>List of all the emotes that have ever been enabled in the channel.</p>
 
-      <table class="table table-dark table-sm use-data-tables">
+      <table
+        class="table table-dark table-sm use-data-tables"
+        style="--bs-table-bg: #171717"
+      >
         <thead>
           <tr>
             <th>Emote</th>
@@ -123,7 +131,7 @@ title: Mushu's emotes
         <tbody>
           {% for emote in site.data.archive %}
           <tr>
-            <td>
+            <td class="align-middle">
               <img
                 class="emote-thumbnail"
                 src="{{ emote.img_url }}"
@@ -131,8 +139,10 @@ title: Mushu's emotes
                 title="{{ emote.name }}"
               />
             </td>
-            <td><a href="{{ emote.page_url }}"> {{ emote.name }} </a></td>
-            <td>{{ emote.type }}</td>
+            <td class="align-middle">
+              <a href="{{ emote.page_url }}"> {{ emote.name }} </a>
+            </td>
+            <td class="align-middle">{{ emote.type }}</td>
           </tr>
           {% endfor %}
         </tbody>
