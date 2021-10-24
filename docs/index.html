@@ -108,6 +108,36 @@ title: Mushu's emotes
         </tbody>
       </table>
 
+      <h2>Archive</h2>
+
+      <p>List of all the emotes that have ever been enabled in the channel.</p>
+
+      <table class="table table-dark table-sm use-data-tables">
+        <thead>
+          <tr>
+            <th>Emote</th>
+            <th>Name</th>
+            <th>Type</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for emote in site.data.archive %}
+          <tr>
+            <td>
+              <img
+                class="emote-thumbnail"
+                src="{{ emote.img_url }}"
+                alt="{{ emote.name }}"
+                title="{{ emote.name }}"
+              />
+            </td>
+            <td><a href="{{ emote.page_url }}"> {{ emote.name }} </a></td>
+            <td>{{ emote.type }}</td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+
       <p class="text-secondary">
         <small
           >Project maintained by <a href="https://github.com/febog">febog</a>.
