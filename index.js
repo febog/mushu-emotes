@@ -77,9 +77,13 @@ async function updateEmoteList() {
         console.log("Adding to archive: ", emote);
       }
     });
-    fs.writeFile(ARCHIVE_PATH, JSON.stringify(emoteList, null, 2), (error) => {
-      if (error) throw err;
-    });
+    fs.writeFile(
+      ARCHIVE_PATH,
+      JSON.stringify(emoteArchive, null, 2),
+      (error) => {
+        if (error) throw err;
+      }
+    );
   });
 
   // Format results as a JSON string and write to a file
