@@ -88,7 +88,7 @@ async function updateEmoteList() {
       }
     });
     // Sort emotes by name
-    emoteArchive.sort((a, b) => (a.name > b.name ? 1 : -1));
+    emoteArchive.sort(emoteSort);
     fs.writeFile(
       ARCHIVE_PATH,
       JSON.stringify(emoteArchive, null, 2),
@@ -131,4 +131,21 @@ function getFfzEmote(e) {
   let ffzEmotePage = `https://www.frankerfacez.com/emoticon/${e.id}-${e.name}`;
   let emote = new Emote(e.name, e.id, ffzEmoteUrl, ffzEmotePage, "FFZ");
   return emote;
+}
+
+/**
+ * Sort emote by name and then by Id. To be passed to sort().
+ * @param {Object} a First emote
+ * @param {Object} b Second emote
+ */
+function emoteSort(a, b) {
+  if (a.name > b.name) {
+    return 1;
+  }
+
+  if (a.name < b.name) {
+    return -1;
+  }
+
+  return a.id.toString() > b.id.toString() ? 1 : -1;
 }
