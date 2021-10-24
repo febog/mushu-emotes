@@ -5,6 +5,7 @@ const fs = require("fs");
 // Paths for storing results
 const EMOTE_LIST_PATH = "docs/_data/emotes.json";
 const STATS_PATH = "docs/_data/stats.json";
+const ARCHIVE_PATH = "docs/_data/archive.json";
 
 class Emote {
   /**
@@ -62,6 +63,24 @@ async function updateEmoteList() {
 
   // Sort emotes by name
   emoteList.sort((a, b) => (a.name > b.name ? 1 : -1));
+
+  // Archive emotes if they don't exist yet in the emote archive
+  let emoteArchive = [];
+  fs.readFile(ARCHIVE_PATH, "utf8", function (err, data) {
+    if (err) {
+      return console.log(err);
+    }
+    emoteArchive = JSON.parse(data);
+    emoteList.forEach((emote) => {
+      if (emoteArchive.findIndex((archive) => archive.id === emote.id) === -1) {
+        emoteArchive.push(emote);
+        console.log("Adding to archive: ", emote);
+      }
+    });
+    fs.writeFile(ARCHIVE_PATH, JSON.stringify(emoteList, null, 2), (error) => {
+      if (error) throw err;
+    });
+  });
 
   // Format results as a JSON string and write to a file
   fs.writeFile(EMOTE_LIST_PATH, JSON.stringify(emoteList, null, 2), (error) => {
