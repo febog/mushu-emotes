@@ -1169,6 +1169,13 @@
     "type": "BTTV"
   },
   {
+    "name": "pepeD",
+    "id": "615a42c7b63cc97ee6d4b190",
+    "img_url": "https://cdn.betterttv.net/emote/615a42c7b63cc97ee6d4b190/3x",
+    "page_url": "https://betterttv.com/emotes/615a42c7b63cc97ee6d4b190",
+    "type": "BTTV"
+  },
+  {
     "name": "pepeJAM",
     "id": "5e1b09921df9195f1a4c2712",
     "img_url": "https://cdn.betterttv.net/emote/5e1b09921df9195f1a4c2712/3x",
@@ -1208,6 +1215,13 @@
     "id": "600f66f7f5d29f65e86d9153",
     "img_url": "https://cdn.betterttv.net/emote/600f66f7f5d29f65e86d9153/3x",
     "page_url": "https://betterttv.com/emotes/600f66f7f5d29f65e86d9153",
+    "type": "BTTV"
+  },
+  {
+    "name": "ppHop",
+    "id": "608e8c9e39b5010444d0a324",
+    "img_url": "https://cdn.betterttv.net/emote/608e8c9e39b5010444d0a324/3x",
+    "page_url": "https://betterttv.com/emotes/608e8c9e39b5010444d0a324",
     "type": "BTTV"
   },
   {
