@@ -64,6 +64,16 @@ async function updateEmoteList() {
   // Sort emotes by name
   emoteList.sort((a, b) => (a.name > b.name ? 1 : -1));
 
+  // Find duplicates in currently enabled emotes by iterating them since they
+  // are already sorted
+  let previousEmote = "";
+  emoteList.forEach((emote) => {
+    if (previousEmote === emote.name) {
+      console.log("Duplicate found:", emote.name);
+    }
+    previousEmote = emote.name;
+  });
+
   // Archive emotes if they don't exist yet in the emote archive
   let emoteArchive = [];
   fs.readFile(ARCHIVE_PATH, "utf8", function (err, data) {
