@@ -59,7 +59,7 @@ async function updateEmoteList() {
     bttvChannelResponse.data.channelEmotes.length +
     bttvChannelResponse.data.sharedEmotes.length;
   let count = new Count(ffzCount, bttvCount, ffzCount + bttvCount);
-  console.log("Number of emotes loaded: ", emoteList.length);
+  console.log("Number of emotes loaded:", emoteList.length);
 
   // Sort emotes by name
   emoteList.sort((a, b) => (a.name > b.name ? 1 : -1));
@@ -84,7 +84,7 @@ async function updateEmoteList() {
     emoteList.forEach((emote) => {
       if (emoteArchive.findIndex((archive) => archive.id === emote.id) === -1) {
         emoteArchive.push(emote);
-        console.log("Adding to archive: ", emote);
+        console.log("Adding to archive:", emote);
       }
     });
     // Sort emotes by name
