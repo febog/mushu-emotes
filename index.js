@@ -2,6 +2,10 @@ require("dotenv").config();
 const axios = require("axios");
 const fs = require("fs");
 
+// Paths for storing results
+const EMOTE_LIST_PATH = "docs/_data/emotes.json";
+const STATS_PATH = "docs/_data/stats.json";
+
 class Emote {
   /**
    * For every emote, we collect the following data:
@@ -60,20 +64,12 @@ async function updateEmoteList() {
   emoteList.sort((a, b) => (a.name > b.name ? 1 : -1));
 
   // Format results as a JSON string and write to a file
-  fs.writeFile(
-    "docs/_data/emotes.json",
-    JSON.stringify(emoteList, null, 2),
-    (error) => {
-      if (error) throw err;
-    }
-  );
-  fs.writeFile(
-    "docs/_data/stats.json",
-    JSON.stringify(count, null, 2),
-    (error) => {
-      if (error) throw err;
-    }
-  );
+  fs.writeFile(EMOTE_LIST_PATH, JSON.stringify(emoteList, null, 2), (error) => {
+    if (error) throw err;
+  });
+  fs.writeFile(STATS_PATH, JSON.stringify(count, null, 2), (error) => {
+    if (error) throw err;
+  });
 }
 
 updateEmoteList();
