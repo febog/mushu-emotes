@@ -77,6 +77,8 @@ async function updateEmoteList() {
         console.log("Adding to archive: ", emote);
       }
     });
+    // Sort emotes by name
+    emoteArchive.sort((a, b) => (a.name > b.name ? 1 : -1));
     fs.writeFile(
       ARCHIVE_PATH,
       JSON.stringify(emoteArchive, null, 2),
