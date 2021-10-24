@@ -106,9 +106,9 @@
   },
   {
     "name": "Clap",
-    "id": "55b6f480e66682f576dd94f5",
-    "img_url": "https://cdn.betterttv.net/emote/55b6f480e66682f576dd94f5/3x",
-    "page_url": "https://betterttv.com/emotes/55b6f480e66682f576dd94f5",
+    "id": "615a4a76b63cc97ee6d4b2f8",
+    "img_url": "https://cdn.betterttv.net/emote/615a4a76b63cc97ee6d4b2f8/3x",
+    "page_url": "https://betterttv.com/emotes/615a4a76b63cc97ee6d4b2f8",
     "type": "BTTV"
   },
   {
@@ -658,13 +658,6 @@
     "type": "BTTV"
   },
   {
-    "name": "SOBAD",
-    "id": "6092bc7f39b5010444d0c173",
-    "img_url": "https://cdn.betterttv.net/emote/6092bc7f39b5010444d0c173/3x",
-    "page_url": "https://betterttv.com/emotes/6092bc7f39b5010444d0c173",
-    "type": "BTTV"
-  },
-  {
     "name": "Sadge",
     "id": 518576,
     "img_url": "https://cdn.frankerfacez.com/emote/518576/4",
@@ -746,6 +739,13 @@
     "id": "60b8915bf8b3f62601c37c91",
     "img_url": "https://cdn.betterttv.net/emote/60b8915bf8b3f62601c37c91/3x",
     "page_url": "https://betterttv.com/emotes/60b8915bf8b3f62601c37c91",
+    "type": "BTTV"
+  },
+  {
+    "name": "WineTime",
+    "id": "6154dd7ab63cc97ee6d3f99f",
+    "img_url": "https://cdn.betterttv.net/emote/6154dd7ab63cc97ee6d3f99f/3x",
+    "page_url": "https://betterttv.com/emotes/6154dd7ab63cc97ee6d3f99f",
     "type": "BTTV"
   },
   {
@@ -963,6 +963,13 @@
     "id": "60664acea407570b72f295e6",
     "img_url": "https://cdn.betterttv.net/emote/60664acea407570b72f295e6/3x",
     "page_url": "https://betterttv.com/emotes/60664acea407570b72f295e6",
+    "type": "BTTV"
+  },
+  {
+    "name": "mushuSpace",
+    "id": "6172f10d78e76c144f05e60b",
+    "img_url": "https://cdn.betterttv.net/emote/6172f10d78e76c144f05e60b/3x",
+    "page_url": "https://betterttv.com/emotes/6172f10d78e76c144f05e60b",
     "type": "BTTV"
   },
   {

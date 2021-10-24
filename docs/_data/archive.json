@@ -106,6 +106,13 @@
   },
   {
     "name": "Clap",
+    "id": "615a4a76b63cc97ee6d4b2f8",
+    "img_url": "https://cdn.betterttv.net/emote/615a4a76b63cc97ee6d4b2f8/3x",
+    "page_url": "https://betterttv.com/emotes/615a4a76b63cc97ee6d4b2f8",
+    "type": "BTTV"
+  },
+  {
+    "name": "Clap",
     "id": "55b6f480e66682f576dd94f5",
     "img_url": "https://cdn.betterttv.net/emote/55b6f480e66682f576dd94f5/3x",
     "page_url": "https://betterttv.com/emotes/55b6f480e66682f576dd94f5",
@@ -749,6 +756,13 @@
     "type": "BTTV"
   },
   {
+    "name": "WineTime",
+    "id": "6154dd7ab63cc97ee6d3f99f",
+    "img_url": "https://cdn.betterttv.net/emote/6154dd7ab63cc97ee6d3f99f/3x",
+    "page_url": "https://betterttv.com/emotes/6154dd7ab63cc97ee6d3f99f",
+    "type": "BTTV"
+  },
+  {
     "name": "YEP",
     "id": 519341,
     "img_url": "https://cdn.frankerfacez.com/emote/519341/4",
@@ -966,6 +980,13 @@
     "type": "BTTV"
   },
   {
+    "name": "mushuSpace",
+    "id": "6172f10d78e76c144f05e60b",
+    "img_url": "https://cdn.betterttv.net/emote/6172f10d78e76c144f05e60b/3x",
+    "page_url": "https://betterttv.com/emotes/6172f10d78e76c144f05e60b",
+    "type": "BTTV"
+  },
+  {
     "name": "mushuSteer",
     "id": "611226f376ea4e2b9f765e97",
     "img_url": "https://cdn.betterttv.net/emote/611226f376ea4e2b9f765e97/3x",
@@ -1002,16 +1023,16 @@
   },
   {
     "name": "peepoArrive",
-    "id": "615737deb63cc97ee6d44657",
-    "img_url": "https://cdn.betterttv.net/emote/615737deb63cc97ee6d44657/3x",
-    "page_url": "https://betterttv.com/emotes/615737deb63cc97ee6d44657",
+    "id": "5fdb5bedc158a13494c41ad2",
+    "img_url": "https://cdn.betterttv.net/emote/5fdb5bedc158a13494c41ad2/3x",
+    "page_url": "https://betterttv.com/emotes/5fdb5bedc158a13494c41ad2",
     "type": "BTTV"
   },
   {
     "name": "peepoArrive",
-    "id": "5fdb5bedc158a13494c41ad2",
-    "img_url": "https://cdn.betterttv.net/emote/5fdb5bedc158a13494c41ad2/3x",
-    "page_url": "https://betterttv.com/emotes/5fdb5bedc158a13494c41ad2",
+    "id": "615737deb63cc97ee6d44657",
+    "img_url": "https://cdn.betterttv.net/emote/615737deb63cc97ee6d44657/3x",
+    "page_url": "https://betterttv.com/emotes/615737deb63cc97ee6d44657",
     "type": "BTTV"
   },
   {
