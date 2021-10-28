@@ -623,6 +623,13 @@
     "type": "FFZ"
   },
   {
+    "name": "PogTasty",
+    "id": "602a607c82b7c45eb1c94ac9",
+    "img_url": "https://cdn.betterttv.net/emote/602a607c82b7c45eb1c94ac9/3x",
+    "page_url": "https://betterttv.com/emotes/602a607c82b7c45eb1c94ac9",
+    "type": "BTTV"
+  },
+  {
     "name": "PogU",
     "id": 558117,
     "img_url": "https://cdn.frankerfacez.com/emote/558117/4",
@@ -669,6 +676,13 @@
     "id": "6092bc7f39b5010444d0c173",
     "img_url": "https://cdn.betterttv.net/emote/6092bc7f39b5010444d0c173/3x",
     "page_url": "https://betterttv.com/emotes/6092bc7f39b5010444d0c173",
+    "type": "BTTV"
+  },
+  {
+    "name": "SPRAY",
+    "id": "6156dc72b63cc97ee6d43917",
+    "img_url": "https://cdn.betterttv.net/emote/6156dc72b63cc97ee6d43917/3x",
+    "page_url": "https://betterttv.com/emotes/6156dc72b63cc97ee6d43917",
     "type": "BTTV"
   },
   {
