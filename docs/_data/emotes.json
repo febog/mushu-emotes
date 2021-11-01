@@ -679,6 +679,13 @@
     "type": "BTTV"
   },
   {
+    "name": "TeaTime",
+    "id": "56f6eb647ee3e8fc6e4fe48e",
+    "img_url": "https://cdn.betterttv.net/emote/56f6eb647ee3e8fc6e4fe48e/3x",
+    "page_url": "https://betterttv.com/emotes/56f6eb647ee3e8fc6e4fe48e",
+    "type": "BTTV"
+  },
+  {
     "name": "ViolinTime",
     "id": "601eca1df4d51165feda1236",
     "img_url": "https://cdn.betterttv.net/emote/601eca1df4d51165feda1236/3x",
@@ -1201,13 +1208,6 @@
     "id": "5fc5ab31e22688461fed5ba6",
     "img_url": "https://cdn.betterttv.net/emote/5fc5ab31e22688461fed5ba6/3x",
     "page_url": "https://betterttv.com/emotes/5fc5ab31e22688461fed5ba6",
-    "type": "BTTV"
-  },
-  {
-    "name": "teaTime",
-    "id": "60f0d6818ed8b373e4223144",
-    "img_url": "https://cdn.betterttv.net/emote/60f0d6818ed8b373e4223144/3x",
-    "page_url": "https://betterttv.com/emotes/60f0d6818ed8b373e4223144",
     "type": "BTTV"
   },
   {
