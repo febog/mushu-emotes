@@ -280,6 +280,13 @@
     "type": "FFZ"
   },
   {
+    "name": "KEKWAIT",
+    "id": 536630,
+    "img_url": "https://cdn.frankerfacez.com/emote/536630/4",
+    "page_url": "https://www.frankerfacez.com/emoticon/536630-KEKWAIT",
+    "type": "FFZ"
+  },
+  {
     "name": "KKomrade",
     "id": 145916,
     "img_url": "https://cdn.frankerfacez.com/emote/145916/4",
@@ -592,13 +599,6 @@
     "id": 555101,
     "img_url": "https://cdn.frankerfacez.com/emote/555101/4",
     "page_url": "https://www.frankerfacez.com/emoticon/555101-Pog",
-    "type": "FFZ"
-  },
-  {
-    "name": "PogOW",
-    "id": 608766,
-    "img_url": "https://cdn.frankerfacez.com/emote/608766/4",
-    "page_url": "https://www.frankerfacez.com/emoticon/608766-PogOW",
     "type": "FFZ"
   },
   {
