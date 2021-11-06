@@ -126,6 +126,13 @@
     "type": "FFZ"
   },
   {
+    "name": "COPIUM",
+    "id": 669560,
+    "img_url": "https://cdn.frankerfacez.com/emote/669560/4",
+    "page_url": "https://www.frankerfacez.com/emoticon/669560-COPIUM",
+    "type": "FFZ"
+  },
+  {
     "name": "Chatting",
     "id": "6105dfe62d1eba5400d2b603",
     "img_url": "https://cdn.betterttv.net/emote/6105dfe62d1eba5400d2b603/3x",
@@ -151,6 +158,13 @@
     "id": "615a4a76b63cc97ee6d4b2f8",
     "img_url": "https://cdn.betterttv.net/emote/615a4a76b63cc97ee6d4b2f8/3x",
     "page_url": "https://betterttv.com/emotes/615a4a76b63cc97ee6d4b2f8",
+    "type": "BTTV"
+  },
+  {
+    "name": "Clap2",
+    "id": "58484835f52be01a7ee5f11b",
+    "img_url": "https://cdn.betterttv.net/emote/58484835f52be01a7ee5f11b/3x",
+    "page_url": "https://betterttv.com/emotes/58484835f52be01a7ee5f11b",
     "type": "BTTV"
   },
   {
@@ -330,6 +344,13 @@
   },
   {
     "name": "Jammies",
+    "id": "5f9f59896f583802e38a4fdf",
+    "img_url": "https://cdn.betterttv.net/emote/5f9f59896f583802e38a4fdf/3x",
+    "page_url": "https://betterttv.com/emotes/5f9f59896f583802e38a4fdf",
+    "type": "BTTV"
+  },
+  {
+    "name": "Jammies",
     "id": "61353547af28e956864c1b25",
     "img_url": "https://cdn.betterttv.net/emote/61353547af28e956864c1b25/3x",
     "page_url": "https://betterttv.com/emotes/61353547af28e956864c1b25",
@@ -403,6 +424,13 @@
     "id": "6072c12539b5010444cfd137",
     "img_url": "https://cdn.betterttv.net/emote/6072c12539b5010444cfd137/3x",
     "page_url": "https://betterttv.com/emotes/6072c12539b5010444cfd137",
+    "type": "BTTV"
+  },
+  {
+    "name": "LOOTIES",
+    "id": "618231291f8ff7628e6c36a1",
+    "img_url": "https://cdn.betterttv.net/emote/618231291f8ff7628e6c36a1/3x",
+    "page_url": "https://betterttv.com/emotes/618231291f8ff7628e6c36a1",
     "type": "BTTV"
   },
   {
@@ -553,6 +581,20 @@
     "type": "BTTV"
   },
   {
+    "name": "OOOOBANG",
+    "id": "607f6dd039b5010444d032c9",
+    "img_url": "https://cdn.betterttv.net/emote/607f6dd039b5010444d032c9/3x",
+    "page_url": "https://betterttv.com/emotes/607f6dd039b5010444d032c9",
+    "type": "BTTV"
+  },
+  {
+    "name": "Oldge",
+    "id": 622435,
+    "img_url": "https://cdn.frankerfacez.com/emote/622435/4",
+    "page_url": "https://www.frankerfacez.com/emoticon/622435-Oldge",
+    "type": "FFZ"
+  },
+  {
     "name": "PETTHEMODS",
     "id": "5f468577afb6965d6e7ca5ab",
     "img_url": "https://cdn.betterttv.net/emote/5f468577afb6965d6e7ca5ab/3x",
@@ -620,6 +662,13 @@
     "id": 318195,
     "img_url": "https://cdn.frankerfacez.com/emote/318195/4",
     "page_url": "https://www.frankerfacez.com/emoticon/318195-PeepoFinger",
+    "type": "FFZ"
+  },
+  {
+    "name": "PeepoFinger",
+    "id": 669445,
+    "img_url": "https://cdn.frankerfacez.com/emote/669445/4",
+    "page_url": "https://www.frankerfacez.com/emoticon/669445-PeepoFinger",
     "type": "FFZ"
   },
   {
@@ -1218,6 +1267,13 @@
     "type": "BTTV"
   },
   {
+    "name": "mushuLaser",
+    "id": "618475be1f8ff7628e6c7beb",
+    "img_url": "https://cdn.betterttv.net/emote/618475be1f8ff7628e6c7beb/3x",
+    "page_url": "https://betterttv.com/emotes/618475be1f8ff7628e6c7beb",
+    "type": "BTTV"
+  },
+  {
     "name": "mushuLick",
     "id": "6165e327054a252a431ecd59",
     "img_url": "https://cdn.betterttv.net/emote/6165e327054a252a431ecd59/3x",
@@ -1310,6 +1366,13 @@
   },
   {
     "name": "peepoBlanket",
+    "id": "5fa1212e710f8302f0c9db96",
+    "img_url": "https://cdn.betterttv.net/emote/5fa1212e710f8302f0c9db96/3x",
+    "page_url": "https://betterttv.com/emotes/5fa1212e710f8302f0c9db96",
+    "type": "BTTV"
+  },
+  {
+    "name": "peepoBlanket",
     "id": "615e807eb63cc97ee6d52f64",
     "img_url": "https://cdn.betterttv.net/emote/615e807eb63cc97ee6d52f64/3x",
     "page_url": "https://betterttv.com/emotes/615e807eb63cc97ee6d52f64",
@@ -1334,6 +1397,13 @@
     "id": "611222b876ea4e2b9f765e34",
     "img_url": "https://cdn.betterttv.net/emote/611222b876ea4e2b9f765e34/3x",
     "page_url": "https://betterttv.com/emotes/611222b876ea4e2b9f765e34",
+    "type": "BTTV"
+  },
+  {
+    "name": "peepoCookies",
+    "id": "5ddda2becae6d75f02672c06",
+    "img_url": "https://cdn.betterttv.net/emote/5ddda2becae6d75f02672c06/3x",
+    "page_url": "https://betterttv.com/emotes/5ddda2becae6d75f02672c06",
     "type": "BTTV"
   },
   {
