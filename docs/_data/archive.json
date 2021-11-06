@@ -315,6 +315,13 @@
     "type": "BTTV"
   },
   {
+    "name": "HOPIUM",
+    "id": "6142a30b42092e37fb1ba89d",
+    "img_url": "https://cdn.betterttv.net/emote/6142a30b42092e37fb1ba89d/3x",
+    "page_url": "https://betterttv.com/emotes/6142a30b42092e37fb1ba89d",
+    "type": "BTTV"
+  },
+  {
     "name": "HYPERS",
     "id": 404579,
     "img_url": "https://cdn.frankerfacez.com/emote/404579/4",
@@ -1566,6 +1573,20 @@
     "img_url": "https://cdn.frankerfacez.com/emote/291850/4",
     "page_url": "https://www.frankerfacez.com/emoticon/291850-peepoWow",
     "type": "FFZ"
+  },
+  {
+    "name": "pepeBruh",
+    "id": "5f0a5e66a2ac620530369770",
+    "img_url": "https://cdn.betterttv.net/emote/5f0a5e66a2ac620530369770/3x",
+    "page_url": "https://betterttv.com/emotes/5f0a5e66a2ac620530369770",
+    "type": "BTTV"
+  },
+  {
+    "name": "pepeCOOL",
+    "id": "5f6c7f775ee8970b07687b42",
+    "img_url": "https://cdn.betterttv.net/emote/5f6c7f775ee8970b07687b42/3x",
+    "page_url": "https://betterttv.com/emotes/5f6c7f775ee8970b07687b42",
+    "type": "BTTV"
   },
   {
     "name": "pepeD",

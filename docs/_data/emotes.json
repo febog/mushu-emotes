@@ -28,13 +28,6 @@
     "type": "FFZ"
   },
   {
-    "name": "ApexChat",
-    "id": "61156b7276ea4e2b9f76d64e",
-    "img_url": "https://cdn.betterttv.net/emote/61156b7276ea4e2b9f76d64e/3x",
-    "page_url": "https://betterttv.com/emotes/61156b7276ea4e2b9f76d64e",
-    "type": "BTTV"
-  },
-  {
     "name": "Awkward",
     "id": "5e7dd9496d485d372b29f6f3",
     "img_url": "https://cdn.betterttv.net/emote/5e7dd9496d485d372b29f6f3/3x",
@@ -161,13 +154,6 @@
     "type": "BTTV"
   },
   {
-    "name": "FLUTERS",
-    "id": "5f4d5b91e6f15f6bf4572408",
-    "img_url": "https://cdn.betterttv.net/emote/5f4d5b91e6f15f6bf4572408/3x",
-    "page_url": "https://betterttv.com/emotes/5f4d5b91e6f15f6bf4572408",
-    "type": "BTTV"
-  },
-  {
     "name": "FeelsDankMan",
     "id": 403990,
     "img_url": "https://cdn.frankerfacez.com/emote/403990/4",
@@ -235,6 +221,13 @@
     "id": "5f914b3d40eb9502e222ae6a",
     "img_url": "https://cdn.betterttv.net/emote/5f914b3d40eb9502e222ae6a/3x",
     "page_url": "https://betterttv.com/emotes/5f914b3d40eb9502e222ae6a",
+    "type": "BTTV"
+  },
+  {
+    "name": "HOPIUM",
+    "id": "6142a30b42092e37fb1ba89d",
+    "img_url": "https://cdn.betterttv.net/emote/6142a30b42092e37fb1ba89d/3x",
+    "page_url": "https://betterttv.com/emotes/6142a30b42092e37fb1ba89d",
     "type": "BTTV"
   },
   {
@@ -749,13 +742,6 @@
     "type": "BTTV"
   },
   {
-    "name": "WineTime",
-    "id": "6027d4ae8fbb823604bde2b1",
-    "img_url": "https://cdn.betterttv.net/emote/6027d4ae8fbb823604bde2b1/3x",
-    "page_url": "https://betterttv.com/emotes/6027d4ae8fbb823604bde2b1",
-    "type": "BTTV"
-  },
-  {
     "name": "YEP",
     "id": 524260,
     "img_url": "https://cdn.frankerfacez.com/emote/524260/4",
@@ -1153,6 +1139,20 @@
     "img_url": "https://cdn.frankerfacez.com/emote/291850/4",
     "page_url": "https://www.frankerfacez.com/emoticon/291850-peepoWow",
     "type": "FFZ"
+  },
+  {
+    "name": "pepeBruh",
+    "id": "5f0a5e66a2ac620530369770",
+    "img_url": "https://cdn.betterttv.net/emote/5f0a5e66a2ac620530369770/3x",
+    "page_url": "https://betterttv.com/emotes/5f0a5e66a2ac620530369770",
+    "type": "BTTV"
+  },
+  {
+    "name": "pepeCOOL",
+    "id": "5f6c7f775ee8970b07687b42",
+    "img_url": "https://cdn.betterttv.net/emote/5f6c7f775ee8970b07687b42/3x",
+    "page_url": "https://betterttv.com/emotes/5f6c7f775ee8970b07687b42",
+    "type": "BTTV"
   },
   {
     "name": "pepeD",
