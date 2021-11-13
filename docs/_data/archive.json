@@ -301,6 +301,13 @@
     "type": "BTTV"
   },
   {
+    "name": "Gladge",
+    "id": 535018,
+    "img_url": "https://cdn.frankerfacez.com/emote/535018/4",
+    "page_url": "https://www.frankerfacez.com/emoticon/535018-Gladge",
+    "type": "FFZ"
+  },
+  {
     "name": "GuitarTime",
     "id": "576befd71f520d6039622f7e",
     "img_url": "https://cdn.betterttv.net/emote/576befd71f520d6039622f7e/3x",
@@ -595,6 +602,13 @@
     "type": "BTTV"
   },
   {
+    "name": "OOOO",
+    "id": "5feff41af58a572e54213427",
+    "img_url": "https://cdn.betterttv.net/emote/5feff41af58a572e54213427/3x",
+    "page_url": "https://betterttv.com/emotes/5feff41af58a572e54213427",
+    "type": "BTTV"
+  },
+  {
     "name": "OOOOBANG",
     "id": "607f6dd039b5010444d032c9",
     "img_url": "https://cdn.betterttv.net/emote/607f6dd039b5010444d032c9/3x",
@@ -662,6 +676,13 @@
     "id": 668556,
     "img_url": "https://cdn.frankerfacez.com/emote/668556/4",
     "page_url": "https://www.frankerfacez.com/emoticon/668556-PauseChamp",
+    "type": "FFZ"
+  },
+  {
+    "name": "PauseChamp",
+    "id": 669383,
+    "img_url": "https://cdn.frankerfacez.com/emote/669383/4",
+    "page_url": "https://www.frankerfacez.com/emoticon/669383-PauseChamp",
     "type": "FFZ"
   },
   {
@@ -931,6 +952,13 @@
     "type": "FFZ"
   },
   {
+    "name": "Sadge",
+    "id": 526276,
+    "img_url": "https://cdn.frankerfacez.com/emote/526276/4",
+    "page_url": "https://www.frankerfacez.com/emoticon/526276-Sadge",
+    "type": "FFZ"
+  },
+  {
     "name": "Spray",
     "id": "6048f3a3306b602acc59a598",
     "img_url": "https://cdn.betterttv.net/emote/6048f3a3306b602acc59a598/3x",
@@ -999,6 +1027,13 @@
     "img_url": "https://cdn.frankerfacez.com/emote/457124/4",
     "page_url": "https://www.frankerfacez.com/emoticon/457124-WICKED",
     "type": "FFZ"
+  },
+  {
+    "name": "WICKED",
+    "id": "617ee6591f8ff7628e6bcc16",
+    "img_url": "https://cdn.betterttv.net/emote/617ee6591f8ff7628e6bcc16/3x",
+    "page_url": "https://betterttv.com/emotes/617ee6591f8ff7628e6bcc16",
+    "type": "BTTV"
   },
   {
     "name": "WeSmart",
@@ -1377,6 +1412,13 @@
     "img_url": "https://cdn.betterttv.net/emote/615737deb63cc97ee6d44657/3x",
     "page_url": "https://betterttv.com/emotes/615737deb63cc97ee6d44657",
     "type": "BTTV"
+  },
+  {
+    "name": "peepoBlanket",
+    "id": 531459,
+    "img_url": "https://cdn.frankerfacez.com/emote/531459/4",
+    "page_url": "https://www.frankerfacez.com/emoticon/531459-peepoBlanket",
+    "type": "FFZ"
   },
   {
     "name": "peepoBlanket",
