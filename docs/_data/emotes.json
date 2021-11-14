@@ -70,6 +70,20 @@
     "type": "BTTV"
   },
   {
+    "name": "Bedge",
+    "id": "618a67711f8ff7628e6d1960",
+    "img_url": "https://cdn.betterttv.net/emote/618a67711f8ff7628e6d1960/3x",
+    "page_url": "https://betterttv.com/emotes/618a67711f8ff7628e6d1960",
+    "type": "BTTV"
+  },
+  {
+    "name": "BedgeMadge",
+    "id": 650817,
+    "img_url": "https://cdn.frankerfacez.com/emote/650817/4",
+    "page_url": "https://www.frankerfacez.com/emoticon/650817-BedgeMadge",
+    "type": "FFZ"
+  },
+  {
     "name": "BlobDance",
     "id": "5de265d260bd0702dc510c5e",
     "img_url": "https://cdn.betterttv.net/emote/5de265d260bd0702dc510c5e/3x",
@@ -123,13 +137,6 @@
     "id": "5f1387fd65fe924464ee0338",
     "img_url": "https://cdn.betterttv.net/emote/5f1387fd65fe924464ee0338/3x",
     "page_url": "https://betterttv.com/emotes/5f1387fd65fe924464ee0338",
-    "type": "BTTV"
-  },
-  {
-    "name": "Dance",
-    "id": "5d3e109f3524df2ae3806385",
-    "img_url": "https://cdn.betterttv.net/emote/5d3e109f3524df2ae3806385/3x",
-    "page_url": "https://betterttv.com/emotes/5d3e109f3524df2ae3806385",
     "type": "BTTV"
   },
   {
@@ -427,13 +434,6 @@
     "type": "BTTV"
   },
   {
-    "name": "OMEGALULiguess",
-    "id": 531058,
-    "img_url": "https://cdn.frankerfacez.com/emote/531058/4",
-    "page_url": "https://www.frankerfacez.com/emoticon/531058-OMEGALULiguess",
-    "type": "FFZ"
-  },
-  {
     "name": "OOOO",
     "id": "5feff41af58a572e54213427",
     "img_url": "https://cdn.betterttv.net/emote/5feff41af58a572e54213427/3x",
@@ -651,13 +651,6 @@
     "type": "BTTV"
   },
   {
-    "name": "SIPPERS",
-    "id": "5f0223a472ac200523c61a6b",
-    "img_url": "https://cdn.betterttv.net/emote/5f0223a472ac200523c61a6b/3x",
-    "page_url": "https://betterttv.com/emotes/5f0223a472ac200523c61a6b",
-    "type": "BTTV"
-  },
-  {
     "name": "Sadge",
     "id": 526276,
     "img_url": "https://cdn.frankerfacez.com/emote/526276/4",
@@ -739,6 +732,13 @@
     "id": "60b8915bf8b3f62601c37c91",
     "img_url": "https://cdn.betterttv.net/emote/60b8915bf8b3f62601c37c91/3x",
     "page_url": "https://betterttv.com/emotes/60b8915bf8b3f62601c37c91",
+    "type": "BTTV"
+  },
+  {
+    "name": "Wokege",
+    "id": "618a678d1f8ff7628e6d196d",
+    "img_url": "https://cdn.betterttv.net/emote/618a678d1f8ff7628e6d196d/3x",
+    "page_url": "https://betterttv.com/emotes/618a678d1f8ff7628e6d196d",
     "type": "BTTV"
   },
   {
