@@ -357,6 +357,13 @@
     "type": "BTTV"
   },
   {
+    "name": "MollyStare",
+    "id": "6195793c54f3344f88060fa0",
+    "img_url": "https://cdn.betterttv.net/emote/6195793c54f3344f88060fa0/3x",
+    "page_url": "https://betterttv.com/emotes/6195793c54f3344f88060fa0",
+    "type": "BTTV"
+  },
+  {
     "name": "MushPrime",
     "id": "6112205c76ea4e2b9f765dfc",
     "img_url": "https://cdn.betterttv.net/emote/6112205c76ea4e2b9f765dfc/3x",
@@ -368,13 +375,6 @@
     "id": "5c1bcfedf7fd1c1c345d07f3",
     "img_url": "https://cdn.betterttv.net/emote/5c1bcfedf7fd1c1c345d07f3/3x",
     "page_url": "https://betterttv.com/emotes/5c1bcfedf7fd1c1c345d07f3",
-    "type": "BTTV"
-  },
-  {
-    "name": "MushuSad",
-    "id": "600313e75303dc315cbc9867",
-    "img_url": "https://cdn.betterttv.net/emote/600313e75303dc315cbc9867/3x",
-    "page_url": "https://betterttv.com/emotes/600313e75303dc315cbc9867",
     "type": "BTTV"
   },
   {
@@ -666,9 +666,9 @@
   },
   {
     "name": "Sussy",
-    "id": "612a856faf28e956864aa575",
-    "img_url": "https://cdn.betterttv.net/emote/612a856faf28e956864aa575/3x",
-    "page_url": "https://betterttv.com/emotes/612a856faf28e956864aa575",
+    "id": "618561061f8ff7628e6c9119",
+    "img_url": "https://cdn.betterttv.net/emote/618561061f8ff7628e6c9119/3x",
+    "page_url": "https://betterttv.com/emotes/618561061f8ff7628e6c9119",
     "type": "BTTV"
   },
   {
@@ -966,6 +966,13 @@
     "type": "BTTV"
   },
   {
+    "name": "mushuSad",
+    "id": "6192375554f3344f8805bb31",
+    "img_url": "https://cdn.betterttv.net/emote/6192375554f3344f8805bb31/3x",
+    "page_url": "https://betterttv.com/emotes/6192375554f3344f8805bb31",
+    "type": "BTTV"
+  },
+  {
     "name": "mushuSpace",
     "id": "6172f10d78e76c144f05e60b",
     "img_url": "https://cdn.betterttv.net/emote/6172f10d78e76c144f05e60b/3x",
@@ -1251,6 +1258,13 @@
     "img_url": "https://cdn.frankerfacez.com/emote/303899/4",
     "page_url": "https://www.frankerfacez.com/emoticon/303899-widepeepoSad",
     "type": "FFZ"
+  },
+  {
+    "name": "xqcDitch",
+    "id": "5c6934c724de827d9bbb4723",
+    "img_url": "https://cdn.betterttv.net/emote/5c6934c724de827d9bbb4723/3x",
+    "page_url": "https://betterttv.com/emotes/5c6934c724de827d9bbb4723",
+    "type": "BTTV"
   },
   {
     "name": "xqcL",
