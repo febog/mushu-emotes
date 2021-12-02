@@ -337,9 +337,9 @@
   },
   {
     "name": "LoveRollShu",
-    "id": "5ecbc742f54be95e2a82ea2a",
-    "img_url": "https://cdn.betterttv.net/emote/5ecbc742f54be95e2a82ea2a/3x",
-    "page_url": "https://betterttv.com/emotes/5ecbc742f54be95e2a82ea2a",
+    "id": "61a93608002cdeedc21deb85",
+    "img_url": "https://cdn.betterttv.net/emote/61a93608002cdeedc21deb85/3x",
+    "page_url": "https://betterttv.com/emotes/61a93608002cdeedc21deb85",
     "type": "BTTV"
   },
   {
@@ -788,6 +788,13 @@
     "id": "603690157c74605395f33988",
     "img_url": "https://cdn.betterttv.net/emote/603690157c74605395f33988/3x",
     "page_url": "https://betterttv.com/emotes/603690157c74605395f33988",
+    "type": "BTTV"
+  },
+  {
+    "name": "docJAM",
+    "id": "60400db8306b602acc5967ce",
+    "img_url": "https://cdn.betterttv.net/emote/60400db8306b602acc5967ce/3x",
+    "page_url": "https://betterttv.com/emotes/60400db8306b602acc5967ce",
     "type": "BTTV"
   },
   {
