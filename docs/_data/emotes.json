@@ -70,6 +70,13 @@
     "type": "BTTV"
   },
   {
+    "name": "Baby",
+    "id": "61a62de4371b825d3f6dd64c",
+    "img_url": "https://cdn.betterttv.net/emote/61a62de4371b825d3f6dd64c/3x",
+    "page_url": "https://betterttv.com/emotes/61a62de4371b825d3f6dd64c",
+    "type": "BTTV"
+  },
+  {
     "name": "Bedge",
     "id": "618a67711f8ff7628e6d1960",
     "img_url": "https://cdn.betterttv.net/emote/618a67711f8ff7628e6d1960/3x",
@@ -656,13 +663,6 @@
     "img_url": "https://cdn.frankerfacez.com/emote/526276/4",
     "page_url": "https://www.frankerfacez.com/emoticon/526276-Sadge",
     "type": "FFZ"
-  },
-  {
-    "name": "Smoge",
-    "id": "6197dde854f3344f88065f1b",
-    "img_url": "https://cdn.betterttv.net/emote/6197dde854f3344f88065f1b/3x",
-    "page_url": "https://betterttv.com/emotes/6197dde854f3344f88065f1b",
-    "type": "BTTV"
   },
   {
     "name": "Spray",
