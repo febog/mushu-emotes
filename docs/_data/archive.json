@@ -1302,6 +1302,13 @@
     "type": "BTTV"
   },
   {
+    "name": "TouchGrass",
+    "id": "60fc9a973acb2bea4328190d",
+    "img_url": "https://cdn.7tv.app/emote/60fc9a973acb2bea4328190d/4x",
+    "page_url": "https://7tv.app/emotes/60fc9a973acb2bea4328190d",
+    "type": "7TV"
+  },
+  {
     "name": "TromboneTime",
     "id": "60ae5b9e0e35477634520f84",
     "img_url": "https://cdn.7tv.app/emote/60ae5b9e0e35477634520f84/4x",
