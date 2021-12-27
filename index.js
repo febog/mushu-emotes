@@ -26,9 +26,10 @@ class Emote {
 }
 
 class Count {
-  constructor(ffzCount, bttvCount, totalCount) {
+  constructor(ffzCount, bttvCount, seventvCount, totalCount) {
     this.ffzCount = ffzCount;
     this.bttvCount = bttvCount;
+    this.seventvCount = seventvCount;
     this.totalCount = totalCount;
   }
 }
@@ -53,12 +54,24 @@ async function updateEmoteList() {
     emoteList.push(getBttvEmote(e, "BTTV"))
   );
 
+  // Get 7TV channel emotes
+  const seventvResponse = await axios.get(
+    process.env.SEVENTV_CHANNEL_EMOTES_URL
+  );
+  seventvResponse.data.map((e) => emoteList.push(getSeventvEmote(e)));
+
   // Count emotes
-  let ffzCount = ffzResponse.data.sets[process.env.FFZ_SET_ID].emoticons.length;
-  let bttvCount =
+  const ffzCount = ffzResponse.data.sets[process.env.FFZ_SET_ID].emoticons.length;
+  const bttvCount =
     bttvChannelResponse.data.channelEmotes.length +
     bttvChannelResponse.data.sharedEmotes.length;
-  let count = new Count(ffzCount, bttvCount, ffzCount + bttvCount);
+  const seventvCount = seventvResponse.data.length;
+  const count = new Count(
+    ffzCount,
+    bttvCount,
+    seventvCount,
+    ffzCount + bttvCount + seventvCount
+  );
   console.log("Number of emotes loaded:", emoteList.length);
 
   // Sort emotes by name
@@ -130,6 +143,18 @@ function getFfzEmote(e) {
   let ffzEmoteUrl = `https:${e.urls["4"] || e.urls["1"]}`;
   let ffzEmotePage = `https://www.frankerfacez.com/emoticon/${e.id}-${e.name}`;
   let emote = new Emote(e.name, e.id, ffzEmoteUrl, ffzEmotePage, "FFZ");
+  return emote;
+}
+
+/**
+ * Parse 7TV response and return an emote
+ * @param {*} e Emote object from 7TV response
+ */
+ function getSeventvEmote(e) {
+  // Fourth URL is the highest resolution image, if not available, use first
+  let seventvEmoteUrl = `${e.urls[3][1] || e.urls[0][1]}`;
+  let seventvEmotePage = `https://7tv.app/emotes/${e.id}`;
+  let emote = new Emote(e.name, e.id, seventvEmoteUrl, seventvEmotePage, "7TV");
   return emote;
 }
 
