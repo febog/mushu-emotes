@@ -91,6 +91,13 @@
     "type": "7TV"
   },
   {
+    "name": "AlienPls3",
+    "id": "6174a93bb6d21adaffbf18e7",
+    "img_url": "https://cdn.7tv.app/emote/6174a93bb6d21adaffbf18e7/4x",
+    "page_url": "https://7tv.app/emotes/6174a93bb6d21adaffbf18e7",
+    "type": "7TV"
+  },
+  {
     "name": "Antihornyspray",
     "id": "61b5b223523b4785d7c20422",
     "img_url": "https://cdn.7tv.app/emote/61b5b223523b4785d7c20422/4x",
@@ -866,6 +873,13 @@
     "img_url": "https://cdn.betterttv.net/emote/607f894b39b5010444d033ce/3x",
     "page_url": "https://betterttv.com/emotes/607f894b39b5010444d033ce",
     "type": "BTTV"
+  },
+  {
+    "name": "KEKBASED",
+    "id": "60af02be361b0164e64fce02",
+    "img_url": "https://cdn.7tv.app/emote/60af02be361b0164e64fce02/4x",
+    "page_url": "https://7tv.app/emotes/60af02be361b0164e64fce02",
+    "type": "7TV"
   },
   {
     "name": "KEKFlash",
@@ -1986,6 +2000,13 @@
     "img_url": "https://cdn.betterttv.net/emote/617ee6591f8ff7628e6bcc16/3x",
     "page_url": "https://betterttv.com/emotes/617ee6591f8ff7628e6bcc16",
     "type": "BTTV"
+  },
+  {
+    "name": "Waiting",
+    "id": "61788e56e0801fb98788126d",
+    "img_url": "https://cdn.7tv.app/emote/61788e56e0801fb98788126d/4x",
+    "page_url": "https://7tv.app/emotes/61788e56e0801fb98788126d",
+    "type": "7TV"
   },
   {
     "name": "WeSmart",
