@@ -973,6 +973,13 @@
     "type": "FFZ"
   },
   {
+    "name": "FeelsWowMan",
+    "id": 709063,
+    "img_url": "https://cdn.frankerfacez.com/emote/709063/4",
+    "page_url": "https://www.frankerfacez.com/emoticon/709063-FeelsWowMan",
+    "type": "FFZ"
+  },
+  {
     "name": "Fishing",
     "id": "60610f007493072efdeb64db",
     "img_url": "https://cdn.betterttv.net/emote/60610f007493072efdeb64db/3x",
@@ -2114,6 +2121,13 @@
     "type": "FFZ"
   },
   {
+    "name": "PepeMods",
+    "id": 668179,
+    "img_url": "https://cdn.frankerfacez.com/emote/668179/4",
+    "page_url": "https://www.frankerfacez.com/emoticon/668179-PepeMods",
+    "type": "FFZ"
+  },
+  {
     "name": "PepePls",
     "id": "60afca54a3648f409ab155b7",
     "img_url": "https://cdn.7tv.app/emote/60afca54a3648f409ab155b7/4x",
@@ -2870,6 +2884,13 @@
     "type": "BTTV"
   },
   {
+    "name": "WICKED",
+    "id": 662883,
+    "img_url": "https://cdn.frankerfacez.com/emote/662883/4",
+    "page_url": "https://www.frankerfacez.com/emoticon/662883-WICKED",
+    "type": "FFZ"
+  },
+  {
     "name": "WOT",
     "id": "61e5f3053441abfa431d12cf",
     "img_url": "https://cdn.7tv.app/emote/61e5f3053441abfa431d12cf/4x",
@@ -3554,6 +3575,13 @@
     "img_url": "https://cdn.7tv.app/emote/60ae3804259ac5a73e2bff3d/4x",
     "page_url": "https://7tv.app/emotes/60ae3804259ac5a73e2bff3d",
     "type": "7TV"
+  },
+  {
+    "name": "monkaLaugh",
+    "id": 663801,
+    "img_url": "https://cdn.frankerfacez.com/emote/663801/4",
+    "page_url": "https://www.frankerfacez.com/emoticon/663801-monkaLaugh",
+    "type": "FFZ"
   },
   {
     "name": "monkaShu",
@@ -4400,6 +4428,13 @@
     "id": 291850,
     "img_url": "https://cdn.frankerfacez.com/emote/291850/4",
     "page_url": "https://www.frankerfacez.com/emoticon/291850-peepoWow",
+    "type": "FFZ"
+  },
+  {
+    "name": "peepoWowDank",
+    "id": 709477,
+    "img_url": "https://cdn.frankerfacez.com/emote/709477/4",
+    "page_url": "https://www.frankerfacez.com/emoticon/709477-peepoWowDank",
     "type": "FFZ"
   },
   {
