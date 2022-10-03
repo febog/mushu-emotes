@@ -97,7 +97,6 @@ async function updateEmoteList() {
     emoteList.forEach((emote) => {
       if (emoteArchive.findIndex((archive) => archive.id === emote.id) === -1) {
         emoteArchive.push(emote);
-        console.log("Adding to archive:", emote);
       }
     });
     // Sort emotes by name
