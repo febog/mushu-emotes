@@ -2177,6 +2177,13 @@
     "type": "FFZ"
   },
   {
+    "name": "Pog",
+    "id": 710389,
+    "img_url": "https://cdn.frankerfacez.com/emote/710389/4",
+    "page_url": "https://www.frankerfacez.com/emoticon/710389-Pog",
+    "type": "FFZ"
+  },
+  {
     "name": "PogChimp",
     "id": "60204c953c0e786c9950152b",
     "img_url": "https://cdn.betterttv.net/emote/60204c953c0e786c9950152b/3x",
@@ -3336,6 +3343,13 @@
     "id": "60b021d04d83b66c448bfcb1",
     "img_url": "https://cdn.7tv.app/emote/60b021d04d83b66c448bfcb1/4x",
     "page_url": "https://7tv.app/emotes/60b021d04d83b66c448bfcb1",
+    "type": "7TV"
+  },
+  {
+    "name": "meow",
+    "id": "60aecb385174a619dbc175be",
+    "img_url": "https://cdn.7tv.app/emote/60aecb385174a619dbc175be/4x.webp",
+    "page_url": "https://7tv.app/emotes/60aecb385174a619dbc175be",
     "type": "7TV"
   },
   {
