@@ -144,7 +144,7 @@ function getFfzEmote(e) {
  * Parse 7TV response and return an emote
  * @param {*} e Emote object from 7TV response
  */
- function getSeventvEmote(e) {
+function getSeventvEmote(e) {
   // Fourth URL is the highest resolution image, if not available, use first
   let seventvEmoteUrl = `${e.urls[3][1] || e.urls[0][1]}`;
   let seventvEmotePage = `https://7tv.app/emotes/${e.id}`;
