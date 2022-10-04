@@ -34,9 +34,9 @@ class Count {
   }
 }
 
-var emoteList = [];
-
 async function updateEmoteList() {
+  const emoteList = [];
+
   // Get FFZ channel emotes
   const ffzResponse = await axios.get(process.env.FFZ_CHANNEL_EMOTES_URL);
   ffzResponse.data.sets[process.env.FFZ_SET_ID].emoticons.map((e) =>
