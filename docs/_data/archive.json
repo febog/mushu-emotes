@@ -441,6 +441,13 @@
     "type": "BTTV"
   },
   {
+    "name": "BOOBA",
+    "id": "63374fb1759badb17b510e77",
+    "img_url": "https://cdn.betterttv.net/emote/63374fb1759badb17b510e77/3x",
+    "page_url": "https://betterttv.com/emotes/63374fb1759badb17b510e77",
+    "type": "BTTV"
+  },
+  {
     "name": "BOOBARespectfully",
     "id": "61f82acb4f8c353cf9fc4cf5",
     "img_url": "https://cdn.7tv.app/emote/61f82acb4f8c353cf9fc4cf5/4x",
@@ -572,6 +579,13 @@
     "img_url": "https://cdn.betterttv.net/emote/617a901a1f8ff7628e6b6225/3x",
     "page_url": "https://betterttv.com/emotes/617a901a1f8ff7628e6b6225",
     "type": "BTTV"
+  },
+  {
+    "name": "Chatting",
+    "id": "632a4b0622620dc2373b28b3",
+    "img_url": "https://cdn.7tv.app/emote/632a4b0622620dc2373b28b3/4x.webp",
+    "page_url": "https://7tv.app/emotes/632a4b0622620dc2373b28b3",
+    "type": "7TV"
   },
   {
     "name": "Cheergi",
@@ -1075,6 +1089,13 @@
     "id": "57850b9df1bf2c1003a88644",
     "img_url": "https://cdn.betterttv.net/emote/57850b9df1bf2c1003a88644/3x",
     "page_url": "https://betterttv.com/emotes/57850b9df1bf2c1003a88644",
+    "type": "BTTV"
+  },
+  {
+    "name": "FeelsRainMan",
+    "id": "601b048adf6a0665f275dab9",
+    "img_url": "https://cdn.betterttv.net/emote/601b048adf6a0665f275dab9/3x",
+    "page_url": "https://betterttv.com/emotes/601b048adf6a0665f275dab9",
     "type": "BTTV"
   },
   {
@@ -1701,6 +1722,13 @@
     "type": "BTTV"
   },
   {
+    "name": "Jammies",
+    "id": "63235e1a8d546373770762c5",
+    "img_url": "https://cdn.betterttv.net/emote/63235e1a8d546373770762c5/3x",
+    "page_url": "https://betterttv.com/emotes/63235e1a8d546373770762c5",
+    "type": "BTTV"
+  },
+  {
     "name": "JuiceTime",
     "id": "607f894b39b5010444d033ce",
     "img_url": "https://cdn.betterttv.net/emote/607f894b39b5010444d033ce/3x",
@@ -2114,6 +2142,13 @@
     "type": "FFZ"
   },
   {
+    "name": "monkaGiga",
+    "id": 399762,
+    "img_url": "https://cdn.frankerfacez.com/emote/399762/4",
+    "page_url": "https://www.frankerfacez.com/emoticon/399762-monkaGiga",
+    "type": "FFZ"
+  },
+  {
     "name": "monkaGIGA",
     "id": "60af418198efcb4f69410b17",
     "img_url": "https://cdn.7tv.app/emote/60af418198efcb4f69410b17/4x",
@@ -2416,6 +2451,13 @@
   },
   {
     "name": "NODDERS",
+    "id": "60f5de402d1eba5400d079b3",
+    "img_url": "https://cdn.betterttv.net/emote/60f5de402d1eba5400d079b3/3x",
+    "page_url": "https://betterttv.com/emotes/60f5de402d1eba5400d079b3",
+    "type": "BTTV"
+  },
+  {
+    "name": "NODDERS",
     "id": "6158921db63cc97ee6d47798",
     "img_url": "https://cdn.betterttv.net/emote/6158921db63cc97ee6d47798/3x",
     "page_url": "https://betterttv.com/emotes/6158921db63cc97ee6d47798",
@@ -2483,6 +2525,13 @@
     "img_url": "https://cdn.7tv.app/emote/604137d3cf6746000db10354/4x",
     "page_url": "https://7tv.app/emotes/604137d3cf6746000db10354",
     "type": "7TV"
+  },
+  {
+    "name": "NoThanks",
+    "id": 711013,
+    "img_url": "https://cdn.frankerfacez.com/emote/711013/4",
+    "page_url": "https://www.frankerfacez.com/emoticon/711013-NoThanks",
+    "type": "FFZ"
   },
   {
     "name": "NotSuregi",
@@ -2797,6 +2846,13 @@
     "id": "5d38aaa592fc550c2d5996b8",
     "img_url": "https://cdn.betterttv.net/emote/5d38aaa592fc550c2d5996b8/3x",
     "page_url": "https://betterttv.com/emotes/5d38aaa592fc550c2d5996b8",
+    "type": "BTTV"
+  },
+  {
+    "name": "peepoClap",
+    "id": "61b70c74002cdeedc21f423d",
+    "img_url": "https://cdn.betterttv.net/emote/61b70c74002cdeedc21f423d/3x",
+    "page_url": "https://betterttv.com/emotes/61b70c74002cdeedc21f423d",
     "type": "BTTV"
   },
   {
@@ -3983,6 +4039,13 @@
     "type": "BTTV"
   },
   {
+    "name": "ppHop",
+    "id": "632229458d54637377075395",
+    "img_url": "https://cdn.betterttv.net/emote/632229458d54637377075395/3x",
+    "page_url": "https://betterttv.com/emotes/632229458d54637377075395",
+    "type": "BTTV"
+  },
+  {
     "name": "ppL",
     "id": 229544,
     "img_url": "https://cdn.frankerfacez.com/emote/229544/4",
@@ -4680,6 +4743,13 @@
     "id": "6158815db63cc97ee6d4750f",
     "img_url": "https://cdn.betterttv.net/emote/6158815db63cc97ee6d4750f/3x",
     "page_url": "https://betterttv.com/emotes/6158815db63cc97ee6d4750f",
+    "type": "BTTV"
+  },
+  {
+    "name": "WAYTOODANK",
+    "id": "616a05f1054a252a431f3e63",
+    "img_url": "https://cdn.betterttv.net/emote/616a05f1054a252a431f3e63/3x",
+    "page_url": "https://betterttv.com/emotes/616a05f1054a252a431f3e63",
     "type": "BTTV"
   },
   {
