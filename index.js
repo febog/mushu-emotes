@@ -79,7 +79,7 @@ async function updateEmoteList() {
   // Search for duplicates
   let previousEmote = "";
   emoteList.forEach((emote) => {
-    if (previousEmote === emote.name) {
+    if (previousEmote.toLowerCase() === emote.name.toLowerCase()) {
       console.log("Duplicate found:", emote.name);
     }
     previousEmote = emote.name;
