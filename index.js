@@ -74,11 +74,9 @@ async function updateEmoteList() {
   );
   console.log("Number of emotes loaded:", emoteList.length);
 
-  // Sort emotes by name
-  emoteList.sort((a, b) => (a.name > b.name ? 1 : -1));
+  emoteList.sort(emoteSort);
 
-  // Find duplicates in currently enabled emotes by iterating them since they
-  // are already sorted
+  // Search for duplicates
   let previousEmote = "";
   emoteList.forEach((emote) => {
     if (previousEmote === emote.name) {
@@ -99,7 +97,6 @@ async function updateEmoteList() {
         emoteArchive.push(emote);
       }
     });
-    // Sort emotes by name
     emoteArchive.sort(emoteSort);
     fs.writeFile(
       ARCHIVE_PATH,
@@ -158,7 +155,7 @@ function getFfzEmote(e) {
 }
 
 /**
- * Sort emote by name and then by Id. To be passed to sort().
+ * Sort emote by name (case-insensitive) and then by Id. To be passed to sort().
  * @param {Object} a First emote
  * @param {Object} b Second emote
  */
@@ -166,7 +163,7 @@ function emoteSort(a, b) {
   // Case insenstive
   const nameComparison = a.name.localeCompare(b.name, 'en', { sensitivity: 'base' });
 
-  // If same name, sort by ID
+  // If same name, use ID
   if (nameComparison === 0) {
     return a.id.toString() > b.id.toString() ? 1 : -1;
 
