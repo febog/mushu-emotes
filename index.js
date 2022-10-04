@@ -163,13 +163,13 @@ function getFfzEmote(e) {
  * @param {Object} b Second emote
  */
 function emoteSort(a, b) {
-  if (a.name > b.name) {
-    return 1;
-  }
+  // Case insenstive
+  const nameComparison = a.name.localeCompare(b.name, 'en', { sensitivity: 'base' });
 
-  if (a.name < b.name) {
-    return -1;
-  }
+  // If same name, sort by ID
+  if (nameComparison === 0) {
+    return a.id.toString() > b.id.toString() ? 1 : -1;
 
-  return a.id.toString() > b.id.toString() ? 1 : -1;
+  }
+  return nameComparison
 }
