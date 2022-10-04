@@ -217,6 +217,13 @@
     "type": "FFZ"
   },
   {
+    "name": "AYAYAY",
+    "id": 400616,
+    "img_url": "https://cdn.frankerfacez.com/emote/400616/4",
+    "page_url": "https://www.frankerfacez.com/emoticon/400616-AYAYAY",
+    "type": "FFZ"
+  },
+  {
     "name": "BABUSHKIES",
     "id": "603413907c74605395f326d2",
     "img_url": "https://cdn.betterttv.net/emote/603413907c74605395f326d2/3x",
@@ -1366,6 +1373,13 @@
   },
   {
     "name": "Gladge",
+    "id": 663201,
+    "img_url": "https://cdn.frankerfacez.com/emote/663201/4",
+    "page_url": "https://www.frankerfacez.com/emoticon/663201-Gladge",
+    "type": "FFZ"
+  },
+  {
+    "name": "Gladge",
     "id": 675586,
     "img_url": "https://cdn.frankerfacez.com/emote/675586/4",
     "page_url": "https://www.frankerfacez.com/emoticon/675586-Gladge",
@@ -1719,6 +1733,13 @@
     "id": 505263,
     "img_url": "https://cdn.frankerfacez.com/emote/505263/4",
     "page_url": "https://www.frankerfacez.com/emoticon/505263-KEKLEO",
+    "type": "FFZ"
+  },
+  {
+    "name": "KEKLEO",
+    "id": 521035,
+    "img_url": "https://cdn.frankerfacez.com/emote/521035/4",
+    "page_url": "https://www.frankerfacez.com/emoticon/521035-KEKLEO",
     "type": "FFZ"
   },
   {
@@ -2514,6 +2535,13 @@
   },
   {
     "name": "Oldge",
+    "id": 609732,
+    "img_url": "https://cdn.frankerfacez.com/emote/609732/4",
+    "page_url": "https://www.frankerfacez.com/emoticon/609732-Oldge",
+    "type": "FFZ"
+  },
+  {
+    "name": "Oldge",
     "id": 622435,
     "img_url": "https://cdn.frankerfacez.com/emote/622435/4",
     "page_url": "https://www.frankerfacez.com/emoticon/622435-Oldge",
@@ -2580,6 +2608,13 @@
     "id": 517647,
     "img_url": "https://cdn.frankerfacez.com/emote/517647/4",
     "page_url": "https://www.frankerfacez.com/emoticon/517647-PagMan",
+    "type": "FFZ"
+  },
+  {
+    "name": "PagMan",
+    "id": 662738,
+    "img_url": "https://cdn.frankerfacez.com/emote/662738/4",
+    "page_url": "https://www.frankerfacez.com/emoticon/662738-PagMan",
     "type": "FFZ"
   },
   {
@@ -2832,6 +2867,13 @@
     "id": 318195,
     "img_url": "https://cdn.frankerfacez.com/emote/318195/4",
     "page_url": "https://www.frankerfacez.com/emoticon/318195-PeepoFinger",
+    "type": "FFZ"
+  },
+  {
+    "name": "peepoFinger",
+    "id": 499718,
+    "img_url": "https://cdn.frankerfacez.com/emote/499718/4",
+    "page_url": "https://www.frankerfacez.com/emoticon/499718-peepoFinger",
     "type": "FFZ"
   },
   {
@@ -3091,6 +3133,13 @@
     "id": 414781,
     "img_url": "https://cdn.frankerfacez.com/emote/414781/4",
     "page_url": "https://www.frankerfacez.com/emoticon/414781-peepoLove",
+    "type": "FFZ"
+  },
+  {
+    "name": "peepoLove",
+    "id": 451117,
+    "img_url": "https://cdn.frankerfacez.com/emote/451117/4",
+    "page_url": "https://www.frankerfacez.com/emoticon/451117-peepoLove",
     "type": "FFZ"
   },
   {
@@ -4247,6 +4296,13 @@
     "img_url": "https://cdn.7tv.app/emote/60aeb21b6cfcffe15fde678b/4x",
     "page_url": "https://7tv.app/emotes/60aeb21b6cfcffe15fde678b",
     "type": "7TV"
+  },
+  {
+    "name": "Smartge",
+    "id": 684994,
+    "img_url": "https://cdn.frankerfacez.com/emote/684994/4",
+    "page_url": "https://www.frankerfacez.com/emoticon/684994-Smartge",
+    "type": "FFZ"
   },
   {
     "name": "Smoge",
