@@ -392,6 +392,13 @@
     "type": "BTTV"
   },
   {
+    "name": "D:",
+    "id": "61e638bf77175547b425cd83",
+    "img_url": "https://cdn.7tv.app/emote/61e638bf77175547b425cd83/4x.webp",
+    "page_url": "https://7tv.app/emotes/61e638bf77175547b425cd83",
+    "type": "7TV"
+  },
+  {
     "name": "DANCIES",
     "id": "62b4ae70a71bddc849d257b1",
     "img_url": "https://cdn.7tv.app/emote/62b4ae70a71bddc849d257b1/4x.webp",
@@ -2353,16 +2360,16 @@
   },
   {
     "name": "pugPls",
-    "id": "60af0d597e8706b5728867ac",
-    "img_url": "https://cdn.7tv.app/emote/60af0d597e8706b5728867ac/4x.webp",
-    "page_url": "https://7tv.app/emotes/60af0d597e8706b5728867ac",
+    "id": "633b2e4ba177344f521f4aa8",
+    "img_url": "https://cdn.7tv.app/emote/633b2e4ba177344f521f4aa8/4x.webp",
+    "page_url": "https://7tv.app/emotes/633b2e4ba177344f521f4aa8",
     "type": "7TV"
   },
   {
     "name": "RAGEY",
-    "id": "6309e73ffe72a7a37ff476f5",
-    "img_url": "https://cdn.7tv.app/emote/6309e73ffe72a7a37ff476f5/4x.webp",
-    "page_url": "https://7tv.app/emotes/6309e73ffe72a7a37ff476f5",
+    "id": "6337051473d0849829e8b7af",
+    "img_url": "https://cdn.7tv.app/emote/6337051473d0849829e8b7af/4x.webp",
+    "page_url": "https://7tv.app/emotes/6337051473d0849829e8b7af",
     "type": "7TV"
   },
   {
@@ -2583,18 +2590,18 @@
     "type": "7TV"
   },
   {
-    "name": "Sussy",
-    "id": "612a856faf28e956864aa575",
-    "img_url": "https://cdn.betterttv.net/emote/612a856faf28e956864aa575/3x",
-    "page_url": "https://betterttv.com/emotes/612a856faf28e956864aa575",
-    "type": "BTTV"
-  },
-  {
     "name": "SUSSY",
     "id": "617d5e03b0bfad942896dd60",
     "img_url": "https://cdn.7tv.app/emote/617d5e03b0bfad942896dd60/4x.webp",
     "page_url": "https://7tv.app/emotes/617d5e03b0bfad942896dd60",
     "type": "7TV"
+  },
+  {
+    "name": "Sussy",
+    "id": "633b970be6cf26500b427f8d",
+    "img_url": "https://cdn.betterttv.net/emote/633b970be6cf26500b427f8d/3x",
+    "page_url": "https://betterttv.com/emotes/633b970be6cf26500b427f8d",
+    "type": "BTTV"
   },
   {
     "name": "TANTIES",
@@ -2612,9 +2619,9 @@
   },
   {
     "name": "TeaTime",
-    "id": "56f6eb647ee3e8fc6e4fe48e",
-    "img_url": "https://cdn.betterttv.net/emote/56f6eb647ee3e8fc6e4fe48e/3x",
-    "page_url": "https://betterttv.com/emotes/56f6eb647ee3e8fc6e4fe48e",
+    "id": "632232188d54637377075424",
+    "img_url": "https://cdn.betterttv.net/emote/632232188d54637377075424/3x",
+    "page_url": "https://betterttv.com/emotes/632232188d54637377075424",
     "type": "BTTV"
   },
   {
