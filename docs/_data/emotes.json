@@ -875,13 +875,6 @@
     "type": "BTTV"
   },
   {
-    "name": "hmmClown",
-    "id": "6127a66b7c13f3176fcc37c5",
-    "img_url": "https://cdn.7tv.app/emote/6127a66b7c13f3176fcc37c5/4x.webp",
-    "page_url": "https://7tv.app/emotes/6127a66b7c13f3176fcc37c5",
-    "type": "7TV"
-  },
-  {
     "name": "HmmCouncil",
     "id": "6119bfb05f3378ee334ff4ae",
     "img_url": "https://cdn.7tv.app/emote/6119bfb05f3378ee334ff4ae/4x.webp",
@@ -1757,13 +1750,6 @@
     "type": "BTTV"
   },
   {
-    "name": "peepoCook",
-    "id": "60c26a63e63e4eb665b90e05",
-    "img_url": "https://cdn.7tv.app/emote/60c26a63e63e4eb665b90e05/4x.webp",
-    "page_url": "https://7tv.app/emotes/60c26a63e63e4eb665b90e05",
-    "type": "7TV"
-  },
-  {
     "name": "peepoDJ",
     "id": "6081849639b5010444d0418b",
     "img_url": "https://cdn.betterttv.net/emote/6081849639b5010444d0418b/3x",
@@ -2198,13 +2184,6 @@
     "type": "BTTV"
   },
   {
-    "name": "pepeWhale",
-    "id": "61443268962a60904864ce9b",
-    "img_url": "https://cdn.7tv.app/emote/61443268962a60904864ce9b/4x.webp",
-    "page_url": "https://7tv.app/emotes/61443268962a60904864ce9b",
-    "type": "7TV"
-  },
-  {
     "name": "PepoG",
     "id": 664507,
     "img_url": "https://cdn.frankerfacez.com/emote/664507/4",
@@ -2580,13 +2559,6 @@
     "id": "60bc8bb7824feec0de8f94cc",
     "img_url": "https://cdn.7tv.app/emote/60bc8bb7824feec0de8f94cc/4x.webp",
     "page_url": "https://7tv.app/emotes/60bc8bb7824feec0de8f94cc",
-    "type": "7TV"
-  },
-  {
-    "name": "StreamerDoesntKnow",
-    "id": "60b290f544cd41b4aca17652",
-    "img_url": "https://cdn.7tv.app/emote/60b290f544cd41b4aca17652/4x.webp",
-    "page_url": "https://7tv.app/emotes/60b290f544cd41b4aca17652",
     "type": "7TV"
   },
   {
