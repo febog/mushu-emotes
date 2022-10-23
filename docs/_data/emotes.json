@@ -105,6 +105,13 @@
     "type": "BTTV"
   },
   {
+    "name": "Backseating",
+    "id": "62bc2dd29882dfa63c814598",
+    "img_url": "https://cdn.7tv.app/emote/62bc2dd29882dfa63c814598/4x.webp",
+    "page_url": "https://7tv.app/emotes/62bc2dd29882dfa63c814598",
+    "type": "7TV"
+  },
+  {
     "name": "BANNED",
     "id": "60c4781ea288c99230c15a5c",
     "img_url": "https://cdn.7tv.app/emote/60c4781ea288c99230c15a5c/4x.webp",
@@ -224,10 +231,10 @@
     "type": "7TV"
   },
   {
-    "name": "CATBEDOINGTHELAUNDRY",
-    "id": "60b02b39b3e1671e27817ff5",
-    "img_url": "https://cdn.7tv.app/emote/60b02b39b3e1671e27817ff5/4x.webp",
-    "page_url": "https://7tv.app/emotes/60b02b39b3e1671e27817ff5",
+    "name": "CAMPIES",
+    "id": "62baff07bc20410db243b99a",
+    "img_url": "https://cdn.7tv.app/emote/62baff07bc20410db243b99a/4x.webp",
+    "page_url": "https://7tv.app/emotes/62baff07bc20410db243b99a",
     "type": "7TV"
   },
   {
@@ -462,6 +469,13 @@
     "type": "7TV"
   },
   {
+    "name": "Despairge",
+    "id": "61f4050697d743f38801127b",
+    "img_url": "https://cdn.7tv.app/emote/61f4050697d743f38801127b/4x.webp",
+    "page_url": "https://7tv.app/emotes/61f4050697d743f38801127b",
+    "type": "7TV"
+  },
+  {
     "name": "DIDSOMEONESAYMEXICO",
     "id": "620fb30f291c12f48f55185b",
     "img_url": "https://cdn.7tv.app/emote/620fb30f291c12f48f55185b/4x.webp",
@@ -595,13 +609,6 @@
     "type": "7TV"
   },
   {
-    "name": "Fatgi",
-    "id": "61dcb65882d5237d67965add",
-    "img_url": "https://cdn.7tv.app/emote/61dcb65882d5237d67965add/4x.webp",
-    "page_url": "https://7tv.app/emotes/61dcb65882d5237d67965add",
-    "type": "7TV"
-  },
-  {
     "name": "FeelsDankMan",
     "id": "60ae4a875d3fdae583c64313",
     "img_url": "https://cdn.7tv.app/emote/60ae4a875d3fdae583c64313/4x.webp",
@@ -714,6 +721,13 @@
     "type": "BTTV"
   },
   {
+    "name": "ForgerDance",
+    "id": "62e74ffe91a82cb47acfb272",
+    "img_url": "https://cdn.7tv.app/emote/62e74ffe91a82cb47acfb272/4x.webp",
+    "page_url": "https://7tv.app/emotes/62e74ffe91a82cb47acfb272",
+    "type": "7TV"
+  },
+  {
     "name": "forsenCD",
     "id": "60ae4d265d3fdae583f7de09",
     "img_url": "https://cdn.7tv.app/emote/60ae4d265d3fdae583f7de09/4x.webp",
@@ -736,9 +750,9 @@
   },
   {
     "name": "gachiHYPER",
-    "id": "59143b496996b360ff9b807c",
-    "img_url": "https://cdn.betterttv.net/emote/59143b496996b360ff9b807c/3x",
-    "page_url": "https://betterttv.com/emotes/59143b496996b360ff9b807c",
+    "id": "63321280ee60425d31b68e47",
+    "img_url": "https://cdn.betterttv.net/emote/63321280ee60425d31b68e47/3x",
+    "page_url": "https://betterttv.com/emotes/63321280ee60425d31b68e47",
     "type": "BTTV"
   },
   {
@@ -852,13 +866,6 @@
     "img_url": "https://cdn.7tv.app/emote/633a7f77a40aa5bc46301af8/4x.webp",
     "page_url": "https://7tv.app/emotes/633a7f77a40aa5bc46301af8",
     "type": "7TV"
-  },
-  {
-    "name": "HAPPIES",
-    "id": "5f914b3d40eb9502e222ae6a",
-    "img_url": "https://cdn.betterttv.net/emote/5f914b3d40eb9502e222ae6a/3x",
-    "page_url": "https://betterttv.com/emotes/5f914b3d40eb9502e222ae6a",
-    "type": "BTTV"
   },
   {
     "name": "HappyGaming",
@@ -2713,6 +2720,13 @@
     "id": "60b06b993cadd71dffe70b61",
     "img_url": "https://cdn.7tv.app/emote/60b06b993cadd71dffe70b61/4x.webp",
     "page_url": "https://7tv.app/emotes/60b06b993cadd71dffe70b61",
+    "type": "7TV"
+  },
+  {
+    "name": "VALORANT",
+    "id": "62105b8e180be49d725bbe88",
+    "img_url": "https://cdn.7tv.app/emote/62105b8e180be49d725bbe88/4x.webp",
+    "page_url": "https://7tv.app/emotes/62105b8e180be49d725bbe88",
     "type": "7TV"
   },
   {
