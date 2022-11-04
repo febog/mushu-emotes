@@ -3535,6 +3535,13 @@
     "type": "7TV"
   },
   {
+    "name": "peepoSitHey",
+    "id": "6336b072e55e3bfee62848c6",
+    "img_url": "https://cdn.7tv.app/emote/6336b072e55e3bfee62848c6/4x.webp",
+    "page_url": "https://7tv.app/emotes/6336b072e55e3bfee62848c6",
+    "type": "7TV"
+  },
+  {
     "name": "peepoSLAM",
     "id": "633831cf7427a4d3e754422e",
     "img_url": "https://cdn.7tv.app/emote/633831cf7427a4d3e754422e/4x.webp",
@@ -4128,6 +4135,13 @@
     "img_url": "https://cdn.betterttv.net/emote/60204c953c0e786c9950152b/3x",
     "page_url": "https://betterttv.com/emotes/60204c953c0e786c9950152b",
     "type": "BTTV"
+  },
+  {
+    "name": "pogg",
+    "id": "61500f246251d7e000daa3ca",
+    "img_url": "https://cdn.7tv.app/emote/61500f246251d7e000daa3ca/4x.webp",
+    "page_url": "https://7tv.app/emotes/61500f246251d7e000daa3ca",
+    "type": "7TV"
   },
   {
     "name": "POGGA",
