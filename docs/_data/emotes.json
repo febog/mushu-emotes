@@ -973,13 +973,6 @@
     "type": "BTTV"
   },
   {
-    "name": "GAMBA",
-    "id": "637ed364cd8b8ab5da8ec1c9",
-    "img_url": "https://cdn.7tv.app/emote/637ed364cd8b8ab5da8ec1c9/4x.webp",
-    "page_url": "https://7tv.app/emotes/637ed364cd8b8ab5da8ec1c9",
-    "type": "7TV"
-  },
-  {
     "name": "Gambage",
     "id": "6111baa1f52732d692e16475",
     "img_url": "https://cdn.7tv.app/emote/6111baa1f52732d692e16475/4x.webp",
@@ -2209,6 +2202,13 @@
     "id": "6104343bfb49175e996f013f",
     "img_url": "https://cdn.7tv.app/emote/6104343bfb49175e996f013f/4x.webp",
     "page_url": "https://7tv.app/emotes/6104343bfb49175e996f013f",
+    "type": "7TV"
+  },
+  {
+    "name": "peepoGamba",
+    "id": "637ed364cd8b8ab5da8ec1c9",
+    "img_url": "https://cdn.7tv.app/emote/637ed364cd8b8ab5da8ec1c9/4x.webp",
+    "page_url": "https://7tv.app/emotes/637ed364cd8b8ab5da8ec1c9",
     "type": "7TV"
   },
   {
