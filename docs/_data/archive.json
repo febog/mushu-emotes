@@ -2646,6 +2646,13 @@
     "type": "7TV"
   },
   {
+    "name": "GryffindorVibe",
+    "id": "63dfe9b0559159f548f297a8",
+    "img_url": "https://cdn.7tv.app/emote/63dfe9b0559159f548f297a8/4x.webp",
+    "page_url": "https://7tv.app/emotes/63dfe9b0559159f548f297a8",
+    "type": "7TV"
+  },
+  {
     "name": "GuitarTime",
     "id": "576befd71f520d6039622f7e",
     "img_url": "https://cdn.betterttv.net/emote/576befd71f520d6039622f7e/3x",
@@ -2867,6 +2874,13 @@
     "id": "62a65febf3cc65c5f220e08b",
     "img_url": "https://cdn.7tv.app/emote/62a65febf3cc65c5f220e08b/4x.webp",
     "page_url": "https://7tv.app/emotes/62a65febf3cc65c5f220e08b",
+    "type": "7TV"
+  },
+  {
+    "name": "HufflepuffVibe",
+    "id": "63dfe97501d3b54083317f73",
+    "img_url": "https://cdn.7tv.app/emote/63dfe97501d3b54083317f73/4x.webp",
+    "page_url": "https://7tv.app/emotes/63dfe97501d3b54083317f73",
     "type": "7TV"
   },
   {
@@ -3106,6 +3120,13 @@
     "img_url": "https://cdn.betterttv.net/emote/6110714676ea4e2b9f7620a6/3x",
     "page_url": "https://betterttv.com/emotes/6110714676ea4e2b9f7620a6",
     "type": "BTTV"
+  },
+  {
+    "name": "Jamgie",
+    "id": "62fb11214eab70358eafaa62",
+    "img_url": "https://cdn.7tv.app/emote/62fb11214eab70358eafaa62/4x.webp",
+    "page_url": "https://7tv.app/emotes/62fb11214eab70358eafaa62",
+    "type": "7TV"
   },
   {
     "name": "Jammies",
@@ -3911,6 +3932,13 @@
     "img_url": "https://cdn.betterttv.net/emote/61121c9d76ea4e2b9f765d8e/3x",
     "page_url": "https://betterttv.com/emotes/61121c9d76ea4e2b9f765d8e",
     "type": "BTTV"
+  },
+  {
+    "name": "MATH",
+    "id": "62362065271ae0e02d71f92c",
+    "img_url": "https://cdn.7tv.app/emote/62362065271ae0e02d71f92c/4x.webp",
+    "page_url": "https://7tv.app/emotes/62362065271ae0e02d71f92c",
+    "type": "7TV"
   },
   {
     "name": "McCorpa",
@@ -6797,6 +6825,13 @@
     "type": "7TV"
   },
   {
+    "name": "pepoBroom",
+    "id": "63d426ef9db7d93a1a309015",
+    "img_url": "https://cdn.7tv.app/emote/63d426ef9db7d93a1a309015/4x.webp",
+    "page_url": "https://7tv.app/emotes/63d426ef9db7d93a1a309015",
+    "type": "7TV"
+  },
+  {
     "name": "PepoG",
     "id": 218530,
     "img_url": "https://cdn.frankerfacez.com/emote/218530/4",
@@ -7532,6 +7567,13 @@
     "type": "7TV"
   },
   {
+    "name": "RavenclawVibe",
+    "id": "63dfe9b1ade6fcadd3499e42",
+    "img_url": "https://cdn.7tv.app/emote/63dfe9b1ade6fcadd3499e42/4x.webp",
+    "page_url": "https://7tv.app/emotes/63dfe9b1ade6fcadd3499e42",
+    "type": "7TV"
+  },
+  {
     "name": "ReallyMad",
     "id": "63643b71e5789bebd03808d6",
     "img_url": "https://cdn.7tv.app/emote/63643b71e5789bebd03808d6/4x.webp",
@@ -7791,6 +7833,13 @@
     "type": "BTTV"
   },
   {
+    "name": "shiaMagic",
+    "id": "6214b58735d91b821ec10d02",
+    "img_url": "https://cdn.7tv.app/emote/6214b58735d91b821ec10d02/4x.webp",
+    "page_url": "https://7tv.app/emotes/6214b58735d91b821ec10d02",
+    "type": "7TV"
+  },
+  {
     "name": "SHOCKED",
     "id": "61d8628482d5237d6795747a",
     "img_url": "https://cdn.7tv.app/emote/61d8628482d5237d6795747a/4x.webp",
@@ -7886,6 +7935,13 @@
     "id": "63de57cd90e9cc0a84889c43",
     "img_url": "https://cdn.7tv.app/emote/63de57cd90e9cc0a84889c43/4x.webp",
     "page_url": "https://7tv.app/emotes/63de57cd90e9cc0a84889c43",
+    "type": "7TV"
+  },
+  {
+    "name": "SlytherinVibe",
+    "id": "63dfe9b75d4acdefd447701a",
+    "img_url": "https://cdn.7tv.app/emote/63dfe9b75d4acdefd447701a/4x.webp",
+    "page_url": "https://7tv.app/emotes/63dfe9b75d4acdefd447701a",
     "type": "7TV"
   },
   {
@@ -8026,6 +8082,13 @@
     "id": "6393bc1927495fe94184872e",
     "img_url": "https://cdn.7tv.app/emote/6393bc1927495fe94184872e/4x.webp",
     "page_url": "https://7tv.app/emotes/6393bc1927495fe94184872e",
+    "type": "7TV"
+  },
+  {
+    "name": "StareHL",
+    "id": "63f6962ae7b1932413a14f8a",
+    "img_url": "https://cdn.7tv.app/emote/63f6962ae7b1932413a14f8a/4x.webp",
+    "page_url": "https://7tv.app/emotes/63f6962ae7b1932413a14f8a",
     "type": "7TV"
   },
   {
