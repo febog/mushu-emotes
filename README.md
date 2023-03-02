@@ -13,3 +13,9 @@ https://febog.github.io/mushu-emotes/
 3. This JSON is saved to a file that is used by GitHub pages to display all the emotes in a table.
 
 Note that the JSON containing the emotes is committed to this repo, which provides version control of the emote array itself.
+
+## Update emotes
+
+```
+npm start && git add . && git commit -m "Update emotes" && git push
+```
