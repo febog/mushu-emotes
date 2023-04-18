@@ -8,7 +8,7 @@ https://febog.github.io/mushu-emotes/
 
 ## Description
 
-1. Retrieves the enabled channel emotes from BTTV, FFZ and 7TV.
+1. Retrieves the enabled channel emotes from [BTTV](https://betterttv.com/), [FFZ](https://www.frankerfacez.com/) and [7TV](https://7tv.app/).
 2. Builds a JSON array with all the emotes sorted by name.
 3. This JSON is saved to a file that is used by GitHub pages to display all the emotes in a table.
 
