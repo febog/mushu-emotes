@@ -161,6 +161,13 @@
     "type": "7TV"
   },
   {
+    "name": "Adge",
+    "id": "61335162a1968527a66917c7",
+    "img_url": "https://cdn.7tv.app/emote/61335162a1968527a66917c7/4x.webp",
+    "page_url": "https://7tv.app/emotes/61335162a1968527a66917c7",
+    "type": "7TV"
+  },
+  {
     "name": "aim",
     "id": "63c6a97f756fc5b80dcdd235",
     "img_url": "https://cdn.7tv.app/emote/63c6a97f756fc5b80dcdd235/4x.webp",
@@ -186,6 +193,13 @@
     "id": "6388f71138b282efeed5a229",
     "img_url": "https://cdn.7tv.app/emote/6388f71138b282efeed5a229/4x.webp",
     "page_url": "https://7tv.app/emotes/6388f71138b282efeed5a229",
+    "type": "7TV"
+  },
+  {
+    "name": "aintnowayShu",
+    "id": "6442e7bfaaac9d677d08c601",
+    "img_url": "https://cdn.7tv.app/emote/6442e7bfaaac9d677d08c601/4x.webp",
+    "page_url": "https://7tv.app/emotes/6442e7bfaaac9d677d08c601",
     "type": "7TV"
   },
   {
@@ -4340,6 +4354,13 @@
     "type": "7TV"
   },
   {
+    "name": "MiniTeaTime",
+    "id": "6183cfd38d50b5f26ee7cbfb",
+    "img_url": "https://cdn.7tv.app/emote/6183cfd38d50b5f26ee7cbfb/4x.webp",
+    "page_url": "https://7tv.app/emotes/6183cfd38d50b5f26ee7cbfb",
+    "type": "7TV"
+  },
+  {
     "name": "MLADY",
     "id": "60afba7199923bbe7fd5fa24",
     "img_url": "https://cdn.7tv.app/emote/60afba7199923bbe7fd5fa24/4x",
@@ -4884,6 +4905,13 @@
     "img_url": "https://cdn.betterttv.net/emote/6405f71bccf0dd06e1af4d9c/3x",
     "page_url": "https://betterttv.com/emotes/6405f71bccf0dd06e1af4d9c",
     "type": "BTTV"
+  },
+  {
+    "name": "mushuWhat",
+    "id": "6440317d39b7f46dd13e0dc2",
+    "img_url": "https://cdn.7tv.app/emote/6440317d39b7f46dd13e0dc2/4x.webp",
+    "page_url": "https://7tv.app/emotes/6440317d39b7f46dd13e0dc2",
+    "type": "7TV"
   },
   {
     "name": "mushuWHATDAHELL",
@@ -5528,6 +5556,13 @@
     "img_url": "https://cdn.betterttv.net/emote/6039b1757c74605395f35165/3x",
     "page_url": "https://betterttv.com/emotes/6039b1757c74605395f35165",
     "type": "BTTV"
+  },
+  {
+    "name": "PARKOUR",
+    "id": "61fc1a9769acfa0715e19b3e",
+    "img_url": "https://cdn.7tv.app/emote/61fc1a9769acfa0715e19b3e/4x.webp",
+    "page_url": "https://7tv.app/emotes/61fc1a9769acfa0715e19b3e",
+    "type": "7TV"
   },
   {
     "name": "PauseChamp",
