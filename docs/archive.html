@@ -1,5 +1,5 @@
 ---
-title: Mushu's emotes
+title: Mushu's emotes archive
 ---
 
 <!DOCTYPE html>
@@ -32,61 +32,11 @@ title: Mushu's emotes
 
     <p class="lead">Chat emotes for Mushu's channel.</p>
 
-    <h2>Stats</h2>
+    <p>Go back to <a href="/">home</a>.</p>
 
-    {% assign stats = site.data.stats %}
+    <h2>Archive</h2>
 
-    <table class="table table-dark table-sm" style="--bs-table-bg: #171717">
-      <thead>
-        <tr>
-          <th>Extension</th>
-          <th>Count</th>
-          <th>Dashboard</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <th>BTTV</th>
-          <td>{{ stats.bttvCount }}</td>
-          <td>
-            <a href="https://betterttv.com/users/5ad749ca77a09f45f07746d7">
-              BetterTTV - Mushu's emotes
-            </a>
-          </td>
-        </tr>
-        <tr>
-          <th>FFZ</th>
-          <td>{{ stats.ffzCount }}</td>
-          <td>
-            <a href="https://www.frankerfacez.com/channel/mushu">
-              Mushu - FrankerFaceZ
-            </a>
-          </td>
-        </tr>
-        <tr>
-          <th>7TV</th>
-          <td>{{ stats.seventvCount }}</td>
-          <td>
-            <a href="https://7tv.app/users/61c0ab5a3040822c38adace7">
-              Mushu - 7TV
-            </a>
-          </td>
-        </tr>
-        <tr>
-          <th>Total</th>
-          <td>{{ stats.totalCount }}</td>
-          <td>-</td>
-        </tr>
-      </tbody>
-    </table>
-
-    <p><small>Last updated: {{ site.time }}</small></p>
-
-    <hr />
-
-    <h2>Emotes</h2>
-
-    <p>List of currently enabled emotes in the channel.</p>
+    <p>List of all the emotes that have ever been enabled in the channel.</p>
 
     <table class="table table-dark table-sm use-data-tables" style="--bs-table-bg: #171717">
       <thead>
@@ -98,7 +48,7 @@ title: Mushu's emotes
         </tr>
       </thead>
       <tbody>
-        {% for emote in site.data.emotes %}
+        {% for emote in site.data.archive %}
         <tr>
           <td class="align-middle">
             <img class="emote-thumbnail" src="{{ emote.img_url }}" alt="{{ emote.name }}" title="{{ emote.name }}" />
@@ -112,10 +62,6 @@ title: Mushu's emotes
         {% endfor %}
       </tbody>
     </table>
-
-    <hr />
-
-    <p>A list with all the emotes that have ever been enabled in the channel can be found in the <a href="/archive.html">archive</a>.</p>
 
     <hr />
 
