@@ -700,13 +700,6 @@
     "type": "7TV"
   },
   {
-    "name": "CLIVE",
-    "id": "649302951599f2e04f8f49d1",
-    "img_url": "https://cdn.7tv.app/emote/649302951599f2e04f8f49d1/4x.webp",
-    "page_url": "https://7tv.app/emotes/649302951599f2e04f8f49d1",
-    "type": "7TV"
-  },
-  {
     "name": "CLOWNDETECTED",
     "id": "618ebe4317e4d50afc0d317a",
     "img_url": "https://cdn.7tv.app/emote/618ebe4317e4d50afc0d317a/4x.webp",
@@ -2289,6 +2282,13 @@
     "type": "7TV"
   },
   {
+    "name": "Madgay",
+    "id": "6297e0a5530ebe71e1a526dc",
+    "img_url": "https://cdn.7tv.app/emote/6297e0a5530ebe71e1a526dc/4x.webp",
+    "page_url": "https://7tv.app/emotes/6297e0a5530ebe71e1a526dc",
+    "type": "7TV"
+  },
+  {
     "name": "Madge",
     "id": "60ae99233c27a8b79c7fcb73",
     "img_url": "https://cdn.7tv.app/emote/60ae99233c27a8b79c7fcb73/4x.webp",
@@ -2436,6 +2436,13 @@
     "type": "7TV"
   },
   {
+    "name": "Modge",
+    "id": "61245ff65f23f05ed8235f40",
+    "img_url": "https://cdn.7tv.app/emote/61245ff65f23f05ed8235f40/4x.webp",
+    "page_url": "https://7tv.app/emotes/61245ff65f23f05ed8235f40",
+    "type": "7TV"
+  },
+  {
     "name": "MODS",
     "id": "60ddd4ac6ef5a66f41167490",
     "img_url": "https://cdn.7tv.app/emote/60ddd4ac6ef5a66f41167490/4x.webp",
@@ -2531,13 +2538,6 @@
     "id": "60cde0a12b0e577603bc124d",
     "img_url": "https://cdn.7tv.app/emote/60cde0a12b0e577603bc124d/4x.webp",
     "page_url": "https://7tv.app/emotes/60cde0a12b0e577603bc124d",
-    "type": "7TV"
-  },
-  {
-    "name": "moogleJAM",
-    "id": "634e4672b9693a5e127b840f",
-    "img_url": "https://cdn.7tv.app/emote/634e4672b9693a5e127b840f/4x.webp",
-    "page_url": "https://7tv.app/emotes/634e4672b9693a5e127b840f",
     "type": "7TV"
   },
   {
@@ -4184,6 +4184,13 @@
     "img_url": "https://cdn.7tv.app/emote/603cb9fd73d7a5001441f9b4/4x.webp",
     "page_url": "https://7tv.app/emotes/603cb9fd73d7a5001441f9b4",
     "type": "7TV"
+  },
+  {
+    "name": "pepeRun",
+    "id": "5ff05a265ae5852e415491eb",
+    "img_url": "https://cdn.betterttv.net/emote/5ff05a265ae5852e415491eb/3x",
+    "page_url": "https://betterttv.com/emotes/5ff05a265ae5852e415491eb",
+    "type": "BTTV"
   },
   {
     "name": "PepeSpin",

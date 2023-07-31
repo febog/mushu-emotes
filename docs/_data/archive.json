@@ -4634,6 +4634,13 @@
     "type": "7TV"
   },
   {
+    "name": "Madgay",
+    "id": "6297e0a5530ebe71e1a526dc",
+    "img_url": "https://cdn.7tv.app/emote/6297e0a5530ebe71e1a526dc/4x.webp",
+    "page_url": "https://7tv.app/emotes/6297e0a5530ebe71e1a526dc",
+    "type": "7TV"
+  },
+  {
     "name": "Madge",
     "id": 510861,
     "img_url": "https://cdn.frankerfacez.com/emote/510861/4",
@@ -4988,6 +4995,13 @@
     "id": "603fe923115b55000d728314",
     "img_url": "https://cdn.7tv.app/emote/603fe923115b55000d728314/4x.webp",
     "page_url": "https://7tv.app/emotes/603fe923115b55000d728314",
+    "type": "7TV"
+  },
+  {
+    "name": "Modge",
+    "id": "61245ff65f23f05ed8235f40",
+    "img_url": "https://cdn.7tv.app/emote/61245ff65f23f05ed8235f40/4x.webp",
+    "page_url": "https://7tv.app/emotes/61245ff65f23f05ed8235f40",
     "type": "7TV"
   },
   {
@@ -8306,6 +8320,13 @@
     "id": "614a52bab63cc97ee6d2b041",
     "img_url": "https://cdn.betterttv.net/emote/614a52bab63cc97ee6d2b041/3x",
     "page_url": "https://betterttv.com/emotes/614a52bab63cc97ee6d2b041",
+    "type": "BTTV"
+  },
+  {
+    "name": "pepeRun",
+    "id": "5ff05a265ae5852e415491eb",
+    "img_url": "https://cdn.betterttv.net/emote/5ff05a265ae5852e415491eb/3x",
+    "page_url": "https://betterttv.com/emotes/5ff05a265ae5852e415491eb",
     "type": "BTTV"
   },
   {
