@@ -101,7 +101,10 @@ title: Mushu's emotes
         {% for emote in site.data.emotes %}
         <tr>
           <td class="align-middle">
-            <img class="emote-thumbnail" src="{{ emote.img_url }}" alt="{{ emote.name }}" title="{{ emote.name }}" />
+            <img class="emote-thumbnail"
+                 src="{{ emote.img_url }}"
+                 alt="{{ emote.name }} emote in {{ emote.type }}"
+                 title="{{ emote.name }} emote in {{ emote.type }}" />
           </td>
           <td class="align-middle">{{ emote.name }} </td>
           <td class="align-middle">
