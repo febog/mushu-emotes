@@ -9247,6 +9247,13 @@
     "type": "BTTV"
   },
   {
+    "name": "ratFight",
+    "id": "63bb108ec14facb143f33205",
+    "img_url": "https://cdn.7tv.app/emote/63bb108ec14facb143f33205/4x.webp",
+    "page_url": "https://7tv.app/emotes/63bb108ec14facb143f33205",
+    "type": "7TV"
+  },
+  {
     "name": "ratio",
     "id": "61ed00cccc9507d24fd4cdd0",
     "img_url": "https://cdn.7tv.app/emote/61ed00cccc9507d24fd4cdd0/4x.webp",
@@ -10028,6 +10035,13 @@
     "id": "6393bc1927495fe94184872e",
     "img_url": "https://cdn.7tv.app/emote/6393bc1927495fe94184872e/4x.webp",
     "page_url": "https://7tv.app/emotes/6393bc1927495fe94184872e",
+    "type": "7TV"
+  },
+  {
+    "name": "Starege",
+    "id": "60b6d8bff09ea8807203992b",
+    "img_url": "https://cdn.7tv.app/emote/60b6d8bff09ea8807203992b/4x.webp",
+    "page_url": "https://7tv.app/emotes/60b6d8bff09ea8807203992b",
     "type": "7TV"
   },
   {

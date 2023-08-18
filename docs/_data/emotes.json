@@ -861,13 +861,6 @@
     "type": "7TV"
   },
   {
-    "name": "Damien",
-    "id": "6259da56131d4588262a9ac9",
-    "img_url": "https://cdn.7tv.app/emote/6259da56131d4588262a9ac9/4x.webp",
-    "page_url": "https://7tv.app/emotes/6259da56131d4588262a9ac9",
-    "type": "7TV"
-  },
-  {
     "name": "DANCIES",
     "id": "62b4ae70a71bddc849d257b1",
     "img_url": "https://cdn.7tv.app/emote/62b4ae70a71bddc849d257b1/4x.webp",
@@ -1159,6 +1152,13 @@
     "id": "60fbc20c4653f5d6c1afa451",
     "img_url": "https://cdn.7tv.app/emote/60fbc20c4653f5d6c1afa451/4x.webp",
     "page_url": "https://7tv.app/emotes/60fbc20c4653f5d6c1afa451",
+    "type": "7TV"
+  },
+  {
+    "name": "dvaAss",
+    "id": "62fbeaa551ad49da5126e830",
+    "img_url": "https://cdn.7tv.app/emote/62fbeaa551ad49da5126e830/4x.webp",
+    "page_url": "https://7tv.app/emotes/62fbeaa551ad49da5126e830",
     "type": "7TV"
   },
   {
@@ -4662,6 +4662,13 @@
     "type": "BTTV"
   },
   {
+    "name": "ratFight",
+    "id": "63bb108ec14facb143f33205",
+    "img_url": "https://cdn.7tv.app/emote/63bb108ec14facb143f33205/4x.webp",
+    "page_url": "https://7tv.app/emotes/63bb108ec14facb143f33205",
+    "type": "7TV"
+  },
+  {
     "name": "ratio",
     "id": "61ed00cccc9507d24fd4cdd0",
     "img_url": "https://cdn.7tv.app/emote/61ed00cccc9507d24fd4cdd0/4x.webp",
@@ -5058,6 +5065,13 @@
     "id": "614781643d8c2d23697a9d03",
     "img_url": "https://cdn.7tv.app/emote/614781643d8c2d23697a9d03/4x.webp",
     "page_url": "https://7tv.app/emotes/614781643d8c2d23697a9d03",
+    "type": "7TV"
+  },
+  {
+    "name": "Starege",
+    "id": "60b6d8bff09ea8807203992b",
+    "img_url": "https://cdn.7tv.app/emote/60b6d8bff09ea8807203992b/4x.webp",
+    "page_url": "https://7tv.app/emotes/60b6d8bff09ea8807203992b",
     "type": "7TV"
   },
   {
@@ -5726,7 +5740,7 @@
     "type": "7TV"
   },
   {
-    "name": "woah",
+    "name": "WOAH",
     "id": "64498f39263ce45e543708f4",
     "img_url": "https://cdn.7tv.app/emote/64498f39263ce45e543708f4/4x.webp",
     "page_url": "https://7tv.app/emotes/64498f39263ce45e543708f4",
