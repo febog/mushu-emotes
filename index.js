@@ -58,14 +58,14 @@ async function updateEmoteList() {
   const seventvResponse = await axios.get(
     process.env.SEVENTV_CHANNEL_EMOTES_URL
   );
-  seventvResponse.data.map((e) => emoteList.push(getSeventvEmote(e)));
+  seventvResponse.data.emote_set.emotes.map((e) => emoteList.push(getSeventvEmote(e)));
 
   // Count emotes
   const ffzCount = ffzResponse.data.sets[process.env.FFZ_SET_ID].emoticons.length;
   const bttvCount =
     bttvChannelResponse.data.channelEmotes.length +
     bttvChannelResponse.data.sharedEmotes.length;
-  const seventvCount = seventvResponse.data.length;
+  const seventvCount = seventvResponse.data.emote_set.emotes.length;
   const count = new Count(
     ffzCount,
     bttvCount,
@@ -146,7 +146,7 @@ function getFfzEmote(e) {
  */
 function getSeventvEmote(e) {
   // Fourth URL is the highest resolution image, if not available, use first
-  let seventvEmoteUrl = `${e.urls[3][1] || e.urls[0][1]}`;
+  let seventvEmoteUrl = `https:${e.data.host.url}/4x.webp`;
   let seventvEmotePage = `https://7tv.app/emotes/${e.id}`;
   let emote = new Emote(e.name, e.id, seventvEmoteUrl, seventvEmotePage, "7TV");
   return emote;
