@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "",
+    "emotes": "node index.js && git checkout main && git add . && git commit -m \"Update emotes\" && git push",
     "start": "node index.js"
   },
   "repository": {
