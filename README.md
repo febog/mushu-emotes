@@ -16,6 +16,8 @@ Note that the JSON containing the emotes is committed to this repo, which provid
 
 ## Update emotes
 
+This will update the emote website to the latest emotes. Requires push permissions to `main`.
+
 ```
-npm start && git add . && git commit -m "Update emotes" && git push
+npm run emotes
 ```
