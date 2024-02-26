@@ -161,7 +161,6 @@ function emoteSort(a, b) {
   // If same name, use ID
   if (nameComparison === 0) {
     return a.id.toString() > b.id.toString() ? 1 : -1;
-
   }
   return nameComparison
 }
