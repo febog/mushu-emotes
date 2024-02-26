@@ -50,8 +50,8 @@ async function updateEmoteList() {
 
   // Get BTTV channel and shared emotes, undocumented API.
   const bttvChannelResponse = await axios.get(BTTV_CHANNEL_EMOTES_URL);
-  bttvChannelResponse.data.channelEmotes.map((e) => emoteList.push(getBttvEmote(e, "BTTV")));
-  bttvChannelResponse.data.sharedEmotes.map((e) => emoteList.push(getBttvEmote(e, "BTTV")));
+  bttvChannelResponse.data.channelEmotes.map((e) => emoteList.push(getBttvEmote(e)));
+  bttvChannelResponse.data.sharedEmotes.map((e) => emoteList.push(getBttvEmote(e)));
 
   // Get 7TV channel emotes
   const seventvResponse = await axios.get(SEVENTV_CHANNEL_EMOTES_URL);
@@ -118,10 +118,10 @@ updateEmoteList();
  * @param {*} e Emote object from BTTV response
  * @param {*} bttvType {BTTV Channel, BTTV Shared}
  */
-function getBttvEmote(e, bttvType) {
+function getBttvEmote(e) {
   let bttvEmoteUrl = `https://cdn.betterttv.net/emote/${e.id}/3x`;
   let bttvEmotePage = `https://betterttv.com/emotes/${e.id}`;
-  let emote = new Emote(e.code, e.id, bttvEmoteUrl, bttvEmotePage, bttvType);
+  let emote = new Emote(e.code, e.id, bttvEmoteUrl, bttvEmotePage, "BTTV");
   return emote;
 }
 
