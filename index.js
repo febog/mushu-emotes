@@ -46,25 +46,15 @@ async function updateEmoteList() {
 
   // Get FFZ channel emotes
   const ffzResponse = await axios.get(FFZ_CHANNEL_EMOTES_URL);
-  ffzResponse.data.sets[FFZ_SET_ID].emoticons.map((e) =>
-    emoteList.push(getFfzEmote(e))
-  );
+  ffzResponse.data.sets[FFZ_SET_ID].emoticons.map((e) => emoteList.push(getFfzEmote(e)));
 
   // Get BTTV channel and shared emotes, undocumented API.
-  const bttvChannelResponse = await axios.get(
-    BTTV_CHANNEL_EMOTES_URL
-  );
-  bttvChannelResponse.data.channelEmotes.map((e) =>
-    emoteList.push(getBttvEmote(e, "BTTV"))
-  );
-  bttvChannelResponse.data.sharedEmotes.map((e) =>
-    emoteList.push(getBttvEmote(e, "BTTV"))
-  );
+  const bttvChannelResponse = await axios.get(BTTV_CHANNEL_EMOTES_URL);
+  bttvChannelResponse.data.channelEmotes.map((e) => emoteList.push(getBttvEmote(e, "BTTV")));
+  bttvChannelResponse.data.sharedEmotes.map((e) => emoteList.push(getBttvEmote(e, "BTTV")));
 
   // Get 7TV channel emotes
-  const seventvResponse = await axios.get(
-    SEVENTV_CHANNEL_EMOTES_URL
-  );
+  const seventvResponse = await axios.get(SEVENTV_CHANNEL_EMOTES_URL);
   seventvResponse.data.emote_set.emotes.map((e) => emoteList.push(getSeventvEmote(e)));
 
   // Count emotes
