@@ -1,6 +1,6 @@
 {
   "name": "mushu-emotes",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Emote tracker for Mushu channel",
   "main": "index.js",
   "scripts": {
@@ -14,12 +14,9 @@
   },
   "author": "Felipe Bojorquez",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/febog/mushu-emotes/issues"
-  },
   "homepage": "https://github.com/febog/mushu-emotes#readme",
   "dependencies": {
-    "axios": "^0.22.0",
-    "dotenv": "^10.0.0"
+    "axios": "^1.6.7",
+    "dotenv": "^16.4.5"
   }
 }
