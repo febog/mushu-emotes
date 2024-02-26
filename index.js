@@ -83,10 +83,9 @@ async function updateEmoteList() {
   });
 
   // Archive emotes if they don't exist yet in the emote archive
-  let emoteArchive = [];
   fs.readFile(ARCHIVE_PATH, "utf8", function (err, data) {
     if (err) throw err;
-    emoteArchive = JSON.parse(data);
+    const emoteArchive = JSON.parse(data);
     emoteList.forEach((emote) => {
       if (emoteArchive.findIndex((archive) => archive.id === emote.id) === -1) {
         emoteArchive.push(emote);
