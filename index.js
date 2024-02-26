@@ -42,6 +42,7 @@ class Count {
 }
 
 async function updateEmoteList() {
+  // Array of Emote objects
   const emoteList = [];
 
   // Get FFZ channel emotes
