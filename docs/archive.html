@@ -50,35 +50,7 @@ title: Archive - Mushu's Emotes
 
     <p>List of all the emotes that have ever been enabled in the channel.</p>
 
-    <table class="table use-data-tables" style="width: 100%;">
-      <thead>
-        <tr>
-          <th>Emote</th>
-          <th>Name</th>
-          <th>Id</th>
-          <th>Type</th>
-        </tr>
-      </thead>
-      <tbody>
-        {% for emote in site.data.archive %}
-        <tr>
-          <td class="align-middle text-start">
-            <img class="emote-thumbnail"
-                 src="{{ emote.img_url }}"
-                 alt="{{ emote.name }} emote in {{ emote.type }}"
-                 title="{{ emote.name }} emote in {{ emote.type }}" />
-          </td>
-          <td class="align-middle" style="text-overflow:ellipsis; overflow: hidden; max-width: 0"
-              title="{{ emote.name }}">{{ emote.name }}</td>
-          <td class="align-middle">
-            <a href="{{ emote.page_url }}" target="_blank" rel="noopener noreferrer"
-               title="Go to {{ emote.name }} emote page in {{ emote.type }}"> {{ emote.id }} </a>
-          </td>
-          <td class="align-middle">{{ emote.type }}</td>
-        </tr>
-        {% endfor %}
-      </tbody>
-    </table>
+    {% include emote-table.html emotes=site.data.archive %}
 
     <hr />
 
