@@ -17,11 +17,11 @@ const FFZ_SET_ID = process.env.FFZ_SET_ID;
 class Emote {
   /**
    * For every emote, we collect the following data:
-   * @param {string} name Emote code
-   * @param {string} id Internal ID
+   * @param {string} name Emote code (the emote name)
+   * @param {string} id Internal ID (provider's emote ID)
    * @param {string} img_url Image URL for thumbnail
-   * @param {string} page_url BTTV or FFZ emote page
-   * @param {string} type {FFZ, BTTV Channel, BTTV Shared}
+   * @param {string} page_url Provider's emote page
+   * @param {string} type {FFZ, BTTV, 7TV}
    */
   constructor(name, id, img_url, page_url, type) {
     this.name = name;
