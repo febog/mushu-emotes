@@ -7,6 +7,13 @@ const EMOTE_LIST_PATH = "docs/_data/emotes.json";
 const STATS_PATH = "docs/_data/stats.json";
 const ARCHIVE_PATH = "docs/_data/archive.json";
 
+// The code loads emotes from 3 different extension emote providers.
+// Get the channel emotes URLs from environment variables for all providers.
+const FFZ_CHANNEL_EMOTES_URL = process.env.FFZ_CHANNEL_EMOTES_URL;
+const BTTV_CHANNEL_EMOTES_URL = process.env.BTTV_CHANNEL_EMOTES_URL;
+const SEVENTV_CHANNEL_EMOTES_URL = process.env.SEVENTV_CHANNEL_EMOTES_URL;
+const FFZ_SET_ID = process.env.FFZ_SET_ID;
+
 class Emote {
   /**
    * For every emote, we collect the following data:
@@ -38,14 +45,14 @@ async function updateEmoteList() {
   const emoteList = [];
 
   // Get FFZ channel emotes
-  const ffzResponse = await axios.get(process.env.FFZ_CHANNEL_EMOTES_URL);
-  ffzResponse.data.sets[process.env.FFZ_SET_ID].emoticons.map((e) =>
+  const ffzResponse = await axios.get(FFZ_CHANNEL_EMOTES_URL);
+  ffzResponse.data.sets[FFZ_SET_ID].emoticons.map((e) =>
     emoteList.push(getFfzEmote(e))
   );
 
   // Get BTTV channel and shared emotes, undocumented API.
   const bttvChannelResponse = await axios.get(
-    process.env.BTTV_CHANNEL_EMOTES_URL
+    BTTV_CHANNEL_EMOTES_URL
   );
   bttvChannelResponse.data.channelEmotes.map((e) =>
     emoteList.push(getBttvEmote(e, "BTTV"))
@@ -56,7 +63,7 @@ async function updateEmoteList() {
 
   // Get 7TV channel emotes
   const seventvResponse = await axios.get(
-    process.env.SEVENTV_CHANNEL_EMOTES_URL
+    SEVENTV_CHANNEL_EMOTES_URL
   );
   seventvResponse.data.emote_set.emotes.map((e) => emoteList.push(getSeventvEmote(e)));
 
