@@ -115,7 +115,6 @@ updateEmoteList();
 /**
  * Parse BTTV response and return an emote
  * @param {*} e Emote object from BTTV response
- * @param {*} bttvType {BTTV Channel, BTTV Shared}
  */
 function getBttvEmote(e) {
   let bttvEmoteUrl = `https://cdn.betterttv.net/emote/${e.id}/3x`;
