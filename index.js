@@ -117,9 +117,9 @@ updateEmoteList();
  * @param {*} e Emote object from BTTV response
  */
 function getBttvEmote(e) {
-  let bttvEmoteUrl = `https://cdn.betterttv.net/emote/${e.id}/3x`;
-  let bttvEmotePage = `https://betterttv.com/emotes/${e.id}`;
-  let emote = new Emote(e.code, e.id, bttvEmoteUrl, bttvEmotePage, "BTTV");
+  const bttvEmoteUrl = `https://cdn.betterttv.net/emote/${e.id}/3x`;
+  const bttvEmotePage = `https://betterttv.com/emotes/${e.id}`;
+  const emote = new Emote(e.code, e.id, bttvEmoteUrl, bttvEmotePage, "BTTV");
   return emote;
 }
 
@@ -129,9 +129,9 @@ function getBttvEmote(e) {
  */
 function getFfzEmote(e) {
   // "4" URL is the highest resolution image, if not available, use "1"
-  let ffzEmoteUrl = `${e.urls["4"] || e.urls["1"]}`;
-  let ffzEmotePage = `https://www.frankerfacez.com/emoticon/${e.id}-${e.name}`;
-  let emote = new Emote(e.name, e.id, ffzEmoteUrl, ffzEmotePage, "FFZ");
+  const ffzEmoteUrl = `${e.urls["4"] || e.urls["1"]}`;
+  const ffzEmotePage = `https://www.frankerfacez.com/emoticon/${e.id}-${e.name}`;
+  const emote = new Emote(e.name, e.id, ffzEmoteUrl, ffzEmotePage, "FFZ");
   return emote;
 }
 
@@ -141,9 +141,9 @@ function getFfzEmote(e) {
  */
 function getSeventvEmote(e) {
   // Fourth URL is the highest resolution image, if not available, use first
-  let seventvEmoteUrl = `https:${e.data.host.url}/4x.webp`;
-  let seventvEmotePage = `https://7tv.app/emotes/${e.id}`;
-  let emote = new Emote(e.name, e.id, seventvEmoteUrl, seventvEmotePage, "7TV");
+  const seventvEmoteUrl = `https:${e.data.host.url}/4x.webp`;
+  const seventvEmotePage = `https://7tv.app/emotes/${e.id}`;
+  const emote = new Emote(e.name, e.id, seventvEmoteUrl, seventvEmotePage, "7TV");
   return emote;
 }
 
