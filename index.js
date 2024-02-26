@@ -46,16 +46,16 @@ async function updateEmoteList() {
 
   // Get FFZ channel emotes
   const ffzResponse = await axios.get(FFZ_CHANNEL_EMOTES_URL);
-  ffzResponse.data.sets[FFZ_SET_ID].emoticons.map((e) => emoteList.push(getFfzEmote(e)));
+  ffzResponse.data.sets[FFZ_SET_ID].emoticons.map((e) => emoteList.push(parseFfzEmote(e)));
 
   // Get BTTV channel and shared emotes, undocumented API.
   const bttvChannelResponse = await axios.get(BTTV_CHANNEL_EMOTES_URL);
-  bttvChannelResponse.data.channelEmotes.map((e) => emoteList.push(getBttvEmote(e)));
-  bttvChannelResponse.data.sharedEmotes.map((e) => emoteList.push(getBttvEmote(e)));
+  bttvChannelResponse.data.channelEmotes.map((e) => emoteList.push(parseBttvEmote(e)));
+  bttvChannelResponse.data.sharedEmotes.map((e) => emoteList.push(parseBttvEmote(e)));
 
   // Get 7TV channel emotes
   const seventvResponse = await axios.get(SEVENTV_CHANNEL_EMOTES_URL);
-  seventvResponse.data.emote_set.emotes.map((e) => emoteList.push(getSeventvEmote(e)));
+  seventvResponse.data.emote_set.emotes.map((e) => emoteList.push(parseSeventvEmote(e)));
 
   // Count emotes
   const ffzCount = ffzResponse.data.sets[process.env.FFZ_SET_ID].emoticons.length;
@@ -116,7 +116,7 @@ updateEmoteList();
  * Parse BTTV response and return an emote
  * @param {*} e Emote object from BTTV response
  */
-function getBttvEmote(e) {
+function parseBttvEmote(e) {
   const bttvEmoteUrl = `https://cdn.betterttv.net/emote/${e.id}/3x`;
   const bttvEmotePage = `https://betterttv.com/emotes/${e.id}`;
   const emote = new Emote(e.code, e.id, bttvEmoteUrl, bttvEmotePage, "BTTV");
@@ -127,7 +127,7 @@ function getBttvEmote(e) {
  * Parse FFZ response and return an emote
  * @param {*} e Emote object from FFZ response
  */
-function getFfzEmote(e) {
+function parseFfzEmote(e) {
   // "4" URL is the highest resolution image, if not available, use "1"
   const ffzEmoteUrl = `${e.urls["4"] || e.urls["1"]}`;
   const ffzEmotePage = `https://www.frankerfacez.com/emoticon/${e.id}-${e.name}`;
@@ -139,7 +139,7 @@ function getFfzEmote(e) {
  * Parse 7TV response and return an emote
  * @param {*} e Emote object from 7TV response
  */
-function getSeventvEmote(e) {
+function parseSeventvEmote(e) {
   // Fourth URL is the highest resolution image, if not available, use first
   const seventvEmoteUrl = `https:${e.data.host.url}/4x.webp`;
   const seventvEmotePage = `https://7tv.app/emotes/${e.id}`;
