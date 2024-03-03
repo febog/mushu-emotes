@@ -2709,6 +2709,13 @@
     "type": "7TV"
   },
   {
+    "name": "DEVIN",
+    "id": "65e3464480346e1cb843bcb5",
+    "img_url": "https://cdn.7tv.app/emote/65e3464480346e1cb843bcb5/4x.webp",
+    "page_url": "https://7tv.app/emotes/65e3464480346e1cb843bcb5",
+    "type": "7TV"
+  },
+  {
     "name": "DFlirt",
     "id": "61f5b02f356ca68083735720",
     "img_url": "https://cdn.7tv.app/emote/61f5b02f356ca68083735720/4x.webp",
@@ -3343,6 +3350,13 @@
     "id": "61bcd748fba91c72ead724f1",
     "img_url": "https://cdn.7tv.app/emote/61bcd748fba91c72ead724f1/4x.webp",
     "page_url": "https://7tv.app/emotes/61bcd748fba91c72ead724f1",
+    "type": "7TV"
+  },
+  {
+    "name": "EXCUSES",
+    "id": "6465748043c2a132decb8d77",
+    "img_url": "https://cdn.7tv.app/emote/6465748043c2a132decb8d77/4x.webp",
+    "page_url": "https://7tv.app/emotes/6465748043c2a132decb8d77",
     "type": "7TV"
   },
   {
