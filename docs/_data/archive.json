@@ -868,6 +868,13 @@
     "type": "7TV"
   },
   {
+    "name": "Barrett",
+    "id": "648b71442fc873e3eed4c908",
+    "img_url": "https://cdn.7tv.app/emote/648b71442fc873e3eed4c908/4x.webp",
+    "page_url": "https://7tv.app/emotes/648b71442fc873e3eed4c908",
+    "type": "7TV"
+  },
+  {
     "name": "BarretWallace",
     "id": "640b85b9bb5f80d6fb724546",
     "img_url": "https://cdn.7tv.app/emote/640b85b9bb5f80d6fb724546/4x.webp",
@@ -1929,6 +1936,13 @@
     "id": "622ac670e49c1245004c690e",
     "img_url": "https://cdn.7tv.app/emote/622ac670e49c1245004c690e/4x.webp",
     "page_url": "https://7tv.app/emotes/622ac670e49c1245004c690e",
+    "type": "7TV"
+  },
+  {
+    "name": "CidHighwind",
+    "id": "640bd8f6c873755e679ee3d5",
+    "img_url": "https://cdn.7tv.app/emote/640bd8f6c873755e679ee3d5/4x.webp",
+    "page_url": "https://7tv.app/emotes/640bd8f6c873755e679ee3d5",
     "type": "7TV"
   },
   {
@@ -3997,10 +4011,24 @@
     "type": "7TV"
   },
   {
+    "name": "FrogAdvance",
+    "id": "6360950d3362e0ea9a899940",
+    "img_url": "https://cdn.7tv.app/emote/6360950d3362e0ea9a899940/4x.webp",
+    "page_url": "https://7tv.app/emotes/6360950d3362e0ea9a899940",
+    "type": "7TV"
+  },
+  {
     "name": "frogBlink",
     "id": "64bab86e1dd536dcd4204395",
     "img_url": "https://cdn.7tv.app/emote/64bab86e1dd536dcd4204395/4x.webp",
     "page_url": "https://7tv.app/emotes/64bab86e1dd536dcd4204395",
+    "type": "7TV"
+  },
+  {
+    "name": "FrogDance",
+    "id": "60b15edce3eb19a24fc76012",
+    "img_url": "https://cdn.7tv.app/emote/60b15edce3eb19a24fc76012/4x.webp",
+    "page_url": "https://7tv.app/emotes/60b15edce3eb19a24fc76012",
     "type": "7TV"
   },
   {
@@ -7070,6 +7098,13 @@
     "type": "7TV"
   },
   {
+    "name": "mushuDoor",
+    "id": "65f24690cb18538e486f2199",
+    "img_url": "https://cdn.7tv.app/emote/65f24690cb18538e486f2199/4x.webp",
+    "page_url": "https://7tv.app/emotes/65f24690cb18538e486f2199",
+    "type": "7TV"
+  },
+  {
     "name": "mushuEEEUGH",
     "id": "65bd86ca62abc584e3de39e1",
     "img_url": "https://cdn.7tv.app/emote/65bd86ca62abc584e3de39e1/4x.webp",
@@ -8390,6 +8425,13 @@
     "id": "628e5da5836261e3f0a6f963",
     "img_url": "https://cdn.7tv.app/emote/628e5da5836261e3f0a6f963/4x.webp",
     "page_url": "https://7tv.app/emotes/628e5da5836261e3f0a6f963",
+    "type": "7TV"
+  },
+  {
+    "name": "OneWingedAngel",
+    "id": "635fcbef9d230d9a6017ca67",
+    "img_url": "https://cdn.7tv.app/emote/635fcbef9d230d9a6017ca67/4x.webp",
+    "page_url": "https://7tv.app/emotes/635fcbef9d230d9a6017ca67",
     "type": "7TV"
   },
   {
@@ -12467,6 +12509,13 @@
     "type": "7TV"
   },
   {
+    "name": "SephiroThink",
+    "id": "635fc89f4a87fe459d3f4a96",
+    "img_url": "https://cdn.7tv.app/emote/635fc89f4a87fe459d3f4a96/4x.webp",
+    "page_url": "https://7tv.app/emotes/635fc89f4a87fe459d3f4a96",
+    "type": "7TV"
+  },
+  {
     "name": "sephPls",
     "id": "64a7f2036b69e1b647fe123d",
     "img_url": "https://cdn.7tv.app/emote/64a7f2036b69e1b647fe123d/4x.webp",
@@ -13384,6 +13433,13 @@
     "type": "7TV"
   },
   {
+    "name": "ThisGuy",
+    "id": "65ee20d0b0862a7d9d65c37d",
+    "img_url": "https://cdn.7tv.app/emote/65ee20d0b0862a7d9d65c37d/4x.webp",
+    "page_url": "https://7tv.app/emotes/65ee20d0b0862a7d9d65c37d",
+    "type": "7TV"
+  },
+  {
     "name": "tifa",
     "id": "641b568bd9a6d79949255da0",
     "img_url": "https://cdn.7tv.app/emote/641b568bd9a6d79949255da0/4x.webp",
@@ -13871,6 +13927,27 @@
     "id": "623920bb51efa34ad851213b",
     "img_url": "https://cdn.7tv.app/emote/623920bb51efa34ad851213b/4x.webp",
     "page_url": "https://7tv.app/emotes/623920bb51efa34ad851213b",
+    "type": "7TV"
+  },
+  {
+    "name": "vincent",
+    "id": "65e81331b8dfb78e524b0847",
+    "img_url": "https://cdn.7tv.app/emote/65e81331b8dfb78e524b0847/4x.webp",
+    "page_url": "https://7tv.app/emotes/65e81331b8dfb78e524b0847",
+    "type": "7TV"
+  },
+  {
+    "name": "VincentValentine",
+    "id": "640c014cec477abd3f5868ae",
+    "img_url": "https://cdn.7tv.app/emote/640c014cec477abd3f5868ae/4x.webp",
+    "page_url": "https://7tv.app/emotes/640c014cec477abd3f5868ae",
+    "type": "7TV"
+  },
+  {
+    "name": "VincentVolume",
+    "id": "65ef26da21ed36b33a81f404",
+    "img_url": "https://cdn.7tv.app/emote/65ef26da21ed36b33a81f404/4x.webp",
+    "page_url": "https://7tv.app/emotes/65ef26da21ed36b33a81f404",
     "type": "7TV"
   },
   {
