@@ -4,7 +4,7 @@ Welcome!
 
 This is a small website for keeping track of Mushu's Twitch channel FFZ, BTTV and 7TV emotes.
 
-https://febog.github.io/mushu-emotes/
+https://emotes.botshu.com/
 
 ## Description
 
