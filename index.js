@@ -13,13 +13,13 @@ const userId = process.env.TWITCH_USER_ID_MUSHU;
 // FFZ (https://www.frankerfacez.com/)
 // API Documentation: https://api.frankerfacez.com/docs/#/Rooms/get_v1_room_id__twitchID_
 const FFZ_CHANNEL_EMOTES_URL = "https://api.frankerfacez.com/v1/room/id/" + userId;
+const FFZ_SET_ID = process.env.FFZ_SET_ID;
 // BTTV (https://betterttv.com/)
 // API Documentation: https://betterttv.com/developers/api#user
 const BTTV_CHANNEL_EMOTES_URL = "https://api.betterttv.net/3/cached/users/twitch/" + userId;
 // 7TV (https://7tv.app/)
 // API Documentation: https://7tv.io/docs ("Get User Connection")
 const SEVENTV_CHANNEL_EMOTES_URL = "https://7tv.io/v3/users/twitch/" + userId;
-const FFZ_SET_ID = process.env.FFZ_SET_ID;
 
 class Emote {
   /**
@@ -66,7 +66,7 @@ async function updateEmoteList() {
   seventvResponse.data.emote_set.emotes.map((e) => emoteList.push(parseSeventvEmote(e)));
 
   // Count emotes
-  const ffzCount = ffzResponse.data.sets[process.env.FFZ_SET_ID].emoticons.length;
+  const ffzCount = ffzResponse.data.sets[FFZ_SET_ID].emoticons.length;
   const bttvCount =
     bttvChannelResponse.data.channelEmotes.length +
     bttvChannelResponse.data.sharedEmotes.length;
