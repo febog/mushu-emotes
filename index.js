@@ -9,9 +9,16 @@ const ARCHIVE_PATH = "docs/_data/archive.json";
 
 // The code loads emotes from 3 different extension emote providers.
 // Get the channel emotes URLs from environment variables for all providers.
-const FFZ_CHANNEL_EMOTES_URL = process.env.FFZ_CHANNEL_EMOTES_URL;
-const BTTV_CHANNEL_EMOTES_URL = process.env.BTTV_CHANNEL_EMOTES_URL;
-const SEVENTV_CHANNEL_EMOTES_URL = process.env.SEVENTV_CHANNEL_EMOTES_URL;
+const userId = process.env.TWITCH_USER_ID_MUSHU;
+// FFZ (https://www.frankerfacez.com/)
+// API Documentation: https://api.frankerfacez.com/docs/#/Rooms/get_v1_room_id__twitchID_
+const FFZ_CHANNEL_EMOTES_URL = "https://api.frankerfacez.com/v1/room/id/" + userId;
+// BTTV (https://betterttv.com/)
+// API Documentation: https://betterttv.com/developers/api#user
+const BTTV_CHANNEL_EMOTES_URL = "https://api.betterttv.net/3/cached/users/twitch/" + userId;
+// 7TV (https://7tv.app/)
+// API Documentation: https://7tv.io/docs ("Get User Connection")
+const SEVENTV_CHANNEL_EMOTES_URL = "https://7tv.io/v3/users/twitch/" + userId;
 const FFZ_SET_ID = process.env.FFZ_SET_ID;
 
 class Emote {
