@@ -1,18 +1,22 @@
 # Mushu's emotes 🐉
 
-Welcome!
-
-This is a small website for keeping track of Mushu's Twitch channel FFZ, BTTV and 7TV emotes.
+This is a small website for keeping track of Mushu's Twitch channel [FFZ](https://www.frankerfacez.com/), [BTTV](https://betterttv.com/) and [7TV](https://7tv.app/) emotes using [GitHub Pages](https://pages.github.com/).
 
 https://emotes.botshu.com/
 
 ## Description
 
-1. Retrieves the enabled channel emotes from [BTTV](https://betterttv.com/), [FFZ](https://www.frankerfacez.com/) and [7TV](https://7tv.app/).
-2. Builds a JSON array with all the emotes sorted by name.
-3. This JSON is saved to a file that is used by [GitHub Pages](https://pages.github.com/) to display all the emotes in a table.
+In general terms, the code does the following:
+
+1. Calls the different public APIs of the different emote providers to get a list of enabled emotes in the channel.
+2. Parses all the emotes into a single array that follows a common data model as defined by the class `Emote`.
+3. Stores the emote list as a JSON array into files showing the current and historical emotes for archival purposes.
+4. Creates a file with some stats about the enabled emotes.
+5. These JSON files are used to create a [GitHub Pages](https://pages.github.com/) website that shows the list of emotes.
 
 Note that the JSON containing the emotes is committed to this repo, which provides version control of the emote array itself.
+
+The website is made using [Jekyll](https://jekyllrb.com/), the engine used by GitHub Pages. It uses a [Bootstrap](https://getbootstrap.com/) based layout, using [DataTables](https://datatables.net/) to display the data and [Jekyll Includes](https://jekyllrb.com/docs/includes/) to keep things organized.
 
 ## Update emotes
 
