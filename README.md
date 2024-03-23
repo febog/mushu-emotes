@@ -25,3 +25,10 @@ This will update the emote website to the latest emotes. Requires push permissio
 ```
 npm run emotes
 ```
+
+## Environment variables
+
+The code needs two environment variables to work:
+
+- `TWITCH_USER_ID_MUSHU`: The Twitch user ID of the channel we want to retrieve the emotes from
+- `FFZ_SET_ID`: FFZ internal ID needed for their API.
