@@ -56,7 +56,7 @@ async function updateEmoteList() {
   const ffzResponse = await axios.get(FFZ_CHANNEL_EMOTES_URL);
   ffzResponse.data.sets[FFZ_SET_ID].emoticons.map((e) => emoteList.push(parseFfzEmote(e)));
 
-  // Get BTTV channel and shared emotes, undocumented API.
+  // Get BTTV channel and shared emotes
   const bttvChannelResponse = await axios.get(BTTV_CHANNEL_EMOTES_URL);
   bttvChannelResponse.data.channelEmotes.map((e) => emoteList.push(parseBttvEmote(e)));
   bttvChannelResponse.data.sharedEmotes.map((e) => emoteList.push(parseBttvEmote(e)));
