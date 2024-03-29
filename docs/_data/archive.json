@@ -112,6 +112,13 @@
     "type": "7TV"
   },
   {
+    "name": "!siu",
+    "id": "613f494f962a609048643d20",
+    "img_url": "https://cdn.7tv.app/emote/613f494f962a609048643d20/4x.webp",
+    "page_url": "https://7tv.app/emotes/613f494f962a609048643d20",
+    "type": "7TV"
+  },
+  {
     "name": "!sr",
     "id": "6410558d1a2dac5c04e38c12",
     "img_url": "https://cdn.7tv.app/emote/6410558d1a2dac5c04e38c12/4x.webp",
@@ -1806,6 +1813,13 @@
     "type": "7TV"
   },
   {
+    "name": "catSlap",
+    "id": "65a7eec447725c71041f201d",
+    "img_url": "https://cdn.7tv.app/emote/65a7eec447725c71041f201d/4x.webp",
+    "page_url": "https://7tv.app/emotes/65a7eec447725c71041f201d",
+    "type": "7TV"
+  },
+  {
     "name": "catTwerk",
     "id": "6140a03e0969108b6718d2f2",
     "img_url": "https://cdn.7tv.app/emote/6140a03e0969108b6718d2f2/4x.webp",
@@ -3245,6 +3259,13 @@
     "id": "616f0b32ffc7244d797c7746",
     "img_url": "https://cdn.7tv.app/emote/616f0b32ffc7244d797c7746/4x.webp",
     "page_url": "https://7tv.app/emotes/616f0b32ffc7244d797c7746",
+    "type": "7TV"
+  },
+  {
+    "name": "DUBSTEP",
+    "id": "63eee380297728b6898ad0ea",
+    "img_url": "https://cdn.7tv.app/emote/63eee380297728b6898ad0ea/4x.webp",
+    "page_url": "https://7tv.app/emotes/63eee380297728b6898ad0ea",
     "type": "7TV"
   },
   {
