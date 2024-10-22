@@ -28,13 +28,6 @@
     "type": "7TV"
   },
   {
-    "name": "ahmadmuhsin",
-    "id": "01J92B1VHR0009FK91XEVHESD7",
-    "img_url": "https://cdn.7tv.app/emote/01J92B1VHR0009FK91XEVHESD7/4x.webp",
-    "page_url": "https://7tv.app/emotes/01J92B1VHR0009FK91XEVHESD7",
-    "type": "7TV"
-  },
-  {
     "name": "AINTNOWAY",
     "id": "01HEZCPXGR000CMV1G1SG34T0B",
     "img_url": "https://cdn.7tv.app/emote/01HEZCPXGR000CMV1G1SG34T0B/4x.webp",
@@ -434,13 +427,6 @@
     "type": "7TV"
   },
   {
-    "name": "DonkDink",
-    "id": "01F6QWF42G000B4N55W5NS5NG6",
-    "img_url": "https://cdn.7tv.app/emote/01F6QWF42G000B4N55W5NS5NG6/4x.webp",
-    "page_url": "https://7tv.app/emotes/01F6QWF42G000B4N55W5NS5NG6",
-    "type": "7TV"
-  },
-  {
     "name": "DOYOUFEELTHEWEIGHTOFYOURSINSDOESITHURTDOESGODSJUDGEMENTFILLYOUWITHGUILTTORMENTTHEYRECOMINGTHEYRECOMI",
     "id": "01G9X8G5BR0002CV4R5967HYE5",
     "img_url": "https://cdn.7tv.app/emote/01G9X8G5BR0002CV4R5967HYE5/4x.webp",
@@ -700,13 +686,6 @@
     "type": "7TV"
   },
   {
-    "name": "ISeeYou",
-    "id": "01FM12WES0000F3BGNNF3YRTYB",
-    "img_url": "https://cdn.7tv.app/emote/01FM12WES0000F3BGNNF3YRTYB/4x.webp",
-    "page_url": "https://7tv.app/emotes/01FM12WES0000F3BGNNF3YRTYB",
-    "type": "7TV"
-  },
-  {
     "name": "Joel",
     "id": "01GDDH8YB00006HHND776VFYN8",
     "img_url": "https://cdn.7tv.app/emote/01GDDH8YB00006HHND776VFYN8/4x.webp",
@@ -907,13 +886,6 @@
     "id": "01GE7XDPHG00077M44K0MYHH5W",
     "img_url": "https://cdn.7tv.app/emote/01GE7XDPHG00077M44K0MYHH5W/4x.webp",
     "page_url": "https://7tv.app/emotes/01GE7XDPHG00077M44K0MYHH5W",
-    "type": "7TV"
-  },
-  {
-    "name": "MORE",
-    "id": "01G95TFWJG000A8XQAZ12ZRNGB",
-    "img_url": "https://cdn.7tv.app/emote/01G95TFWJG000A8XQAZ12ZRNGB/4x.webp",
-    "page_url": "https://7tv.app/emotes/01G95TFWJG000A8XQAZ12ZRNGB",
     "type": "7TV"
   },
   {
@@ -1138,6 +1110,13 @@
     "id": "01J7VZ62MG000EWF9H6ZW302FZ",
     "img_url": "https://cdn.7tv.app/emote/01J7VZ62MG000EWF9H6ZW302FZ/4x.webp",
     "page_url": "https://7tv.app/emotes/01J7VZ62MG000EWF9H6ZW302FZ",
+    "type": "7TV"
+  },
+  {
+    "name": "oda",
+    "id": "01J92B1VHR0009FK91XEVHESD7",
+    "img_url": "https://cdn.7tv.app/emote/01J92B1VHR0009FK91XEVHESD7/4x.webp",
+    "page_url": "https://7tv.app/emotes/01J92B1VHR0009FK91XEVHESD7",
     "type": "7TV"
   },
   {
