@@ -938,6 +938,13 @@
     "type": "7TV"
   },
   {
+    "name": "christmasHat",
+    "id": "01GJR02G6R0000RGKJ2Z1YE8QZ",
+    "img_url": "https://cdn.7tv.app/emote/01GJR02G6R0000RGKJ2Z1YE8QZ/4x.webp",
+    "page_url": "https://7tv.app/emotes/01GJR02G6R0000RGKJ2Z1YE8QZ",
+    "type": "7TV"
+  },
+  {
     "name": "CHUG",
     "id": "01FXVHE9C0000E970J8M04RT8E",
     "img_url": "https://cdn.7tv.app/emote/01FXVHE9C0000E970J8M04RT8E/4x.webp",
@@ -4026,9 +4033,9 @@
   },
   {
     "name": "oda",
-    "id": "01J17WK010000DX4MZBQSYH8ZA",
-    "img_url": "https://cdn.7tv.app/emote/01J17WK010000DX4MZBQSYH8ZA/4x.webp",
-    "page_url": "https://7tv.app/emotes/01J17WK010000DX4MZBQSYH8ZA",
+    "id": "01HGAXB74G000CTRZ0KB6ATD8H",
+    "img_url": "https://cdn.7tv.app/emote/01HGAXB74G000CTRZ0KB6ATD8H/4x.webp",
+    "page_url": "https://7tv.app/emotes/01HGAXB74G000CTRZ0KB6ATD8H",
     "type": "7TV"
   },
   {
