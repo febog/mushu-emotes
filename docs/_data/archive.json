@@ -1470,6 +1470,13 @@
     "type": "BTTV"
   },
   {
+    "name": "ayayaJAM",
+    "id": "01F6T2PXRG000AEDCJGCDKQQJA",
+    "img_url": "https://cdn.7tv.app/emote/01F6T2PXRG000AEDCJGCDKQQJA/4x.webp",
+    "page_url": "https://7tv.app/emotes/01F6T2PXRG000AEDCJGCDKQQJA",
+    "type": "7TV"
+  },
+  {
     "name": "AYAYAY",
     "id": 250475,
     "img_url": "https://cdn.frankerfacez.com/emote/250475/4",
@@ -17875,6 +17882,13 @@
     "id": "629f7ed33cfb54ec859bb216",
     "img_url": "https://cdn.7tv.app/emote/629f7ed33cfb54ec859bb216/4x.webp",
     "page_url": "https://7tv.app/emotes/629f7ed33cfb54ec859bb216",
+    "type": "7TV"
+  },
+  {
+    "name": "peepoLeaveForGood",
+    "id": "01FAAF6T8G0001QH13EAG5QEA8",
+    "img_url": "https://cdn.7tv.app/emote/01FAAF6T8G0001QH13EAG5QEA8/4x.webp",
+    "page_url": "https://7tv.app/emotes/01FAAF6T8G0001QH13EAG5QEA8",
     "type": "7TV"
   },
   {
