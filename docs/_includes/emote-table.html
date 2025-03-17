@@ -1,7 +1,9 @@
 <table class="table use-data-tables" style="width: 100%;">
   <thead>
     <tr>
+      {% if include.show_thumbnails %}
       <th>Emote</th>
+      {% endif %}
       <th>Name</th>
       <th>Id</th>
       <th>Type</th>
@@ -10,12 +12,14 @@
   <tbody>
     {% for emote in include.emotes %}
     <tr>
+      {% if include.show_thumbnails %}
       <td class="align-middle text-start">
         <img class="emote-thumbnail"
              src="{{ emote.img_url }}"
              alt="{{ emote.name }} emote in {{ emote.type }}"
              title="{{ emote.name }} emote in {{ emote.type }}" />
       </td>
+      {% endif %}
       <td class="align-middle" style="text-overflow:ellipsis; overflow: hidden; max-width: 0"
           title="{{ emote.name }}">{{ emote.name }}</td>
       <td class="align-middle" style="text-overflow:ellipsis; overflow: hidden; max-width: 0">
