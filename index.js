@@ -125,7 +125,7 @@ updateEmoteList();
  * @param {*} e Emote object from BTTV response
  */
 function parseBttvEmote(e) {
-  const bttvEmoteUrl = `https://cdn.betterttv.net/emote/${e.id}/3x`;
+  const bttvEmoteUrl = `https://cdn.betterttv.net/emote/${e.id}/1x`;
   const bttvEmotePage = `https://betterttv.com/emotes/${e.id}`;
   const emote = new Emote(e.code, e.id, bttvEmoteUrl, bttvEmotePage, "BTTV");
   return emote;
@@ -136,8 +136,8 @@ function parseBttvEmote(e) {
  * @param {*} e Emote object from FFZ response
  */
 function parseFfzEmote(e) {
-  // "4" URL is the highest resolution image, if not available, use "1"
-  const ffzEmoteUrl = `${e.urls["4"] || e.urls["1"]}`;
+  // "4" URL is the highest resolution image, using the smallest "1" by default
+  const ffzEmoteUrl = `${e.urls["1"]}`;
   const ffzEmotePage = `https://www.frankerfacez.com/emoticon/${e.id}-${e.name}`;
   const emote = new Emote(e.name, e.id, ffzEmoteUrl, ffzEmotePage, "FFZ");
   return emote;
@@ -148,8 +148,7 @@ function parseFfzEmote(e) {
  * @param {*} e Emote object from 7TV response
  */
 function parseSeventvEmote(e) {
-  // Fourth URL is the highest resolution image, if not available, use first
-  const seventvEmoteUrl = `https:${e.data.host.url}/4x.webp`;
+  const seventvEmoteUrl = `https:${e.data.host.url}/1x.webp`;
   const seventvEmotePage = `https://7tv.app/emotes/${e.id}`;
   const emote = new Emote(e.name, e.id, seventvEmoteUrl, seventvEmotePage, "7TV");
   return emote;
