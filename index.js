@@ -13,7 +13,6 @@ const userId = process.env.TWITCH_USER_ID_MUSHU;
 // FFZ (https://www.frankerfacez.com/)
 // API Documentation: https://api.frankerfacez.com/docs/#/Rooms/get_v1_room_id__twitchID_
 const FFZ_CHANNEL_EMOTES_URL = "https://api.frankerfacez.com/v1/room/id/" + userId;
-const FFZ_SET_ID = process.env.FFZ_SET_ID;
 // BTTV (https://betterttv.com/)
 // API Documentation: https://betterttv.com/developers/api#user
 const BTTV_CHANNEL_EMOTES_URL = "https://api.betterttv.net/3/cached/users/twitch/" + userId;
@@ -54,6 +53,8 @@ async function updateEmoteList() {
 
   // Get FFZ channel emotes
   const ffzResponse = await axios.get(FFZ_CHANNEL_EMOTES_URL);
+  // The list of emotes exists under "sets" under the property indicated by the set ID.
+  const FFZ_SET_ID = ffzResponse.data.room.set;
   ffzResponse.data.sets[FFZ_SET_ID].emoticons.map((e) => emoteList.push(parseFfzEmote(e)));
 
   // Get BTTV channel and shared emotes
