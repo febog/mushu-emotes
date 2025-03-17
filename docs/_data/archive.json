@@ -4207,6 +4207,13 @@
     "type": "7TV"
   },
   {
+    "name": "COOKED",
+    "id": "01JJ0D0C2XWZ640NP4WJKB8MYX",
+    "img_url": "https://cdn.7tv.app/emote/01JJ0D0C2XWZ640NP4WJKB8MYX/4x.webp",
+    "page_url": "https://7tv.app/emotes/01JJ0D0C2XWZ640NP4WJKB8MYX",
+    "type": "7TV"
+  },
+  {
     "name": "CookieTime",
     "id": "635b0184ea9ce7391cbf77d6",
     "img_url": "https://cdn.7tv.app/emote/635b0184ea9ce7391cbf77d6/4x.webp",
@@ -8453,6 +8460,13 @@
     "id": "60cfa94dca263e7ca4f8ef0c",
     "img_url": "https://cdn.7tv.app/emote/60cfa94dca263e7ca4f8ef0c/4x.webp",
     "page_url": "https://7tv.app/emotes/60cfa94dca263e7ca4f8ef0c",
+    "type": "7TV"
+  },
+  {
+    "name": "HappyArrive",
+    "id": "01GEJKPNN80007GP4GFJM7DSWR",
+    "img_url": "https://cdn.7tv.app/emote/01GEJKPNN80007GP4GFJM7DSWR/4x.webp",
+    "page_url": "https://7tv.app/emotes/01GEJKPNN80007GP4GFJM7DSWR",
     "type": "7TV"
   },
   {

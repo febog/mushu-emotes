@@ -1064,6 +1064,13 @@
     "type": "7TV"
   },
   {
+    "name": "COOKED",
+    "id": "01JJ0D0C2XWZ640NP4WJKB8MYX",
+    "img_url": "https://cdn.7tv.app/emote/01JJ0D0C2XWZ640NP4WJKB8MYX/4x.webp",
+    "page_url": "https://7tv.app/emotes/01JJ0D0C2XWZ640NP4WJKB8MYX",
+    "type": "7TV"
+  },
+  {
     "name": "Cooking",
     "id": "01FNY96E9R0001BCZZ99DVHSSB",
     "img_url": "https://cdn.7tv.app/emote/01FNY96E9R0001BCZZ99DVHSSB/4x.webp",
@@ -2091,6 +2098,13 @@
     "img_url": "https://cdn.betterttv.net/emote/5f914b3d40eb9502e222ae6a/3x",
     "page_url": "https://betterttv.com/emotes/5f914b3d40eb9502e222ae6a",
     "type": "BTTV"
+  },
+  {
+    "name": "HappyArrive",
+    "id": "01GEJKPNN80007GP4GFJM7DSWR",
+    "img_url": "https://cdn.7tv.app/emote/01GEJKPNN80007GP4GFJM7DSWR/4x.webp",
+    "page_url": "https://7tv.app/emotes/01GEJKPNN80007GP4GFJM7DSWR",
+    "type": "7TV"
   },
   {
     "name": "HappyGaming",
