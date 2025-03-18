@@ -28,6 +28,6 @@ npm run emotes
 
 ## Environment variables
 
-The code needs two environment variables to work:
+The code needs one environment variable to work:
 
 - `TWITCH_USER_ID_MUSHU`: The Twitch user ID of the channel we want to retrieve the emotes from
