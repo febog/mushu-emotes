@@ -15,6 +15,7 @@
       {% if include.show_thumbnails %}
       <td class="align-middle text-start">
         <img class="emote-thumbnail"
+             loading="lazy"
              src="{{ emote.img_url }}"
              alt="{{ emote.name }} emote in {{ emote.type }}"
              title="{{ emote.name }} emote in {{ emote.type }}" />
