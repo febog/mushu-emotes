@@ -77,6 +77,16 @@
         }
       }
     }
+
+    function textContainsEveryTerm(text, terms) {
+      for (let i = 0; i < terms.length; i++) {
+        const term = terms[i];
+        if (text.toLowerCase().indexOf(term) < 0) {
+          return false;
+        }
+      }
+      return true;
+    }
   </script>
 </body>
 
