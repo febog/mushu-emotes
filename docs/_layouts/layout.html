@@ -49,7 +49,7 @@
     function filterTable() {
       const searchInput = document.getElementById("table-search-input");
       const searchString = searchInput.value.toLowerCase();
-      const terms = searchString.replace(/\s+/g, " ").trim().split(" ");
+      const searchTerms = searchString.replace(/\s+/g, " ").trim().split(" ");
       const table = document.getElementById("emote-table");
       const rows = table.getElementsByTagName("tr");
       let visibleRows = 0;
@@ -67,7 +67,7 @@
         }
         const rowText = cellsText.join(" ");
         // Search for each filter term
-        if (textContainsEveryTerm(rowText, terms)) {
+        if (textContainsEveryTerm(rowText, searchTerms)) {
           row.style.display = "";
           visibleRows++;
         } else {
