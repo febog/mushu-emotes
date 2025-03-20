@@ -1,4 +1,16 @@
-<table class="table use-data-tables" style="width: 100%;">
+<search>
+  <form class="row row-cols-lg-auto g-3 align-items-center">
+    <div class="col-12">
+      <label for="table-search-input">Search:</label>
+    </div>
+    <div class="col-12 flex-grow-1">
+      <input type="text" class="form-control" id="table-search-input" placeholder="Filter the table..."
+             onkeyup="filterTable()">
+    </div>
+  </form>
+</search>
+
+<table class="table" id="emote-table" style="width: 100%;">
   <thead>
     <tr>
       {% if include.show_thumbnails %}

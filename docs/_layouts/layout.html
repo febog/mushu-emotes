@@ -49,25 +49,34 @@
 
   <!-- Scripts -->
 
-  <!-- jQuery -->
-  <script src="https://code.jquery.com/jquery-3.7.1.min.js"
-          integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo="
-          crossorigin="anonymous"></script>
-
-  <!-- Bootstrap 5 JS -->
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
-          integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
-          crossorigin="anonymous"></script>
-
-  <!-- DataTables JS & extra DataTable Bootstrap JS -->
-  <script src="https://cdn.datatables.net/2.0.2/js/dataTables.min.js"></script>
-  <script src="https://cdn.datatables.net/2.0.2/js/dataTables.bootstrap5.min.js"></script>
-
-  <!-- Init DataTables -->
   <script>
-    $(document).ready(function () {
-      $(".use-data-tables").DataTable();
-    });
+    function filterTable() {
+      const searchInput = document.getElementById("table-search-input");
+      const searchString = searchInput.value.toLowerCase();
+      const table = document.getElementById("emote-table");
+      const rows = table.getElementsByTagName("tr");
+      // Start search on all rows from second row onwards, to skip headers
+      for (let i = 1; i < rows.length; i++) {
+        const row = rows[i];
+        const rowCells = row.getElementsByTagName("td");
+        const cellsText = [];
+        // Extract text from cells
+        for (let j = 0; j < rowCells.length; j++) {
+          const dataCell = rowCells[j];
+          if (dataCell) {
+            cellsText.push(dataCell.textContent);
+          }
+        }
+        const rowText = cellsText.join(" ");
+        // Search for each filter term
+        const terms = searchString.replace(/\s+/g, " ").trim().split(" ");
+        if (textContainsEveryTerm(rowText, terms)) {
+          row.style.display = "";
+        } else {
+          row.style.display = "none";
+        }
+      }
+    }
   </script>
 </body>
 
