@@ -51,6 +51,7 @@
       const searchString = searchInput.value.toLowerCase();
       const table = document.getElementById("emote-table");
       const rows = table.getElementsByTagName("tr");
+      let visibleRows = 0;
       // Start search on all rows from second row onwards, to skip headers
       for (let i = 1; i < rows.length; i++) {
         const row = rows[i];
@@ -68,10 +69,14 @@
         const terms = searchString.replace(/\s+/g, " ").trim().split(" ");
         if (textContainsEveryTerm(rowText, terms)) {
           row.style.display = "";
+          visibleRows++;
         } else {
           row.style.display = "none";
         }
       }
+      // Update the shown emotes counter
+      const counter = document.getElementById("visible-emote-count");
+      counter.textContent = visibleRows;
     }
 
     function textContainsEveryTerm(text, terms) {
