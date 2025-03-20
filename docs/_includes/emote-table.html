@@ -33,13 +33,13 @@
              title="{{ emote.name }} emote in {{ emote.type }}" />
       </td>
       {% endif %}
-      <td class="align-middle" style="text-overflow:ellipsis; overflow: hidden; max-width: 0"
+      <td class="align-middle" style="text-overflow:ellipsis; overflow: hidden"
           title="{{ emote.name }}">{{ emote.name }}</td>
-      <td class="align-middle" style="text-overflow:ellipsis; overflow: hidden; max-width: 0">
+      <td class="align-middle" style="width: 1px">
         <a href="{{ emote.page_url }}" target="_blank" rel="noopener noreferrer"
            title="Go to {{ emote.name }} emote page in {{ emote.type }}"> {{ emote.id }} </a>
       </td>
-      <td class="align-middle">{{ emote.type }}</td>
+      <td class="align-middle" style="width: 1px">{{ emote.type }}</td>
     </tr>
     {% endfor %}
   </tbody>
