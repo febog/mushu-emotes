@@ -1,5 +1,4 @@
 require("dotenv").config();
-const axios = require("axios");
 const fs = require("fs");
 
 // Paths for storing results
@@ -52,26 +51,27 @@ async function updateEmoteList() {
   const emoteList = [];
 
   // Get FFZ channel emotes
-  const ffzResponse = await axios.get(FFZ_CHANNEL_EMOTES_URL);
+  const ffzResponse = await fetch(FFZ_CHANNEL_EMOTES_URL);
   // The list of emotes exists under "sets" under the property indicated by the set ID.
-  const FFZ_SET_ID = ffzResponse.data.room.set;
-  ffzResponse.data.sets[FFZ_SET_ID].emoticons.map((e) => emoteList.push(parseFfzEmote(e)));
+  const ffzData = await ffzResponse.json();
+  const FFZ_SET_ID = ffzData.room.set;
+  ffzData.sets[FFZ_SET_ID].emoticons.map((e) => emoteList.push(parseFfzEmote(e)));
 
   // Get BTTV channel and shared emotes
-  const bttvChannelResponse = await axios.get(BTTV_CHANNEL_EMOTES_URL);
-  bttvChannelResponse.data.channelEmotes.map((e) => emoteList.push(parseBttvEmote(e)));
-  bttvChannelResponse.data.sharedEmotes.map((e) => emoteList.push(parseBttvEmote(e)));
+  const bttvChannelResponse = await fetch(BTTV_CHANNEL_EMOTES_URL);
+  const bttvChannelData = await bttvChannelResponse.json();
+  bttvChannelData.channelEmotes.map((e) => emoteList.push(parseBttvEmote(e)));
+  bttvChannelData.sharedEmotes.map((e) => emoteList.push(parseBttvEmote(e)));
 
   // Get 7TV channel emotes
-  const seventvResponse = await axios.get(SEVENTV_CHANNEL_EMOTES_URL);
-  seventvResponse.data.emote_set.emotes.map((e) => emoteList.push(parseSeventvEmote(e)));
+  const seventvResponse = await fetch(SEVENTV_CHANNEL_EMOTES_URL);
+  const seventvData = await seventvResponse.json();
+  seventvData.emote_set.emotes.map((e) => emoteList.push(parseSeventvEmote(e)));
 
   // Count emotes
-  const ffzCount = ffzResponse.data.sets[FFZ_SET_ID].emoticons.length;
-  const bttvCount =
-    bttvChannelResponse.data.channelEmotes.length +
-    bttvChannelResponse.data.sharedEmotes.length;
-  const seventvCount = seventvResponse.data.emote_set.emotes.length;
+  const ffzCount = ffzData.sets[FFZ_SET_ID].emoticons.length;
+  const bttvCount = bttvChannelData.channelEmotes.length + bttvChannelData.sharedEmotes.length;
+  const seventvCount = seventvData.emote_set.emotes.length;
   const count = new Count(
     ffzCount,
     bttvCount,
