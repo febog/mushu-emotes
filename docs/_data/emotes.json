@@ -2618,6 +2618,13 @@
     "type": "7TV"
   },
   {
+    "name": "LaPetiteMushu",
+    "id": "01JTK8X62KKRTW0SPWYYFA35DZ",
+    "img_url": "https://cdn.7tv.app/emote/01JTK8X62KKRTW0SPWYYFA35DZ/1x.webp",
+    "page_url": "https://7tv.app/emotes/01JTK8X62KKRTW0SPWYYFA35DZ",
+    "type": "7TV"
+  },
+  {
     "name": "LastTimeChatter",
     "id": "01HCQ9PASR000BF7H2V3FS0BHQ",
     "img_url": "https://cdn.7tv.app/emote/01HCQ9PASR000BF7H2V3FS0BHQ/1x.webp",
@@ -2671,6 +2678,13 @@
     "id": "01JREJMA57JSNB8N74JVF1M7GS",
     "img_url": "https://cdn.7tv.app/emote/01JREJMA57JSNB8N74JVF1M7GS/1x.webp",
     "page_url": "https://7tv.app/emotes/01JREJMA57JSNB8N74JVF1M7GS",
+    "type": "7TV"
+  },
+  {
+    "name": "lePoissonShu",
+    "id": "01JT994C81MDZZSRW3M1T55S5Q",
+    "img_url": "https://cdn.7tv.app/emote/01JT994C81MDZZSRW3M1T55S5Q/1x.webp",
+    "page_url": "https://7tv.app/emotes/01JT994C81MDZZSRW3M1T55S5Q",
     "type": "7TV"
   },
   {
@@ -4814,6 +4828,13 @@
     "img_url": "https://cdn.frankerfacez.com/emote/451117/1",
     "page_url": "https://www.frankerfacez.com/emoticon/451117-peepoLove",
     "type": "FFZ"
+  },
+  {
+    "name": "peepoMelt",
+    "id": "01FSJF66X80001Z3WXBKV36V61",
+    "img_url": "https://cdn.7tv.app/emote/01FSJF66X80001Z3WXBKV36V61/1x.webp",
+    "page_url": "https://7tv.app/emotes/01FSJF66X80001Z3WXBKV36V61",
+    "type": "7TV"
   },
   {
     "name": "peepoNerd",
