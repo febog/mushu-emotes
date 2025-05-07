@@ -994,10 +994,17 @@
     "type": "7TV"
   },
   {
-    "name": "Cinema",
+    "name": "CINEMA",
     "id": "01GBFDVP18000CRDCG0DV7KEMY",
     "img_url": "https://cdn.7tv.app/emote/01GBFDVP18000CRDCG0DV7KEMY/1x.webp",
     "page_url": "https://7tv.app/emotes/01GBFDVP18000CRDCG0DV7KEMY",
+    "type": "7TV"
+  },
+  {
+    "name": "Cinema",
+    "id": "01JTNX55M3HSRAE08RBX6RF2CY",
+    "img_url": "https://cdn.7tv.app/emote/01JTNX55M3HSRAE08RBX6RF2CY/1x.webp",
+    "page_url": "https://7tv.app/emotes/01JTNX55M3HSRAE08RBX6RF2CY",
     "type": "7TV"
   },
   {
@@ -5425,13 +5432,6 @@
     "type": "7TV"
   },
   {
-    "name": "POGGIES",
-    "id": "01F6Q7WGW80009K4HVQSZYKEQ1",
-    "img_url": "https://cdn.7tv.app/emote/01F6Q7WGW80009K4HVQSZYKEQ1/1x.webp",
-    "page_url": "https://7tv.app/emotes/01F6Q7WGW80009K4HVQSZYKEQ1",
-    "type": "7TV"
-  },
-  {
     "name": "PogTasty",
     "id": "01F8TXJRR800061H51MDJH7505",
     "img_url": "https://cdn.7tv.app/emote/01F8TXJRR800061H51MDJH7505/1x.webp",
@@ -6423,6 +6423,13 @@
     "id": "01FFQVQCW80009CAK0J1469EJM",
     "img_url": "https://cdn.7tv.app/emote/01FFQVQCW80009CAK0J1469EJM/1x.webp",
     "page_url": "https://7tv.app/emotes/01FFQVQCW80009CAK0J1469EJM",
+    "type": "7TV"
+  },
+  {
+    "name": "Tragique",
+    "id": "01GSJSQZ4R0001FXFP6EYD0BSX",
+    "img_url": "https://cdn.7tv.app/emote/01GSJSQZ4R0001FXFP6EYD0BSX/1x.webp",
+    "page_url": "https://7tv.app/emotes/01GSJSQZ4R0001FXFP6EYD0BSX",
     "type": "7TV"
   },
   {

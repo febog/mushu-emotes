@@ -3753,6 +3753,13 @@
   },
   {
     "name": "Cinema",
+    "id": "01JTNX55M3HSRAE08RBX6RF2CY",
+    "img_url": "https://cdn.7tv.app/emote/01JTNX55M3HSRAE08RBX6RF2CY/1x.webp",
+    "page_url": "https://7tv.app/emotes/01JTNX55M3HSRAE08RBX6RF2CY",
+    "type": "7TV"
+  },
+  {
+    "name": "Cinema",
     "id": "6309f329cc3590037679ba9e",
     "img_url": "https://cdn.7tv.app/emote/6309f329cc3590037679ba9e/1x.webp",
     "page_url": "https://7tv.app/emotes/6309f329cc3590037679ba9e",
@@ -25022,6 +25029,13 @@
     "id": "01GC59CJE80007QQ63E9TWW5KP",
     "img_url": "https://cdn.7tv.app/emote/01GC59CJE80007QQ63E9TWW5KP/1x.webp",
     "page_url": "https://7tv.app/emotes/01GC59CJE80007QQ63E9TWW5KP",
+    "type": "7TV"
+  },
+  {
+    "name": "Tragique",
+    "id": "01GSJSQZ4R0001FXFP6EYD0BSX",
+    "img_url": "https://cdn.7tv.app/emote/01GSJSQZ4R0001FXFP6EYD0BSX/1x.webp",
+    "page_url": "https://7tv.app/emotes/01GSJSQZ4R0001FXFP6EYD0BSX",
     "type": "7TV"
   },
   {
