@@ -3787,6 +3787,13 @@
     "type": "7TV"
   },
   {
+    "name": "Cinemave",
+    "id": "01JT8MG64B1D3Z5GTS04J0564A",
+    "img_url": "https://cdn.7tv.app/emote/01JT8MG64B1D3Z5GTS04J0564A/1x.webp",
+    "page_url": "https://7tv.app/emotes/01JT8MG64B1D3Z5GTS04J0564A",
+    "type": "7TV"
+  },
+  {
     "name": "Clap",
     "id": "55b6f480e66682f576dd94f5",
     "img_url": "https://cdn.betterttv.net/emote/55b6f480e66682f576dd94f5/1x",
@@ -7756,6 +7763,20 @@
     "type": "7TV"
   },
   {
+    "name": "GestDance",
+    "id": "01JTVC0KHT6NNKK5G1SXG8EPZ9",
+    "img_url": "https://cdn.7tv.app/emote/01JTVC0KHT6NNKK5G1SXG8EPZ9/1x.webp",
+    "page_url": "https://7tv.app/emotes/01JTVC0KHT6NNKK5G1SXG8EPZ9",
+    "type": "7TV"
+  },
+  {
+    "name": "GestFine",
+    "id": "01JTTGNBYYZFYPYKGQNDZW8Y6Z",
+    "img_url": "https://cdn.7tv.app/emote/01JTTGNBYYZFYPYKGQNDZW8Y6Z/1x.webp",
+    "page_url": "https://7tv.app/emotes/01JTTGNBYYZFYPYKGQNDZW8Y6Z",
+    "type": "7TV"
+  },
+  {
     "name": "getsomehelp",
     "id": "01FSJAPXYG0007E5TN8YT2B35B",
     "img_url": "https://cdn.7tv.app/emote/01FSJAPXYG0007E5TN8YT2B35B/1x.webp",
@@ -8068,6 +8089,13 @@
     "id": "6243cf0c30c252fcb4797568",
     "img_url": "https://cdn.7tv.app/emote/6243cf0c30c252fcb4797568/1x.webp",
     "page_url": "https://7tv.app/emotes/6243cf0c30c252fcb4797568",
+    "type": "7TV"
+  },
+  {
+    "name": "glorpSmash",
+    "id": "01J3S3MCXR0008PT8PKHDP8ZYA",
+    "img_url": "https://cdn.7tv.app/emote/01J3S3MCXR0008PT8PKHDP8ZYA/1x.webp",
+    "page_url": "https://7tv.app/emotes/01J3S3MCXR0008PT8PKHDP8ZYA",
     "type": "7TV"
   },
   {
@@ -27570,6 +27598,13 @@
     "id": "61210761db57a0b4c8bf6634",
     "img_url": "https://cdn.7tv.app/emote/61210761db57a0b4c8bf6634/1x.webp",
     "page_url": "https://7tv.app/emotes/61210761db57a0b4c8bf6634",
+    "type": "7TV"
+  },
+  {
+    "name": "YouWantSome",
+    "id": "01JV5DJJWF5TQZDB2S26MGDV6R",
+    "img_url": "https://cdn.7tv.app/emote/01JV5DJJWF5TQZDB2S26MGDV6R/1x.webp",
+    "page_url": "https://7tv.app/emotes/01JV5DJJWF5TQZDB2S26MGDV6R",
     "type": "7TV"
   },
   {
