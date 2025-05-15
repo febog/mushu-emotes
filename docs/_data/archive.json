@@ -273,6 +273,13 @@
     "type": "7TV"
   },
   {
+    "name": "!join",
+    "id": "01J5Y7GJR00002EA4N4W7AGE14",
+    "img_url": "https://cdn.7tv.app/emote/01J5Y7GJR00002EA4N4W7AGE14/1x.webp",
+    "page_url": "https://7tv.app/emotes/01J5Y7GJR00002EA4N4W7AGE14",
+    "type": "7TV"
+  },
+  {
     "name": "!nelson",
     "id": "01HPJVCQQ8000D7CDG3FWMSAVT",
     "img_url": "https://cdn.7tv.app/emote/01HPJVCQQ8000D7CDG3FWMSAVT/1x.webp",
@@ -809,6 +816,13 @@
     "id": "6151f0e56251d7e000dad0ca",
     "img_url": "https://cdn.7tv.app/emote/6151f0e56251d7e000dad0ca/1x.webp",
     "page_url": "https://7tv.app/emotes/6151f0e56251d7e000dad0ca",
+    "type": "7TV"
+  },
+  {
+    "name": "AlienPls",
+    "id": "01FCDR4GWR000DADA0TPND25CM",
+    "img_url": "https://cdn.7tv.app/emote/01FCDR4GWR000DADA0TPND25CM/1x.webp",
+    "page_url": "https://7tv.app/emotes/01FCDR4GWR000DADA0TPND25CM",
     "type": "7TV"
   },
   {
