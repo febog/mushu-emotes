@@ -588,6 +588,13 @@
     "type": "7TV"
   },
   {
+    "name": "BedgeMad",
+    "id": "01GCE7VYWG0004KGVJA52HCD4P",
+    "img_url": "https://cdn.7tv.app/emote/01GCE7VYWG0004KGVJA52HCD4P/1x.webp",
+    "page_url": "https://7tv.app/emotes/01GCE7VYWG0004KGVJA52HCD4P",
+    "type": "7TV"
+  },
+  {
     "name": "BEGGING",
     "id": "01GMEY4G280001D82B17P2BXJT",
     "img_url": "https://cdn.7tv.app/emote/01GMEY4G280001D82B17P2BXJT/1x.webp",
@@ -2748,6 +2755,13 @@
     "id": "01F8NJN8B00007VEPC1DYNRF3D",
     "img_url": "https://cdn.7tv.app/emote/01F8NJN8B00007VEPC1DYNRF3D/1x.webp",
     "page_url": "https://7tv.app/emotes/01F8NJN8B00007VEPC1DYNRF3D",
+    "type": "7TV"
+  },
+  {
+    "name": "lebronLeave",
+    "id": "01GZPPQ0XR000333Z01EWGGPN0",
+    "img_url": "https://cdn.7tv.app/emote/01GZPPQ0XR000333Z01EWGGPN0/1x.webp",
+    "page_url": "https://7tv.app/emotes/01GZPPQ0XR000333Z01EWGGPN0",
     "type": "7TV"
   },
   {
