@@ -1603,6 +1603,13 @@
     "type": "7TV"
   },
   {
+    "name": "EveNod",
+    "id": "01JY98QNNPC3PD04A4A41T1AQF",
+    "img_url": "https://cdn.7tv.app/emote/01JY98QNNPC3PD04A4A41T1AQF/1x.webp",
+    "page_url": "https://7tv.app/emotes/01JY98QNNPC3PD04A4A41T1AQF",
+    "type": "7TV"
+  },
+  {
     "name": "Evilge",
     "id": "01FW6R4RHR0005X0GSGVKFJG5R",
     "img_url": "https://cdn.7tv.app/emote/01FW6R4RHR0005X0GSGVKFJG5R/1x.webp",
@@ -1880,6 +1887,13 @@
     "id": "01H5WP0VDG0001VN9PVKA20GWN",
     "img_url": "https://cdn.7tv.app/emote/01H5WP0VDG0001VN9PVKA20GWN/1x.webp",
     "page_url": "https://7tv.app/emotes/01H5WP0VDG0001VN9PVKA20GWN",
+    "type": "7TV"
+  },
+  {
+    "name": "fuckyoufuckyou",
+    "id": "01JYPNQG5SGR7WH0HSHYD4KPGS",
+    "img_url": "https://cdn.7tv.app/emote/01JYPNQG5SGR7WH0HSHYD4KPGS/1x.webp",
+    "page_url": "https://7tv.app/emotes/01JYPNQG5SGR7WH0HSHYD4KPGS",
     "type": "7TV"
   },
   {
@@ -2279,6 +2293,13 @@
     "id": "01FHCTN2B800002G6F4DPAG823",
     "img_url": "https://cdn.7tv.app/emote/01FHCTN2B800002G6F4DPAG823/1x.webp",
     "page_url": "https://7tv.app/emotes/01FHCTN2B800002G6F4DPAG823",
+    "type": "7TV"
+  },
+  {
+    "name": "HOLDING",
+    "id": "01J7C838H0000CKHTDYB3MBM3V",
+    "img_url": "https://cdn.7tv.app/emote/01J7C838H0000CKHTDYB3MBM3V/1x.webp",
+    "page_url": "https://7tv.app/emotes/01J7C838H0000CKHTDYB3MBM3V",
     "type": "7TV"
   },
   {
@@ -3036,6 +3057,13 @@
     "img_url": "https://cdn.betterttv.net/emote/61121c9d76ea4e2b9f765d8e/1x",
     "page_url": "https://betterttv.com/emotes/61121c9d76ea4e2b9f765d8e",
     "type": "BTTV"
+  },
+  {
+    "name": "MAXWIN",
+    "id": "01HDBXE2Z800052WSYAAMCKPRB",
+    "img_url": "https://cdn.7tv.app/emote/01HDBXE2Z800052WSYAAMCKPRB/1x.webp",
+    "page_url": "https://7tv.app/emotes/01HDBXE2Z800052WSYAAMCKPRB",
+    "type": "7TV"
   },
   {
     "name": "mcMolly",
