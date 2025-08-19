@@ -889,6 +889,13 @@
     "type": "7TV"
   },
   {
+    "name": "catGag",
+    "id": "01GB4SMZ180004ZBZEDT30HDEJ",
+    "img_url": "https://cdn.7tv.app/emote/01GB4SMZ180004ZBZEDT30HDEJ/1x.webp",
+    "page_url": "https://7tv.app/emotes/01GB4SMZ180004ZBZEDT30HDEJ",
+    "type": "7TV"
+  },
+  {
     "name": "catJAM",
     "id": "01GDNSS2W80002SYXSRJMSAXCH",
     "img_url": "https://cdn.7tv.app/emote/01GDNSS2W80002SYXSRJMSAXCH/1x.webp",
@@ -1057,7 +1064,7 @@
     "type": "7TV"
   },
   {
-    "name": "classic",
+    "name": "Classic",
     "id": "01GBPSCGR00007Q17796BDN5AJ",
     "img_url": "https://cdn.7tv.app/emote/01GBPSCGR00007Q17796BDN5AJ/1x.webp",
     "page_url": "https://7tv.app/emotes/01GBPSCGR00007Q17796BDN5AJ",
@@ -2191,6 +2198,13 @@
     "type": "7TV"
   },
   {
+    "name": "Gwenting",
+    "id": "01G62AB28G0008JMMMWZ5BDGFR",
+    "img_url": "https://cdn.7tv.app/emote/01G62AB28G0008JMMMWZ5BDGFR/1x.webp",
+    "page_url": "https://7tv.app/emotes/01G62AB28G0008JMMMWZ5BDGFR",
+    "type": "7TV"
+  },
+  {
     "name": "HackerShu",
     "id": "6112213a76ea4e2b9f765e11",
     "img_url": "https://cdn.betterttv.net/emote/6112213a76ea4e2b9f765e11/1x",
@@ -3290,6 +3304,13 @@
     "type": "7TV"
   },
   {
+    "name": "monkaCards",
+    "id": "01FT1YZED800001582V1DYA4B9",
+    "img_url": "https://cdn.7tv.app/emote/01FT1YZED800001582V1DYA4B9/1x.webp",
+    "page_url": "https://7tv.app/emotes/01FT1YZED800001582V1DYA4B9",
+    "type": "7TV"
+  },
+  {
     "name": "monkaChrist",
     "id": "01FDNDJN380006SC5NBG2SYPBG",
     "img_url": "https://cdn.7tv.app/emote/01FDNDJN380006SC5NBG2SYPBG/1x.webp",
@@ -4235,6 +4256,13 @@
     "type": "7TV"
   },
   {
+    "name": "neowRide",
+    "id": "01J55KXER00004T9N89VMKKPSZ",
+    "img_url": "https://cdn.7tv.app/emote/01J55KXER00004T9N89VMKKPSZ/1x.webp",
+    "page_url": "https://7tv.app/emotes/01J55KXER00004T9N89VMKKPSZ",
+    "type": "7TV"
+  },
+  {
     "name": "Nerdge",
     "id": "01F9Q9PA100009VDTF4G64R32V",
     "img_url": "https://cdn.7tv.app/emote/01F9Q9PA100009VDTF4G64R32V/1x.webp",
@@ -4260,6 +4288,13 @@
     "id": "01GDGJHQQ00005G87496Q4TA8B",
     "img_url": "https://cdn.7tv.app/emote/01GDGJHQQ00005G87496Q4TA8B/1x.webp",
     "page_url": "https://7tv.app/emotes/01GDGJHQQ00005G87496Q4TA8B",
+    "type": "7TV"
+  },
+  {
+    "name": "nobyou",
+    "id": "01HFXFW4T8000FGQNKBKP4D3AT",
+    "img_url": "https://cdn.7tv.app/emote/01HFXFW4T8000FGQNKBKP4D3AT/1x.webp",
+    "page_url": "https://7tv.app/emotes/01HFXFW4T8000FGQNKBKP4D3AT",
     "type": "7TV"
   },
   {
@@ -5492,6 +5527,13 @@
     "id": "01FKBZKHDR000E100ZQ63RH82B",
     "img_url": "https://cdn.7tv.app/emote/01FKBZKHDR000E100ZQ63RH82B/1x.webp",
     "page_url": "https://7tv.app/emotes/01FKBZKHDR000E100ZQ63RH82B",
+    "type": "7TV"
+  },
+  {
+    "name": "PETTHEHOUSE",
+    "id": "01GCE2AM2R0008W6X8ZXQC354H",
+    "img_url": "https://cdn.7tv.app/emote/01GCE2AM2R0008W6X8ZXQC354H/1x.webp",
+    "page_url": "https://7tv.app/emotes/01GCE2AM2R0008W6X8ZXQC354H",
     "type": "7TV"
   },
   {
