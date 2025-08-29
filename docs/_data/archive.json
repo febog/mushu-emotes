@@ -826,6 +826,13 @@
     "type": "7TV"
   },
   {
+    "name": "AlertedGuards",
+    "id": "01GSGETX30000EY60V5FZCCY99",
+    "img_url": "https://cdn.7tv.app/emote/01GSGETX30000EY60V5FZCCY99/1x.webp",
+    "page_url": "https://7tv.app/emotes/01GSGETX30000EY60V5FZCCY99",
+    "type": "7TV"
+  },
+  {
     "name": "AlienDance",
     "id": "01FGM19ZM800064MEQW00DNM6A",
     "img_url": "https://cdn.7tv.app/emote/01FGM19ZM800064MEQW00DNM6A/1x.webp",
@@ -10563,6 +10570,13 @@
     "type": "7TV"
   },
   {
+    "name": "Kerotan",
+    "id": "01J13A10XR0007V3XDXSYQEX03",
+    "img_url": "https://cdn.7tv.app/emote/01J13A10XR0007V3XDXSYQEX03/1x.webp",
+    "page_url": "https://7tv.app/emotes/01J13A10XR0007V3XDXSYQEX03",
+    "type": "7TV"
+  },
+  {
     "name": "KEWK",
     "id": "01FDPTSXK8000CM9KGHJPMM2FH",
     "img_url": "https://cdn.7tv.app/emote/01FDPTSXK8000CM9KGHJPMM2FH/1x.webp",
@@ -10735,6 +10749,13 @@
     "id": "620240f39454ca602315d82e",
     "img_url": "https://cdn.7tv.app/emote/620240f39454ca602315d82e/1x.webp",
     "page_url": "https://7tv.app/emotes/620240f39454ca602315d82e",
+    "type": "7TV"
+  },
+  {
+    "name": "KOJIMA",
+    "id": "01HYKVVAG00003K02JFQ57189H",
+    "img_url": "https://cdn.7tv.app/emote/01HYKVVAG00003K02JFQ57189H/1x.webp",
+    "page_url": "https://7tv.app/emotes/01HYKVVAG00003K02JFQ57189H",
     "type": "7TV"
   },
   {
@@ -11680,6 +11701,13 @@
     "id": "636d3be8d3d0aeaa87044f5f",
     "img_url": "https://cdn.7tv.app/emote/636d3be8d3d0aeaa87044f5f/1x.webp",
     "page_url": "https://7tv.app/emotes/636d3be8d3d0aeaa87044f5f",
+    "type": "7TV"
+  },
+  {
+    "name": "LootShake",
+    "id": "01J79Z11980000R8ARQ63586CP",
+    "img_url": "https://cdn.7tv.app/emote/01J79Z11980000R8ARQ63586CP/1x.webp",
+    "page_url": "https://7tv.app/emotes/01J79Z11980000R8ARQ63586CP",
     "type": "7TV"
   },
   {
@@ -13234,6 +13262,13 @@
     "id": "63a1f3046be3d808016b5ccc",
     "img_url": "https://cdn.7tv.app/emote/63a1f3046be3d808016b5ccc/1x.webp",
     "page_url": "https://7tv.app/emotes/63a1f3046be3d808016b5ccc",
+    "type": "7TV"
+  },
+  {
+    "name": "monkaStealth",
+    "id": "01H3GNZDBG0007DM0R1G9PJ7QD",
+    "img_url": "https://cdn.7tv.app/emote/01H3GNZDBG0007DM0R1G9PJ7QD/1x.webp",
+    "page_url": "https://7tv.app/emotes/01H3GNZDBG0007DM0R1G9PJ7QD",
     "type": "7TV"
   },
   {
@@ -21742,6 +21777,13 @@
     "type": "7TV"
   },
   {
+    "name": "POWERWASHING",
+    "id": "01H5MZPB60000FZB3GRZ3RATQR",
+    "img_url": "https://cdn.7tv.app/emote/01H5MZPB60000FZB3GRZ3RATQR/1x.webp",
+    "page_url": "https://7tv.app/emotes/01H5MZPB60000FZB3GRZ3RATQR",
+    "type": "7TV"
+  },
+  {
     "name": "ppAAAA",
     "id": "01HZ54VDWG000A9JQ25Y1DHBM7",
     "img_url": "https://cdn.7tv.app/emote/01HZ54VDWG000A9JQ25Y1DHBM7/1x.webp",
@@ -22285,6 +22327,13 @@
     "id": "648894c47aa5801432b41e14",
     "img_url": "https://cdn.7tv.app/emote/648894c47aa5801432b41e14/1x.webp",
     "page_url": "https://7tv.app/emotes/648894c47aa5801432b41e14",
+    "type": "7TV"
+  },
+  {
+    "name": "Quentoni",
+    "id": "01G5E1D3GR000C9678DTQNVTHK",
+    "img_url": "https://cdn.7tv.app/emote/01G5E1D3GR000C9678DTQNVTHK/1x.webp",
+    "page_url": "https://7tv.app/emotes/01G5E1D3GR000C9678DTQNVTHK",
     "type": "7TV"
   },
   {
@@ -26534,6 +26583,13 @@
     "id": "01GD0T717R0009WZG6XN9Q3EA3",
     "img_url": "https://cdn.7tv.app/emote/01GD0T717R0009WZG6XN9Q3EA3/1x.webp",
     "page_url": "https://7tv.app/emotes/01GD0T717R0009WZG6XN9Q3EA3",
+    "type": "7TV"
+  },
+  {
+    "name": "WeirdEscalator",
+    "id": "01J51JY8E0000FXZ59PB5ZJEJ1",
+    "img_url": "https://cdn.7tv.app/emote/01J51JY8E0000FXZ59PB5ZJEJ1/1x.webp",
+    "page_url": "https://7tv.app/emotes/01J51JY8E0000FXZ59PB5ZJEJ1",
     "type": "7TV"
   },
   {
