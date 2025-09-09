@@ -1330,6 +1330,13 @@
     "type": "7TV"
   },
   {
+    "name": "DEPLOY",
+    "id": "01H5R5MTK80008733GNSZ7WFP9",
+    "img_url": "https://cdn.7tv.app/emote/01H5R5MTK80008733GNSZ7WFP9/1x.webp",
+    "page_url": "https://7tv.app/emotes/01H5R5MTK80008733GNSZ7WFP9",
+    "type": "7TV"
+  },
+  {
     "name": "Derp",
     "id": "01GKPGQQQ8000AS7794R72RHKZ",
     "img_url": "https://cdn.7tv.app/emote/01GKPGQQQ8000AS7794R72RHKZ/1x.webp",
@@ -2916,6 +2923,13 @@
     "id": "01FT0SJFNR0001M6SADSSJ9P4Q",
     "img_url": "https://cdn.7tv.app/emote/01FT0SJFNR0001M6SADSSJ9P4Q/1x.webp",
     "page_url": "https://7tv.app/emotes/01FT0SJFNR0001M6SADSSJ9P4Q",
+    "type": "7TV"
+  },
+  {
+    "name": "Lightbulb",
+    "id": "01H30WCTGG000DQPHSR44GD3SV",
+    "img_url": "https://cdn.7tv.app/emote/01H30WCTGG000DQPHSR44GD3SV/1x.webp",
+    "page_url": "https://7tv.app/emotes/01H30WCTGG000DQPHSR44GD3SV",
     "type": "7TV"
   },
   {
@@ -6167,7 +6181,7 @@
     "type": "7TV"
   },
   {
-    "name": "shush",
+    "name": "Shush",
     "id": "01F9G1Q6Z0000E0F0BJY6G9HAX",
     "img_url": "https://cdn.7tv.app/emote/01F9G1Q6Z0000E0F0BJY6G9HAX/1x.webp",
     "page_url": "https://7tv.app/emotes/01F9G1Q6Z0000E0F0BJY6G9HAX",

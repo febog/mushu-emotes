@@ -5201,6 +5201,13 @@
     "type": "7TV"
   },
   {
+    "name": "DEPLOY",
+    "id": "01H5R5MTK80008733GNSZ7WFP9",
+    "img_url": "https://cdn.7tv.app/emote/01H5R5MTK80008733GNSZ7WFP9/1x.webp",
+    "page_url": "https://7tv.app/emotes/01H5R5MTK80008733GNSZ7WFP9",
+    "type": "7TV"
+  },
+  {
     "name": "depressed",
     "id": "632b09d261c6bb90cba4a858",
     "img_url": "https://cdn.7tv.app/emote/632b09d261c6bb90cba4a858/1x.webp",
@@ -11498,6 +11505,13 @@
     "id": "64de57da6503f02368265ee3",
     "img_url": "https://cdn.7tv.app/emote/64de57da6503f02368265ee3/1x.webp",
     "page_url": "https://7tv.app/emotes/64de57da6503f02368265ee3",
+    "type": "7TV"
+  },
+  {
+    "name": "Lightbulb",
+    "id": "01H30WCTGG000DQPHSR44GD3SV",
+    "img_url": "https://cdn.7tv.app/emote/01H30WCTGG000DQPHSR44GD3SV/1x.webp",
+    "page_url": "https://7tv.app/emotes/01H30WCTGG000DQPHSR44GD3SV",
     "type": "7TV"
   },
   {
