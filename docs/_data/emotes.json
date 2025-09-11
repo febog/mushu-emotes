@@ -1330,13 +1330,6 @@
     "type": "7TV"
   },
   {
-    "name": "DEPLOY",
-    "id": "01H5R5MTK80008733GNSZ7WFP9",
-    "img_url": "https://cdn.7tv.app/emote/01H5R5MTK80008733GNSZ7WFP9/1x.webp",
-    "page_url": "https://7tv.app/emotes/01H5R5MTK80008733GNSZ7WFP9",
-    "type": "7TV"
-  },
-  {
     "name": "Derp",
     "id": "01GKPGQQQ8000AS7794R72RHKZ",
     "img_url": "https://cdn.7tv.app/emote/01GKPGQQQ8000AS7794R72RHKZ/1x.webp",
@@ -3091,6 +3084,13 @@
     "id": "01H26E88A80002HDS6GKGJ4BN3",
     "img_url": "https://cdn.7tv.app/emote/01H26E88A80002HDS6GKGJ4BN3/1x.webp",
     "page_url": "https://7tv.app/emotes/01H26E88A80002HDS6GKGJ4BN3",
+    "type": "7TV"
+  },
+  {
+    "name": "MaN",
+    "id": "01F2X7D5C8000DSBG200DM9S97",
+    "img_url": "https://cdn.7tv.app/emote/01F2X7D5C8000DSBG200DM9S97/1x.webp",
+    "page_url": "https://7tv.app/emotes/01F2X7D5C8000DSBG200DM9S97",
     "type": "7TV"
   },
   {
@@ -6745,6 +6745,13 @@
     "id": "01JQF6K5Q7CX9KZ1SME9JSENB0",
     "img_url": "https://cdn.7tv.app/emote/01JQF6K5Q7CX9KZ1SME9JSENB0/1x.webp",
     "page_url": "https://7tv.app/emotes/01JQF6K5Q7CX9KZ1SME9JSENB0",
+    "type": "7TV"
+  },
+  {
+    "name": "vergil",
+    "id": "01GWXRWHZ80003FNY1VYZD65PV",
+    "img_url": "https://cdn.7tv.app/emote/01GWXRWHZ80003FNY1VYZD65PV/1x.webp",
+    "page_url": "https://7tv.app/emotes/01GWXRWHZ80003FNY1VYZD65PV",
     "type": "7TV"
   },
   {
