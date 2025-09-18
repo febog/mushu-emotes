@@ -2373,6 +2373,13 @@
     "type": "7TV"
   },
   {
+    "name": "ICANT",
+    "id": "01F6MG1HPR0009K1N00D4GG63Z",
+    "img_url": "https://cdn.7tv.app/emote/01F6MG1HPR0009K1N00D4GG63Z/1x.webp",
+    "page_url": "https://7tv.app/emotes/01F6MG1HPR0009K1N00D4GG63Z",
+    "type": "7TV"
+  },
+  {
     "name": "Igotmyeyesonyou",
     "id": "01G6PQWTG0000AZHM5CT7YKDQE",
     "img_url": "https://cdn.7tv.app/emote/01G6PQWTG0000AZHM5CT7YKDQE/1x.webp",
@@ -6640,6 +6647,13 @@
     "id": "01F6M697J8000B5V5G2M2WDXMX",
     "img_url": "https://cdn.7tv.app/emote/01F6M697J8000B5V5G2M2WDXMX/1x.webp",
     "page_url": "https://7tv.app/emotes/01F6M697J8000B5V5G2M2WDXMX",
+    "type": "7TV"
+  },
+  {
+    "name": "wahoo",
+    "id": "01J7AE2GGG000D5F2BC1GSHDYY",
+    "img_url": "https://cdn.7tv.app/emote/01J7AE2GGG000D5F2BC1GSHDYY/1x.webp",
+    "page_url": "https://7tv.app/emotes/01J7AE2GGG000D5F2BC1GSHDYY",
     "type": "7TV"
   },
   {
