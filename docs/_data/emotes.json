@@ -2380,13 +2380,6 @@
     "type": "7TV"
   },
   {
-    "name": "iamlooking",
-    "id": "01GT0HEYM800009S59ZP7E3785",
-    "img_url": "https://cdn.7tv.app/emote/01GT0HEYM800009S59ZP7E3785/1x.webp",
-    "page_url": "https://7tv.app/emotes/01GT0HEYM800009S59ZP7E3785",
-    "type": "7TV"
-  },
-  {
     "name": "IASKED",
     "id": "01FA164M0R000BPVR85KWP08Q9",
     "img_url": "https://cdn.7tv.app/emote/01FA164M0R000BPVR85KWP08Q9/1x.webp",
@@ -6815,6 +6808,13 @@
     "id": "01GG87XVQ800053782GGMMG7NW",
     "img_url": "https://cdn.7tv.app/emote/01GG87XVQ800053782GGMMG7NW/1x.webp",
     "page_url": "https://7tv.app/emotes/01GG87XVQ800053782GGMMG7NW",
+    "type": "7TV"
+  },
+  {
+    "name": "wellwellwell",
+    "id": "01H4PCWN7R0006QYYEV7C3EPFZ",
+    "img_url": "https://cdn.7tv.app/emote/01H4PCWN7R0006QYYEV7C3EPFZ/1x.webp",
+    "page_url": "https://7tv.app/emotes/01H4PCWN7R0006QYYEV7C3EPFZ",
     "type": "7TV"
   },
   {
