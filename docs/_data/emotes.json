@@ -3297,13 +3297,6 @@
     "type": "7TV"
   },
   {
-    "name": "monkaEyes",
-    "id": 268204,
-    "img_url": "https://cdn.frankerfacez.com/emote/268204/1",
-    "page_url": "https://www.frankerfacez.com/emoticon/268204-monkaEyes",
-    "type": "FFZ"
-  },
-  {
     "name": "monkaGIGA",
     "id": 183221,
     "img_url": "https://cdn.frankerfacez.com/emote/183221/1",
@@ -5787,13 +5780,6 @@
     "img_url": "https://cdn.7tv.app/emote/01GD0KFESR000FR6FMGA73Z2TY/1x.webp",
     "page_url": "https://7tv.app/emotes/01GD0KFESR000FR6FMGA73Z2TY",
     "type": "7TV"
-  },
-  {
-    "name": "ppHop",
-    "id": "600f66f7f5d29f65e86d9153",
-    "img_url": "https://cdn.betterttv.net/emote/600f66f7f5d29f65e86d9153/1x",
-    "page_url": "https://betterttv.com/emotes/600f66f7f5d29f65e86d9153",
-    "type": "BTTV"
   },
   {
     "name": "ppJedi",
