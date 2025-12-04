@@ -490,6 +490,13 @@
     "type": "7TV"
   },
   {
+    "name": "BANNED",
+    "id": "01F7ZQAD9G000A5269J8RC2PJW",
+    "img_url": "https://cdn.7tv.app/emote/01F7ZQAD9G000A5269J8RC2PJW/1x.webp",
+    "page_url": "https://7tv.app/emotes/01F7ZQAD9G000A5269J8RC2PJW",
+    "type": "7TV"
+  },
+  {
     "name": "barack",
     "id": "01H0BKP1B0000E1353REJ94SEZ",
     "img_url": "https://cdn.7tv.app/emote/01H0BKP1B0000E1353REJ94SEZ/1x.webp",
@@ -2156,6 +2163,13 @@
     "type": "7TV"
   },
   {
+    "name": "HenrySmash",
+    "id": "01GNZD537G000FN9VX6M73VYJ4",
+    "img_url": "https://cdn.7tv.app/emote/01GNZD537G000FN9VX6M73VYJ4/1x.webp",
+    "page_url": "https://7tv.app/emotes/01GNZD537G000FN9VX6M73VYJ4",
+    "type": "7TV"
+  },
+  {
     "name": "HeyHeyHeyCat",
     "id": "01HRFBX9VR0005KK6XA1GAPYZ5",
     "img_url": "https://cdn.7tv.app/emote/01HRFBX9VR0005KK6XA1GAPYZ5/1x.webp",
@@ -2482,13 +2496,6 @@
     "id": "01GWF3Q8680002D39WVF5R4E01",
     "img_url": "https://cdn.7tv.app/emote/01GWF3Q8680002D39WVF5R4E01/1x.webp",
     "page_url": "https://7tv.app/emotes/01GWF3Q8680002D39WVF5R4E01",
-    "type": "7TV"
-  },
-  {
-    "name": "keepBeingMean",
-    "id": "01GQK7CBMR0002K9QRAEPYHXK7",
-    "img_url": "https://cdn.7tv.app/emote/01GQK7CBMR0002K9QRAEPYHXK7/1x.webp",
-    "page_url": "https://7tv.app/emotes/01GQK7CBMR0002K9QRAEPYHXK7",
     "type": "7TV"
   },
   {
@@ -3507,6 +3514,13 @@
     "type": "7TV"
   },
   {
+    "name": "mushuFistPump",
+    "id": "01KAP53RWT5NRJTDJ0DEHH029N",
+    "img_url": "https://cdn.7tv.app/emote/01KAP53RWT5NRJTDJ0DEHH029N/1x.webp",
+    "page_url": "https://7tv.app/emotes/01KAP53RWT5NRJTDJ0DEHH029N",
+    "type": "7TV"
+  },
+  {
     "name": "mushuFlag",
     "id": "01H9418NJR00025D2FEX32RFS8",
     "img_url": "https://cdn.7tv.app/emote/01H9418NJR00025D2FEX32RFS8/1x.webp",
@@ -4200,13 +4214,6 @@
     "type": "7TV"
   },
   {
-    "name": "NoThanks",
-    "id": "01GJAZMJGR0006PSRGCTTT59E1",
-    "img_url": "https://cdn.7tv.app/emote/01GJAZMJGR0006PSRGCTTT59E1/1x.webp",
-    "page_url": "https://7tv.app/emotes/01GJAZMJGR0006PSRGCTTT59E1",
-    "type": "7TV"
-  },
-  {
     "name": "notListening",
     "id": "01GHY2N21800025VZ4E5FVRZKW",
     "img_url": "https://cdn.7tv.app/emote/01GHY2N21800025VZ4E5FVRZKW/1x.webp",
@@ -4421,13 +4428,6 @@
     "id": "01HZ05CPS00001WWQ8ZKWKNRXT",
     "img_url": "https://cdn.7tv.app/emote/01HZ05CPS00001WWQ8ZKWKNRXT/1x.webp",
     "page_url": "https://7tv.app/emotes/01HZ05CPS00001WWQ8ZKWKNRXT",
-    "type": "7TV"
-  },
-  {
-    "name": "owoCheer",
-    "id": "01HC4ZX44000010Z57ZSET3RXF",
-    "img_url": "https://cdn.7tv.app/emote/01HC4ZX44000010Z57ZSET3RXF/1x.webp",
-    "page_url": "https://7tv.app/emotes/01HC4ZX44000010Z57ZSET3RXF",
     "type": "7TV"
   },
   {
@@ -5446,6 +5446,13 @@
     "type": "7TV"
   },
   {
+    "name": "PETTHEDEVIN",
+    "id": "01K9ZMCAWEZ8PJWRDBVRVES5XH",
+    "img_url": "https://cdn.7tv.app/emote/01K9ZMCAWEZ8PJWRDBVRVES5XH/1x.webp",
+    "page_url": "https://7tv.app/emotes/01K9ZMCAWEZ8PJWRDBVRVES5XH",
+    "type": "7TV"
+  },
+  {
     "name": "PETTHEMODS",
     "id": "01F6NNC48R000AAS5FM9Q1Q7W6",
     "img_url": "https://cdn.7tv.app/emote/01F6NNC48R000AAS5FM9Q1Q7W6/1x.webp",
@@ -5604,13 +5611,6 @@
     "id": "01F8AF3S7R000F84FWMEXXMJ7W",
     "img_url": "https://cdn.7tv.app/emote/01F8AF3S7R000F84FWMEXXMJ7W/1x.webp",
     "page_url": "https://7tv.app/emotes/01F8AF3S7R000F84FWMEXXMJ7W",
-    "type": "7TV"
-  },
-  {
-    "name": "Pointless",
-    "id": "01HEJYYE00000CYP3D2B72XCT6",
-    "img_url": "https://cdn.7tv.app/emote/01HEJYYE00000CYP3D2B72XCT6/1x.webp",
-    "page_url": "https://7tv.app/emotes/01HEJYYE00000CYP3D2B72XCT6",
     "type": "7TV"
   },
   {
@@ -5835,13 +5835,6 @@
     "id": "01F6N5W280000255K4X1KBRXCG",
     "img_url": "https://cdn.7tv.app/emote/01F6N5W280000255K4X1KBRXCG/1x.webp",
     "page_url": "https://7tv.app/emotes/01F6N5W280000255K4X1KBRXCG",
-    "type": "7TV"
-  },
-  {
-    "name": "rar",
-    "id": "01HFBC8HC800030WBP0NCZ2AYX",
-    "img_url": "https://cdn.7tv.app/emote/01HFBC8HC800030WBP0NCZ2AYX/1x.webp",
-    "page_url": "https://7tv.app/emotes/01HFBC8HC800030WBP0NCZ2AYX",
     "type": "7TV"
   },
   {
