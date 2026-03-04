@@ -4,14 +4,13 @@
       <label for="table-search-input">Search:</label>
     </div>
     <div class="col-12 flex-grow-1">
-      <input type="search" class="form-control" id="table-search-input" placeholder="Filter the table..."
-             oninput="filterTable()">
+      <input type="search" class="form-control" id="table-search-input" placeholder="Filter the table...">
     </div>
   </form>
 </search>
 
 <table class="table caption-top" id="emote-table">
-  <caption>Showing <span id="visible-emote-count">{{ include.emotes.size }}</span> emotes of {{ include.emotes.size }}.</caption>
+  <caption>Showing <span id="visible-emotes-counter">{{ include.emotes.size }}</span> emotes of {{ include.emotes.size }}.</caption>
   <thead>
     <tr>
       {% if include.show_thumbnails %}
