@@ -1,4 +1,5 @@
-require("dotenv").config();
+import { loadEnvFile } from 'node:process';
+loadEnvFile();
 const fs = require("fs");
 
 // Paths for storing results
