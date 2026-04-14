@@ -1,6 +1,6 @@
 import { loadEnvFile } from 'node:process';
 loadEnvFile();
-const fs = require("fs");
+import fs from "fs/promises";
 
 // Paths for storing results
 const EMOTE_LIST_PATH = "docs/_data/emotes.json";

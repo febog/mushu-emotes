@@ -2,6 +2,7 @@
   "name": "mushu-emotes",
   "version": "2.0.0",
   "description": "Emote tracker for Mushu channel",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "",
