@@ -4872,6 +4872,13 @@
     "type": "7TV"
   },
   {
+    "name": "peepoJail",
+    "id": "01J8XNRW8R0009MAMR2DZMHYVK",
+    "img_url": "https://cdn.7tv.app/emote/01J8XNRW8R0009MAMR2DZMHYVK/1x.webp",
+    "page_url": "https://7tv.app/emotes/01J8XNRW8R0009MAMR2DZMHYVK",
+    "type": "7TV"
+  },
+  {
     "name": "peepoJuice",
     "id": "01GET2C0680009AX18SNGDHKV2",
     "img_url": "https://cdn.7tv.app/emote/01GET2C0680009AX18SNGDHKV2/1x.webp",
@@ -7249,6 +7256,13 @@
     "id": "01GEHDKFZR000A2XSM9X91YSWF",
     "img_url": "https://cdn.7tv.app/emote/01GEHDKFZR000A2XSM9X91YSWF/1x.webp",
     "page_url": "https://7tv.app/emotes/01GEHDKFZR000A2XSM9X91YSWF",
+    "type": "7TV"
+  },
+  {
+    "name": "Zoltan",
+    "id": "01J4C35RYG000D6Z8P187008JB",
+    "img_url": "https://cdn.7tv.app/emote/01J4C35RYG000D6Z8P187008JB/1x.webp",
+    "page_url": "https://7tv.app/emotes/01J4C35RYG000D6Z8P187008JB",
     "type": "7TV"
   }
 ]
